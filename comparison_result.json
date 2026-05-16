@@ -1,0 +1,16 @@
+{
+  "cell": {
+    "nodes": 5,
+    "edges": 10,
+    "clustering": 1.0,
+    "density": 1.0,
+    "mean_degree": 4.0
+  },
+  "galaxy": {
+    "nodes": 4997,
+    "edges": 33808,
+    "clustering": 0.6945,
+    "density": 0.0027,
+    "mean_degree": 13.53
+  }
+}

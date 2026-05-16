@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d1" for="node" attr.name="fraction" attr.type="double" />
+  <key id="d0" for="node" attr.name="count" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="membrane">
+      <data key="d0">55092</data>
+      <data key="d1">0.0032837390899658203</data>
+    </node>
+    <node id="organelle">
+      <data key="d0">12124</data>
+      <data key="d1">0.0007226467132568359</data>
+    </node>
+    <node id="dense">
+      <data key="d0">477</data>
+      <data key="d1">2.8431415557861328e-05</data>
+    </node>
+    <node id="cytoplasm">
+      <data key="d0">16415069</data>
+      <data key="d1">0.9784143567085266</data>
+    </node>
+    <node id="void">
+      <data key="d0">294453</data>
+      <data key="d1">0.017550766468048096</data>
+    </node>
+    <edge source="membrane" target="organelle">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="membrane" target="dense">
+      <data key="d2">0.5</data>
+    </edge>
+    <edge source="membrane" target="cytoplasm">
+      <data key="d2">0.5</data>
+    </edge>
+    <edge source="membrane" target="void">
+      <data key="d2">0.5</data>
+    </edge>
+    <edge source="organelle" target="dense">
+      <data key="d2">0.5</data>
+    </edge>
+    <edge source="organelle" target="cytoplasm">
+      <data key="d2">0.5</data>
+    </edge>
+    <edge source="organelle" target="void">
+      <data key="d2">0.5</data>
+    </edge>
+    <edge source="dense" target="cytoplasm">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="dense" target="void">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="cytoplasm" target="void">
+      <data key="d2">1.0</data>
+    </edge>
+  </graph>
+</graphml>
