@@ -1,0 +1,10 @@
+{
+  "nodes": 138,
+  "edges": 405,
+  "clustering": 0.1402,
+  "density": 0.0428,
+  "mean_degree": 5.87,
+  "spectral_mean": 1.0,
+  "spectral_std": 0.38374,
+  "source": "Allen Brain Atlas"
+}

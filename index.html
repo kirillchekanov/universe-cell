@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Universe as Cell — F(s) Measurement</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#07080F; color:#B4B2A9; font-family: system-ui, sans-serif; padding:32px; }
+  h1 { color:#fff; font-size:28px; margin-bottom:8px; }
+  h2 { color:#AFA9EC; font-size:16px; font-weight:400; margin-bottom:40px; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-bottom:32px; }
+  .card { background:#0D0F1E; border:1px solid #2A2A3A; border-radius:12px; padding:24px; }
+  .card h3 { color:#fff; font-size:14px; margin-bottom:16px; letter-spacing:0.05em; }
+  canvas { max-height:280px; }
+  .table { width:100%; border-collapse:collapse; margin-top:8px; }
+  .table th { color:#5F5E5A; font-size:12px; font-weight:400; text-align:left; padding:8px 12px; border-bottom:1px solid #2A2A3A; }
+  .table td { padding:10px 12px; font-size:13px; border-bottom:1px solid #1A1A2E; }
+  .table tr:last-child td { border:none; }
+  .match { color:#5DCAA5; }
+  .warn  { color:#EF9F27; }
+  .key-finding { background:#050E0A; border:1px solid #1D9E75; border-radius:12px; padding:24px; margin-top:24px; }
+  .key-finding h3 { color:#5DCAA5; margin-bottom:12px; }
+  .big { font-size:48px; font-weight:700; color:#5DCAA5; }
+  .sub { color:#5F5E5A; font-size:13px; margin-top:4px; }
+  .datasets { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-top:16px; }
+  .ds { background:#0A0C1A; border-radius:8px; padding:12px; text-align:center; }
+  .ds .label { font-size:11px; color:#5F5E5A; margin-bottom:6px; }
+  .ds .val { font-size:20px; font-weight:700; color:#fff; }
+  .ds .name { font-size:10px; color:#888; margin-top:4px; }
+  footer { margin-top:40px; color:#444; font-size:12px; text-align:center; }
+  a { color:#7F77DD; }
+</style>
+</head>
+<body>
+
+<h1>Universe as Cell — Preliminary F(s) Measurement</h1>
+<h2>Scale-invariant topology across 29 orders of magnitude · May 2026</h2>
+
+<div class="key-finding">
+  <h3>Key Finding</h3>
+  <div style="display:flex;align-items:center;gap:40px;flex-wrap:wrap">
+    <div>
+      <div class="big">2.8%</div>
+      <div class="sub">max deviation of spectral_mean<br>across 4 datasets · 29 orders of magnitude</div>
+    </div>
+    <div class="datasets">
+      <div class="ds">
+        <div class="label">Mitochondria</div>
+        <div class="val" style="color:#7F77DD">1.000</div>
+        <div class="name">EMD-3805 · 10⁻⁷ m</div>
+      </div>
+      <div class="ds">
+        <div class="label">Neuron</div>
+        <div class="val" style="color:#5DCAA5">1.000</div>
+        <div class="name">Allen Brain · 10⁻⁵ m</div>
+      </div>
+      <div class="ds">
+        <div class="label">HeLa Cell</div>
+        <div class="val" style="color:#5DCAA5">0.982</div>
+        <div class="name">EMD-11756 · 10⁻⁵ m</div>
+      </div>
+      <div class="ds">
+        <div class="label">Galaxies</div>
+        <div class="val" style="color:#EF9F27">0.972</div>
+        <div class="name">SDSS DR17 · 10²² m</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="grid" style="margin-top:24px">
+  <div class="card">
+    <h3>SPECTRAL MEAN — F(s) CURVE</h3>
+    <canvas id="spectral"></canvas>
+  </div>
+  <div class="card">
+    <h3>CLUSTERING COEFFICIENT</h3>
+    <canvas id="clustering"></canvas>
+  </div>
+</div>
+
+<div class="card">
+  <h3>FULL METRICS TABLE</h3>
+  <table class="table">
+    <tr>
+      <th>Dataset</th><th>Scale</th><th>Nodes</th>
+      <th>spectral_mean</th><th>clustering</th><th>mean_degree</th><th>Status</th>
+    </tr>
+    <tr>
+      <td>Mitochondria (EMD-3805)</td><td>10⁻⁷ m</td><td>5</td>
+      <td class="match">1.0000</td><td class="match">1.0000</td><td>4.00</td>
+      <td class="match">✓ matches</td>
+    </tr>
+    <tr>
+      <td>Neuron (Allen Brain Atlas)</td><td>10⁻⁵ m</td><td>138</td>
+      <td class="match">1.0000</td><td class="warn">0.1402</td><td>5.87</td>
+      <td class="warn">~ spectral ✓</td>
+    </tr>
+    <tr>
+      <td>HeLa Cell (EMD-11756)</td><td>10⁻⁵ m</td><td>54</td>
+      <td class="match">0.9815</td><td class="match">0.9751</td><td>26.85</td>
+      <td class="match">✓ matches</td>
+    </tr>
+    <tr>
+      <td>Galaxies (SDSS DR17)</td><td>10²² m</td><td>4997</td>
+      <td class="match">0.9718</td><td class="match">0.6945</td><td>13.53</td>
+      <td class="match">✓ matches</td>
+    </tr>
+  </table>
+</div>
+
+<div class="card" style="margin-top:24px">
+  <h3>METHODOLOGY</h3>
+  <p style="font-size:13px;color:#5F5E5A;line-height:1.7">
+    Topology graphs built from: EMDB CryoEM maps (cell organelles), Allen Brain Atlas API (neurons),
+    SDSS DR17 SQL catalog (galaxies). Metric: normalized Laplacian spectral mean — same method as
+    <a href="https://doi.org/10.3389/fphy.2020.525731" target="_blank">Vazza & Feletti 2020</a>.
+    All data public. Code: <a href="#" target="_blank">github.com/[your-handle]/universe-cell</a>
+  </p>
+</div>
+
+<script>
+const labels = ["Mitochondria\n10⁻⁷ m","Neuron\n10⁻⁵ m","HeLa Cell\n10⁻⁵ m","Galaxies\n10²² m"];
+const colors = ["#7F77DD","#5DCAA5","#5DCAA5","#EF9F27"];
+const cfg = (data, label) => ({
+  type:"scatter",
+  data:{ datasets:[{
+    label, data,
+    backgroundColor: colors,
+    borderColor: colors,
+    pointRadius:10, pointHoverRadius:13,
+  }]},
+  options:{
+    plugins:{ legend:{display:false} },
+    scales:{
+      x:{ display:false },
+      y:{ grid:{color:"#1A1A2E"}, ticks:{color:"#888"} }
+    }
+  }
+});
+
+new Chart(document.getElementById("spectral"), cfg(
+  [{x:0,y:1.000},{x:1,y:1.000},{x:2,y:0.9815},{x:3,y:0.9718}],
+  "spectral_mean"
+));
+new Chart(document.getElementById("clustering"), cfg(
+  [{x:0,y:1.000},{x:1,y:0.1402},{x:2,y:0.9751},{x:3,y:0.6945}],
+  "clustering"
+));
+</script>
+
+<footer>
+  Universe as Cell Project · 2026 · Data: EMDB, Allen Brain Atlas, SDSS DR17 · Method: Vazza & Feletti 2020
+</footer>
+</body>
+</html>

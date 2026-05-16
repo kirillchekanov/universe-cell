@@ -1,0 +1,7 @@
+{
+  "nodes": 5,
+  "edges": 10,
+  "clustering": 1.0,
+  "density": 1.0,
+  "mean_degree": 4.0
+}

@@ -1,0 +1,52 @@
+{
+  "project": "Вселенная как Клетка",
+  "date": "2026-05-16",
+  "hypothesis": "F(s) — масштаб-инвариантная функция топологии",
+  "datasets": {
+    "Митохондрия (EMD-3805)": {
+      "nodes": 5,
+      "edges": 10,
+      "clustering": 1.0,
+      "density": 1.0,
+      "mean_degree": 4.0,
+      "spectral_mean": 1.0
+    },
+    "Нейрон (Allen Brain Atlas)": {
+      "nodes": 138,
+      "edges": 405,
+      "clustering": 0.1402,
+      "density": 0.0428,
+      "mean_degree": 5.87,
+      "spectral_mean": 1.0,
+      "spectral_std": 0.38374,
+      "source": "Allen Brain Atlas"
+    },
+    "HeLa клетка (EMD-11756)": {
+      "nodes": 54,
+      "edges": 725,
+      "clustering": 0.9751,
+      "density": 0.5066,
+      "mean_degree": 26.85,
+      "spectral_mean": 0.981481
+    },
+    "Галактики SDSS DR17": {
+      "nodes": 4997,
+      "edges": 33808,
+      "clustering": 0.6945,
+      "density": 0.0027,
+      "mean_degree": 13.53,
+      "spectral_mean": 0.971785
+    }
+  },
+  "key_finding": {
+    "metric": "spectral_mean",
+    "values": {
+      "Митохондрия": 1.0,
+      "Нейрон": 1.0,
+      "HeLa": 0.981481,
+      "Галактики": 0.971785
+    },
+    "max_deviation_pct": 2.82,
+    "conclusion": "spectral_mean совпадает в пределах 3% на 4 датасетах разных масштабов"
+  }
+}

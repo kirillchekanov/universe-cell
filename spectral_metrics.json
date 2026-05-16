@@ -1,0 +1,23 @@
+{
+  "\u041c\u0438\u0442\u043e\u0445\u043e\u043d\u0434\u0440\u0438\u044f": {
+    "name": "\u041c\u0438\u0442\u043e\u0445\u043e\u043d\u0434\u0440\u0438\u044f",
+    "spectral_gap": 0.933333,
+    "spectral_mean": 1.0,
+    "spectral_std": 0.526624,
+    "spectral_max": 1.4
+  },
+  "HeLa": {
+    "name": "HeLa",
+    "spectral_gap": -0.0,
+    "spectral_mean": 0.981481,
+    "spectral_std": 0.265414,
+    "spectral_max": 1.195494
+  },
+  "\u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438 SDSS": {
+    "name": "\u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438 SDSS",
+    "spectral_gap": -0.0,
+    "spectral_mean": 0.971785,
+    "spectral_std": 0.513858,
+    "spectral_max": 2.0
+  }
+}
