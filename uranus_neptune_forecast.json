@@ -1,0 +1,230 @@
+{
+  "key_finding": "Uranus r=+0.38 p=0.000, Neptune r=-0.35 p=0.000",
+  "best_feature": "Nep_cos(lon)",
+  "forecast": [
+    {
+      "date": "2026-05-17",
+      "ura_lon": 61.5,
+      "nep_lon": 2.2,
+      "angle": 59.3,
+      "p_crisis": 0.1033
+    },
+    {
+      "date": "2026-06-16",
+      "ura_lon": 61.8,
+      "nep_lon": 2.4,
+      "angle": 59.4,
+      "p_crisis": 0.1106
+    },
+    {
+      "date": "2026-07-16",
+      "ura_lon": 62.1,
+      "nep_lon": 2.6,
+      "angle": 59.6,
+      "p_crisis": 0.1106
+    },
+    {
+      "date": "2026-08-15",
+      "ura_lon": 62.5,
+      "nep_lon": 2.7,
+      "angle": 59.8,
+      "p_crisis": 0.1077
+    },
+    {
+      "date": "2026-09-14",
+      "ura_lon": 62.8,
+      "nep_lon": 2.9,
+      "angle": 59.9,
+      "p_crisis": 0.1077
+    },
+    {
+      "date": "2026-10-14",
+      "ura_lon": 63.2,
+      "nep_lon": 3.1,
+      "angle": 60.1,
+      "p_crisis": 0.1077
+    },
+    {
+      "date": "2026-11-13",
+      "ura_lon": 63.5,
+      "nep_lon": 3.3,
+      "angle": 60.2,
+      "p_crisis": 0.1077
+    },
+    {
+      "date": "2026-12-13",
+      "ura_lon": 63.9,
+      "nep_lon": 3.5,
+      "angle": 60.4,
+      "p_crisis": 0.1125
+    },
+    {
+      "date": "2027-01-12",
+      "ura_lon": 64.2,
+      "nep_lon": 3.7,
+      "angle": 60.6,
+      "p_crisis": 0.1125
+    },
+    {
+      "date": "2027-02-11",
+      "ura_lon": 64.6,
+      "nep_lon": 3.8,
+      "angle": 60.7,
+      "p_crisis": 0.1125
+    },
+    {
+      "date": "2027-03-13",
+      "ura_lon": 64.9,
+      "nep_lon": 4.0,
+      "angle": 60.9,
+      "p_crisis": 0.1111
+    },
+    {
+      "date": "2027-04-12",
+      "ura_lon": 65.2,
+      "nep_lon": 4.2,
+      "angle": 61.0,
+      "p_crisis": 0.1116
+    },
+    {
+      "date": "2027-05-12",
+      "ura_lon": 65.6,
+      "nep_lon": 4.4,
+      "angle": 61.2,
+      "p_crisis": 0.1116
+    },
+    {
+      "date": "2027-06-11",
+      "ura_lon": 65.9,
+      "nep_lon": 4.6,
+      "angle": 61.4,
+      "p_crisis": 0.1116
+    },
+    {
+      "date": "2027-07-11",
+      "ura_lon": 66.3,
+      "nep_lon": 4.7,
+      "angle": 61.5,
+      "p_crisis": 0.1116
+    },
+    {
+      "date": "2027-08-10",
+      "ura_lon": 66.6,
+      "nep_lon": 4.9,
+      "angle": 61.7,
+      "p_crisis": 0.1116
+    },
+    {
+      "date": "2027-09-09",
+      "ura_lon": 67.0,
+      "nep_lon": 5.1,
+      "angle": 61.9,
+      "p_crisis": 0.1116
+    },
+    {
+      "date": "2027-10-09",
+      "ura_lon": 67.3,
+      "nep_lon": 5.3,
+      "angle": 62.0,
+      "p_crisis": 0.1116
+    },
+    {
+      "date": "2027-11-08",
+      "ura_lon": 67.7,
+      "nep_lon": 5.5,
+      "angle": 62.2,
+      "p_crisis": 0.1149
+    },
+    {
+      "date": "2027-12-08",
+      "ura_lon": 68.0,
+      "nep_lon": 5.7,
+      "angle": 62.4,
+      "p_crisis": 0.1211
+    },
+    {
+      "date": "2028-01-07",
+      "ura_lon": 68.4,
+      "nep_lon": 5.8,
+      "angle": 62.5,
+      "p_crisis": 0.1239
+    },
+    {
+      "date": "2028-02-06",
+      "ura_lon": 68.7,
+      "nep_lon": 6.0,
+      "angle": 62.7,
+      "p_crisis": 0.1239
+    },
+    {
+      "date": "2028-03-07",
+      "ura_lon": 69.1,
+      "nep_lon": 6.2,
+      "angle": 62.8,
+      "p_crisis": 0.1239
+    },
+    {
+      "date": "2028-04-06",
+      "ura_lon": 69.4,
+      "nep_lon": 6.4,
+      "angle": 63.0,
+      "p_crisis": 0.1247
+    },
+    {
+      "date": "2028-05-06",
+      "ura_lon": 69.7,
+      "nep_lon": 6.6,
+      "angle": 63.2,
+      "p_crisis": 0.1247
+    },
+    {
+      "date": "2028-06-05",
+      "ura_lon": 70.1,
+      "nep_lon": 6.8,
+      "angle": 63.3,
+      "p_crisis": 0.1247
+    },
+    {
+      "date": "2028-07-05",
+      "ura_lon": 70.4,
+      "nep_lon": 6.9,
+      "angle": 63.5,
+      "p_crisis": 0.1247
+    },
+    {
+      "date": "2028-08-04",
+      "ura_lon": 70.8,
+      "nep_lon": 7.1,
+      "angle": 63.7,
+      "p_crisis": 0.1273
+    },
+    {
+      "date": "2028-09-03",
+      "ura_lon": 71.1,
+      "nep_lon": 7.3,
+      "angle": 63.8,
+      "p_crisis": 0.1273
+    },
+    {
+      "date": "2028-10-03",
+      "ura_lon": 71.5,
+      "nep_lon": 7.5,
+      "angle": 64.0,
+      "p_crisis": 0.1273
+    },
+    {
+      "date": "2028-11-02",
+      "ura_lon": 71.8,
+      "nep_lon": 7.7,
+      "angle": 64.2,
+      "p_crisis": 0.1273
+    },
+    {
+      "date": "2028-12-02",
+      "ura_lon": 72.2,
+      "nep_lon": 7.9,
+      "angle": 64.3,
+      "p_crisis": 0.1273
+    }
+  ]
+}

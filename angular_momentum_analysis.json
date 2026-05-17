@@ -1,0 +1,49 @@
+{
+  "best_lag": 3,
+  "best_lag_years": 0.75,
+  "best_lag_r": 0.0773,
+  "best_lag_p": 0.1795,
+  "extrema_max_rate": 0.667,
+  "extrema_max_p": 0.864,
+  "extrema_min_rate": 0.714,
+  "extrema_min_p": 0.806,
+  "planet_correlations": {
+    "Jupiter": {
+      "r": 0.0098,
+      "p": 0.8649,
+      "period": 11.86
+    },
+    "Saturn": {
+      "r": 0.0922,
+      "p": 0.1075,
+      "period": 29.46
+    },
+    "Uranus": {
+      "r": 0.3805,
+      "p": 0.0,
+      "period": 84.01
+    },
+    "Neptune": {
+      "r": -0.3466,
+      "p": 0.0,
+      "period": 164.8
+    },
+    "Mars": {
+      "r": -0.0116,
+      "p": 0.8396,
+      "period": 1.881
+    },
+    "Venus": {
+      "r": 0.0166,
+      "p": 0.7725,
+      "period": 0.615
+    }
+  },
+  "top_periods": [
+    12.75,
+    10.93,
+    25.5,
+    15.3,
+    19.12
+  ]
+}
