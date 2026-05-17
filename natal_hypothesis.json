@@ -1,0 +1,9 @@
+{
+  "hypothesis": "\u0441\u043e\u0431\u044b\u0442\u0438\u044f \u043f\u0440\u0438 MAX \u043e\u0442\u043a\u043b\u043e\u043d\u0435\u043d\u0438\u0438 \u043e\u0442 \u043d\u0430\u0442\u0430\u043b\u044c\u043d\u043e\u0433\u043e (r \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0434\u043b\u044f MIN)",
+  "min_delta_r": 0.1756,
+  "min_delta_p": 0.0022,
+  "max_delta_r": 0.1313,
+  "max_delta_p": 0.0224,
+  "best_threshold": 116.8,
+  "best_f1": 0.643
+}
