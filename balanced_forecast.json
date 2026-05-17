@@ -1,0 +1,48 @@
+{
+  "f1": 0.689,
+  "f1_std": 0.007,
+  "n_events": 468,
+  "n_features": 48,
+  "forecast": {
+    "2026-08-29": {
+      "economic_crisis": 0.1052,
+      "epidemic": 0.1714,
+      "geopolitical": 0.2601,
+      "natural_disaster": 0.0138,
+      "neutral": 0.4095,
+      "tech_breakthrough": 0.04
+    },
+    "2026-10-28": {
+      "economic_crisis": 0.1406,
+      "epidemic": 0.2058,
+      "geopolitical": 0.347,
+      "natural_disaster": 0.0166,
+      "neutral": 0.2426,
+      "tech_breakthrough": 0.0475
+    },
+    "2027-09-23": {
+      "economic_crisis": 0.1287,
+      "epidemic": 0.137,
+      "geopolitical": 0.2679,
+      "natural_disaster": 0.0126,
+      "neutral": 0.3295,
+      "tech_breakthrough": 0.1244
+    },
+    "2027-12-22": {
+      "economic_crisis": 0.132,
+      "epidemic": 0.1767,
+      "geopolitical": 0.2861,
+      "natural_disaster": 0.0094,
+      "neutral": 0.2323,
+      "tech_breakthrough": 0.1635
+    },
+    "2028-12-16": {
+      "economic_crisis": 0.1087,
+      "epidemic": 0.0721,
+      "geopolitical": 0.1922,
+      "natural_disaster": 0.0175,
+      "neutral": 0.4647,
+      "tech_breakthrough": 0.1448
+    }
+  }
+}
