@@ -1,0 +1,43 @@
+{
+  "cross_correlation": {
+    "angular_momentum": {
+      "best_lag": 0,
+      "best_r": 0.0796,
+      "best_p": 0.1647
+    },
+    "grav_potential": {
+      "best_lag": 2,
+      "best_r": -0.0516,
+      "best_p": 0.3702
+    },
+    "tidal_force": {
+      "best_lag": 2,
+      "best_r": -0.0514,
+      "best_p": 0.3715
+    }
+  },
+  "permutation_p": 0.15,
+  "permutation_delta": 0.0010221448652245613,
+  "top20_features": [
+    "Uranus_cos",
+    "Neptune_cos",
+    "asp5_sin",
+    "asp9_cos",
+    "Jupiter_cos",
+    "cyc165s",
+    "Lilith_sin",
+    "cyc11s",
+    "sn_val",
+    "Lilith_cos",
+    "asp7_sin",
+    "asp2_sin2",
+    "asp6_sin",
+    "grav_pot",
+    "asp10_cos",
+    "asp9_sin2",
+    "cyc18s",
+    "asp2_sin",
+    "asp3_cos",
+    "asp2_cos"
+  ]
+}
