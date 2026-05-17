@@ -1,0 +1,63 @@
+{
+  "scores": {
+    "planets_only": 0.714,
+    "fusion": 0.714,
+    "gradient_boost": 0.704
+  },
+  "peak_predictions": {
+    "2026-10-18": {
+      "economic_crisis": 0.0268,
+      "epidemic": 0.0034,
+      "geopolitical": 0.0468,
+      "natural_disaster": 0.0097,
+      "neutral": 0.9045,
+      "tech_breakthrough": 0.0088
+    },
+    "2027-04-04": {
+      "economic_crisis": 0.014,
+      "epidemic": 0.0036,
+      "geopolitical": 0.0793,
+      "natural_disaster": 0.0383,
+      "neutral": 0.8406,
+      "tech_breakthrough": 0.0243
+    },
+    "2027-03-21": {
+      "economic_crisis": 0.0737,
+      "epidemic": 0.031,
+      "geopolitical": 0.2216,
+      "natural_disaster": 0.0635,
+      "neutral": 0.5952,
+      "tech_breakthrough": 0.0149
+    },
+    "2028-03-19": {
+      "economic_crisis": 0.0935,
+      "epidemic": 0.0239,
+      "geopolitical": 0.1638,
+      "natural_disaster": 0.1019,
+      "neutral": 0.5393,
+      "tech_breakthrough": 0.0775
+    },
+    "2027-10-03": {
+      "economic_crisis": 0.0289,
+      "epidemic": 0.0041,
+      "geopolitical": 0.042,
+      "natural_disaster": 0.0186,
+      "neutral": 0.8781,
+      "tech_breakthrough": 0.0284
+    }
+  },
+  "top_features": [
+    "Moon_sin",
+    "Sun_cos",
+    "Sat_sin",
+    "Sun_sin",
+    "Jup_lon",
+    "ang_mom",
+    "Ven_lon",
+    "Mar_lon",
+    "Jup_sin",
+    "Jup_cos",
+    "Sat_cos",
+    "JS_cos"
+  ]
+}
