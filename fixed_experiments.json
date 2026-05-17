@@ -1,0 +1,29 @@
+{
+  "retrograde": {
+    "Mercury": {
+      "partial_r": NaN,
+      "p": NaN,
+      "pct_crisis_in": 0.0
+    },
+    "Venus": {
+      "partial_r": NaN,
+      "p": NaN,
+      "pct_crisis_in": 0.0
+    },
+    "Mars": {
+      "partial_r": NaN,
+      "p": NaN,
+      "pct_crisis_in": 0.0
+    },
+    "Jupiter": {
+      "partial_r": NaN,
+      "p": NaN,
+      "pct_crisis_in": 0.0
+    },
+    "Saturn": {
+      "partial_r": NaN,
+      "p": NaN,
+      "pct_crisis_in": 0.0
+    }
+  }
+}
