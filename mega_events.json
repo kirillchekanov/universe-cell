@@ -1,0 +1,5610 @@
+[
+  {
+    "date": "0044-03-15",
+    "category": "geopolitical",
+    "name": "Assassination of Caesar",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0165-01-01",
+    "category": "epidemic",
+    "name": "Antonine Plague",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0218-03-01",
+    "category": "geopolitical",
+    "name": "Second Punic War",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0249-01-01",
+    "category": "epidemic",
+    "name": "Plague of Cyprian",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0264-03-01",
+    "category": "geopolitical",
+    "name": "First Punic War",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0365-07-21",
+    "category": "natural_disaster",
+    "name": "Alexandria earthquake tsunami",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0476-09-04",
+    "category": "geopolitical",
+    "name": "Fall of Western Rome",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0526-05-20",
+    "category": "natural_disaster",
+    "name": "Antioch earthquake",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0541-07-01",
+    "category": "epidemic",
+    "name": "Plague of Justinian",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0632-06-08",
+    "category": "geopolitical",
+    "name": "Arab expansion begins",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0711-04-19",
+    "category": "geopolitical",
+    "name": "Muslim conquest Iberia",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "0732-10-10",
+    "category": "geopolitical",
+    "name": "Battle of Tours",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1066-10-14",
+    "category": "geopolitical",
+    "name": "Battle of Hastings",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1095-11-27",
+    "category": "geopolitical",
+    "name": "First Crusade",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1138-10-11",
+    "category": "natural_disaster",
+    "name": "Aleppo earthquake",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1206-03-01",
+    "category": "geopolitical",
+    "name": "Mongol Empire",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1215-06-15",
+    "category": "geopolitical",
+    "name": "Magna Carta",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1241-04-09",
+    "category": "geopolitical",
+    "name": "Mongol invasion Europe",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1258-02-13",
+    "category": "geopolitical",
+    "name": "Sack of Baghdad",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1337-05-24",
+    "category": "geopolitical",
+    "name": "Hundred Years War",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1340-01-01",
+    "category": "economic_crisis",
+    "name": "Bardi Peruzzi bankruptcy",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1347-10-01",
+    "category": "epidemic",
+    "name": "Black Death arrives",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1348-01-01",
+    "category": "epidemic",
+    "name": "Black Death peak",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1356-09-19",
+    "category": "geopolitical",
+    "name": "Battle of Poitiers",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1415-10-25",
+    "category": "geopolitical",
+    "name": "Battle of Agincourt",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1453-05-29",
+    "category": "geopolitical",
+    "name": "Fall of Constantinople",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1455-05-22",
+    "category": "geopolitical",
+    "name": "Wars of the Roses",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1489-01-01",
+    "category": "epidemic",
+    "name": "Typhus epidemic Spain",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1492-01-02",
+    "category": "geopolitical",
+    "name": "Reconquista complete",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1492-10-12",
+    "category": "tech_breakthrough",
+    "name": "Columbus Americas",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1517-10-31",
+    "category": "geopolitical",
+    "name": "Protestant Reformation",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1519-04-21",
+    "category": "geopolitical",
+    "name": "Spanish conquest Mexico",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1520-01-01",
+    "category": "epidemic",
+    "name": "Smallpox kills Aztecs",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1521-05-21",
+    "category": "geopolitical",
+    "name": "Fall of Tenochtitlan",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1543-02-19",
+    "category": "tech_breakthrough",
+    "name": "Copernicus heliocentric",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1556-01-23",
+    "category": "natural_disaster",
+    "name": "Shaanxi earthquake 830k dead",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1557-01-01",
+    "category": "economic_crisis",
+    "name": "Spanish sovereign default",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1571-10-07",
+    "category": "geopolitical",
+    "name": "Battle of Lepanto",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1572-08-24",
+    "category": "geopolitical",
+    "name": "St Bartholomew massacre",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1576-01-01",
+    "category": "epidemic",
+    "name": "Cocoliztli epidemic",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1588-08-08",
+    "category": "geopolitical",
+    "name": "Spanish Armada",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1618-05-23",
+    "category": "geopolitical",
+    "name": "Thirty Years War",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1629-01-01",
+    "category": "epidemic",
+    "name": "Italian plague",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1637-02-05",
+    "category": "economic_crisis",
+    "name": "Tulip Mania collapse",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1642-08-22",
+    "category": "geopolitical",
+    "name": "English Civil War",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1648-10-24",
+    "category": "geopolitical",
+    "name": "Peace of Westphalia",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1656-01-01",
+    "category": "epidemic",
+    "name": "Naples plague",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1665-06-01",
+    "category": "epidemic",
+    "name": "Great Plague of London",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1666-09-02",
+    "category": "natural_disaster",
+    "name": "Great Fire of London",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1687-07-05",
+    "category": "tech_breakthrough",
+    "name": "Newton Principia",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1688-11-05",
+    "category": "geopolitical",
+    "name": "Glorious Revolution",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1700-11-30",
+    "category": "geopolitical",
+    "name": "Great Northern War",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1707-10-28",
+    "category": "natural_disaster",
+    "name": "Hoei earthquake Japan",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1720-01-01",
+    "category": "economic_crisis",
+    "name": "South Sea Bubble",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1720-05-25",
+    "category": "epidemic",
+    "name": "Plague of Marseille",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1720-09-01",
+    "category": "economic_crisis",
+    "name": "Mississippi Bubble",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1755-11-01",
+    "category": "natural_disaster",
+    "name": "Lisbon Earthquake",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1756-08-29",
+    "category": "geopolitical",
+    "name": "Seven Years War",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1769-01-25",
+    "category": "tech_breakthrough",
+    "name": "Watt steam engine",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1772-06-01",
+    "category": "economic_crisis",
+    "name": "Credit Crisis 1772",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1776-03-01",
+    "category": "tech_breakthrough",
+    "name": "Wealth of Nations",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1776-07-04",
+    "category": "geopolitical",
+    "name": "American Independence",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1783-02-05",
+    "category": "natural_disaster",
+    "name": "Calabrian earthquake",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1783-12-17",
+    "category": "tech_breakthrough",
+    "name": "First balloon flight",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1789-07-14",
+    "category": "geopolitical",
+    "name": "French Revolution",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1792-03-09",
+    "category": "economic_crisis",
+    "name": "Panic of 1792",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1793-08-01",
+    "category": "epidemic",
+    "name": "Yellow Fever Philadelphia",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1793-09-05",
+    "category": "geopolitical",
+    "name": "Reign of Terror",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1796-05-14",
+    "category": "tech_breakthrough",
+    "name": "Smallpox vaccine",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1799-11-09",
+    "category": "geopolitical",
+    "name": "Napoleon coup",
+    "source": "historical_manual",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1803-05-18",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Napoleonic Wars"
+  },
+  {
+    "date": "1804-02-21",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Steam locomotive"
+  },
+  {
+    "date": "1808-05-02",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Peninsular War"
+  },
+  {
+    "date": "1812-06-24",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "French invasion of Russia"
+  },
+  {
+    "date": "1815-03-20",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Hundred Days"
+  },
+  {
+    "date": "1816-01-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Cholera pandemic 1"
+  },
+  {
+    "date": "1819-01-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1819"
+  },
+  {
+    "date": "1820-07-21",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Electromagnetism"
+  },
+  {
+    "date": "1821-03-25",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Greek War of Independence"
+  },
+  {
+    "date": "1823-04-06",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Franco-Spanish War"
+  },
+  {
+    "date": "1825-12-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1825"
+  },
+  {
+    "date": "1828-04-26",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Russo-Turkish War"
+  },
+  {
+    "date": "1829-01-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Cholera pandemic 2"
+  },
+  {
+    "date": "1837-05-10",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1837"
+  },
+  {
+    "date": "1837-05-24",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Telegraph"
+  },
+  {
+    "date": "1839-04-27",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "First Anglo-Afghan War"
+  },
+  {
+    "date": "1844-03-24",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Morse code"
+  },
+  {
+    "date": "1846-05-13",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Mexican-American War"
+  },
+  {
+    "date": "1847-10-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1847"
+  },
+  {
+    "date": "1848-03-23",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "First Italian War of Independence"
+  },
+  {
+    "date": "1852-01-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Cholera pandemic 3"
+  },
+  {
+    "date": "1853-10-04",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Crimean War"
+  },
+  {
+    "date": "1856-01-15",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Second Opium War"
+  },
+  {
+    "date": "1857-08-24",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1857"
+  },
+  {
+    "date": "1859-08-27",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Oil well"
+  },
+  {
+    "date": "1861-04-12",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "American Civil War"
+  },
+  {
+    "date": "1863-01-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Cholera pandemic 4"
+  },
+  {
+    "date": "1864-02-01",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Second Schleswig War"
+  },
+  {
+    "date": "1866-05-11",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1866"
+  },
+  {
+    "date": "1866-06-14",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Austro-Prussian War"
+  },
+  {
+    "date": "1866-07-27",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Transatlantic cable"
+  },
+  {
+    "date": "1870-07-19",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Franco-Prussian War"
+  },
+  {
+    "date": "1873-09-18",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1873"
+  },
+  {
+    "date": "1876-03-10",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Telephone"
+  },
+  {
+    "date": "1877-04-24",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Russo-Turkish War 1877"
+  },
+  {
+    "date": "1879-02-14",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "War of the Pacific"
+  },
+  {
+    "date": "1879-10-21",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Electric light bulb"
+  },
+  {
+    "date": "1881-01-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Cholera pandemic 5"
+  },
+  {
+    "date": "1882-05-09",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1882"
+  },
+  {
+    "date": "1884-05-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1884"
+  },
+  {
+    "date": "1885-01-29",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Automobile"
+  },
+  {
+    "date": "1889-10-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Russian flu pandemic"
+  },
+  {
+    "date": "1890-11-15",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Baring Crisis"
+  },
+  {
+    "date": "1893-05-05",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1893"
+  },
+  {
+    "date": "1894-07-25",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "First Sino-Japanese War"
+  },
+  {
+    "date": "1895-11-08",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "X-rays"
+  },
+  {
+    "date": "1895-12-28",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Cinema"
+  },
+  {
+    "date": "1896-05-07",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Radio"
+  },
+  {
+    "date": "1896-08-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Depression of 1896"
+  },
+  {
+    "date": "1898-04-25",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Spanish-American War"
+  },
+  {
+    "date": "1899-01-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Cholera pandemic 6"
+  },
+  {
+    "date": "1899-10-11",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Second Boer War"
+  },
+  {
+    "date": "1900-01-31",
+    "category": "natural_disaster",
+    "name": "M7.5 Sea of Okhotsk",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1900-07-29",
+    "category": "natural_disaster",
+    "name": "M7.6 Santa Cruz Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1900-10-29",
+    "category": "natural_disaster",
+    "name": "M7.7 Near the coast of Venezuela",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1901-08-09",
+    "category": "natural_disaster",
+    "name": "M7.5 Near the east coast of Honshu, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1902-04-19",
+    "category": "natural_disaster",
+    "name": "M7.5 Near Quetzaltenango, Guatemala",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1902-08-22",
+    "category": "natural_disaster",
+    "name": "M7.7 About 50 km NNE of Kashgar, Xinjiang, Ch",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1902-09-23",
+    "category": "natural_disaster",
+    "name": "M7.8 Central Chiapas, Mexico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1903-01-04",
+    "category": "natural_disaster",
+    "name": "M8 Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1903-08-11",
+    "category": "natural_disaster",
+    "name": "M7.9 Southern Greece",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1903-12-17",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Airplane"
+  },
+  {
+    "date": "1904-02-08",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Russo-Japanese War"
+  },
+  {
+    "date": "1904-06-25",
+    "category": "natural_disaster",
+    "name": "M7.7 115 km ESE of Petropavlovsk-Kamchatsky, ",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1905-01-22",
+    "category": "natural_disaster",
+    "name": "M7.8 160 km W of Gorontalo, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1905-02-14",
+    "category": "natural_disaster",
+    "name": "M7.59 5 km WNW of Adak, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1905-04-04",
+    "category": "natural_disaster",
+    "name": "M7.9 The 1905 Kangra, India Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1905-06-30",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Special Relativity"
+  },
+  {
+    "date": "1905-07-23",
+    "category": "natural_disaster",
+    "name": "M8.33 The 1905 Bulnay (Bolnai), Mongolia Earth",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1905-09-15",
+    "category": "natural_disaster",
+    "name": "M7.84 off the east coast of the Kamchatka Peni",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1906-01-31",
+    "category": "natural_disaster",
+    "name": "M8.8 1906 Ecuador-Colombia Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1906-04-18",
+    "category": "natural_disaster",
+    "name": "M7.9 The 1906 San Francisco, California Earth",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1906-06-01",
+    "category": "natural_disaster",
+    "name": "M7.84 230 km W of Abepura, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1906-08-17",
+    "category": "natural_disaster",
+    "name": "M8.2 The 1906 Valparaiso, Chile Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1906-09-28",
+    "category": "natural_disaster",
+    "name": "M7.5 16 km W of Barranca, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1906-10-02",
+    "category": "natural_disaster",
+    "name": "M7.63 38 km NW of Finschhafen, Papua New Guine",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1906-12-22",
+    "category": "natural_disaster",
+    "name": "M7.95 95 km WSW of Shihezi, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1907-01-04",
+    "category": "natural_disaster",
+    "name": "M8.2 The 1907 Sumatra Earthquake and Tsunami",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1907-04-18",
+    "category": "natural_disaster",
+    "name": "M7.52 7 km N of Luklukan, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1907-05-25",
+    "category": "natural_disaster",
+    "name": "M7.65 Sea of Okhotsk",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1907-06-25",
+    "category": "natural_disaster",
+    "name": "M7.5 64 km NNW of Ternate, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1907-10-22",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Panic of 1907"
+  },
+  {
+    "date": "1909-02-22",
+    "category": "natural_disaster",
+    "name": "M7.6 178 km E of Levuka, Fiji",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1909-06-03",
+    "category": "natural_disaster",
+    "name": "M7.58 76 km SSW of Sungai Penuh, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1909-07-30",
+    "category": "natural_disaster",
+    "name": "M7.5 27 km SSE of San Andrés Playa Encantada ",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1909-11-10",
+    "category": "natural_disaster",
+    "name": "M7.5 18 km SE of Honmachi, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1910-04-12",
+    "category": "natural_disaster",
+    "name": "M8.1 1910 Taiwan Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1910-06-16",
+    "category": "natural_disaster",
+    "name": "M7.84 28 km ESE of Isangel, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1910-11-20",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Mexican Revolution"
+  },
+  {
+    "date": "1910-12-16",
+    "category": "natural_disaster",
+    "name": "M7.61 101 km SE of Sarangani, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1911-01-04",
+    "category": "natural_disaster",
+    "name": "M8.02 The 1911 Kemin Earthquake, Kyrgyzstan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1911-06-15",
+    "category": "natural_disaster",
+    "name": "M7.9 108 km NW of Naze, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1911-07-12",
+    "category": "natural_disaster",
+    "name": "M7.7 74 km ENE of Barcelona, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1911-08-17",
+    "category": "natural_disaster",
+    "name": "M7.83 State of Yap, Federated States of Micron",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1911-12-16",
+    "category": "natural_disaster",
+    "name": "M7.51 25 km S of Tetitlán, Mexico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1912-05-23",
+    "category": "natural_disaster",
+    "name": "M7.88 32 km NW of Taunggyi, Myanmar",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1912-09-29",
+    "category": "natural_disaster",
+    "name": "M7.64 245 km E of Melekeok Village, Palau",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1912-10-08",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "First Balkan War"
+  },
+  {
+    "date": "1913-01-13",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Assembly line"
+  },
+  {
+    "date": "1913-03-14",
+    "category": "natural_disaster",
+    "name": "M7.88 47 km ESE of Kalbay, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1913-06-26",
+    "category": "natural_disaster",
+    "name": "M7.79 111 km SSE of Pangai, Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1913-08-07",
+    "category": "natural_disaster",
+    "name": "M7.73 37 km SSW of Atico, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1913-10-14",
+    "category": "natural_disaster",
+    "name": "M7.6 63 km NW of Isangel, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1914-01-30",
+    "category": "natural_disaster",
+    "name": "M7.69 103 km NW of Constitución, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1914-05-26",
+    "category": "natural_disaster",
+    "name": "M8.15 1914 Biak Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1914-06-25",
+    "category": "natural_disaster",
+    "name": "M7.55 73 km WSW of Bengkulu, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1914-07-28",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "World War I"
+  },
+  {
+    "date": "1914-11-24",
+    "category": "natural_disaster",
+    "name": "M7.9 Volcano Islands, Japan region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1915-05-01",
+    "category": "natural_disaster",
+    "name": "M7.83 266 km SSW of Severo-Kuril’sk, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1915-09-07",
+    "category": "natural_disaster",
+    "name": "M7.7 12 km NW of Chalatenango, El Salvador",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1915-11-01",
+    "category": "natural_disaster",
+    "name": "M7.6 119 km SE of Kamaishi, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1916-01-13",
+    "category": "natural_disaster",
+    "name": "M7.66 36 km NNE of Nabire, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1917-01-30",
+    "category": "natural_disaster",
+    "name": "M7.98 43 km E of Ust’-Kamchatsk Staryy, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1917-02-23",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Russian Revolution"
+  },
+  {
+    "date": "1917-05-01",
+    "category": "natural_disaster",
+    "name": "M8.2 1917 Kermadec Islands, New Zealand Earth",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1917-06-26",
+    "category": "natural_disaster",
+    "name": "M8 1917 Tonga Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1917-11-16",
+    "category": "natural_disaster",
+    "name": "M7.5 Kermadec Islands, New Zealand",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1918-03-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Spanish Flu"
+  },
+  {
+    "date": "1918-07-03",
+    "category": "natural_disaster",
+    "name": "M7.58 50 km N of Wewak, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1918-08-15",
+    "category": "natural_disaster",
+    "name": "M8.3 1918 Mindanao, Philippines Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1918-09-07",
+    "category": "natural_disaster",
+    "name": "M8.1 1918 Kuril Islands Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1918-10-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Spanish Flu peak"
+  },
+  {
+    "date": "1918-11-08",
+    "category": "natural_disaster",
+    "name": "M7.83 east of the Kuril Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1918-11-11",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "WW1 End"
+  },
+  {
+    "date": "1918-12-04",
+    "category": "natural_disaster",
+    "name": "M8.01 60 km W of Diego de Almagro, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1919-01-01",
+    "category": "natural_disaster",
+    "name": "M7.8 Fiji region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1919-04-30",
+    "category": "natural_disaster",
+    "name": "M8.1 1919 Tonga Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1919-05-06",
+    "category": "natural_disaster",
+    "name": "M8.15 1919 Papua New Guinea Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1919-05-15",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Greco-Turkish War"
+  },
+  {
+    "date": "1920-01-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Depression of 1920"
+  },
+  {
+    "date": "1920-02-02",
+    "category": "natural_disaster",
+    "name": "M7.81 74 km SSW of Kokopo, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1920-06-05",
+    "category": "natural_disaster",
+    "name": "M8.23 1920 Hualien, Taiwan Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1920-09-20",
+    "category": "natural_disaster",
+    "name": "M8.09 1920 Vanuatu Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1920-12-16",
+    "category": "natural_disaster",
+    "name": "M7.94 125 km E of Baiyin, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1921-09-11",
+    "category": "natural_disaster",
+    "name": "M7.58 233 km S of Pundong, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1921-11-15",
+    "category": "natural_disaster",
+    "name": "M7.8 71 km SSW of Jurm, Afghanistan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1922-01-17",
+    "category": "natural_disaster",
+    "name": "M7.9 143 km ESE of San Antonio del Estrecho, ",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1922-09-01",
+    "category": "natural_disaster",
+    "name": "M7.69 50 km SSE of Yilan, Taiwan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1922-11-11",
+    "category": "natural_disaster",
+    "name": "M8.5 94 km ENE of Vallenar, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1923-02-03",
+    "category": "natural_disaster",
+    "name": "M8.4 1923 Kamchatka, Russia Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1923-09-02",
+    "category": "natural_disaster",
+    "name": "M7.85 5 km E of Tateyama, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1924-04-14",
+    "category": "natural_disaster",
+    "name": "M8.12 1924 Mindanao, Philippines Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1924-06-26",
+    "category": "natural_disaster",
+    "name": "M7.65 Macquarie Island region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1926-10-26",
+    "category": "natural_disaster",
+    "name": "M7.56 158 km WSW of Abepura, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1927-05-23",
+    "category": "natural_disaster",
+    "name": "M7.7 31 km SSW of Wuwei, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1927-07-01",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Chinese Civil War"
+  },
+  {
+    "date": "1928-03-16",
+    "category": "natural_disaster",
+    "name": "M7.56 274 km ESE of Tadine, New Caledonia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1928-06-17",
+    "category": "natural_disaster",
+    "name": "M7.99 15 km ESE of San Gabriel Mixtepec, Mexic",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1928-09-28",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Penicillin"
+  },
+  {
+    "date": "1928-10-09",
+    "category": "natural_disaster",
+    "name": "M7.51 6 km WSW of San Miguel Panixtlahuaca, Me",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1928-12-01",
+    "category": "natural_disaster",
+    "name": "M7.7 30 km NNE of Constitución, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1929-03-07",
+    "category": "natural_disaster",
+    "name": "M7.8 234 km SSW of Nikolski, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1929-06-27",
+    "category": "natural_disaster",
+    "name": "M8.1 1929 South Sandwich Islands Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1929-10-24",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Black Thursday"
+  },
+  {
+    "date": "1929-10-29",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Black Tuesday"
+  },
+  {
+    "date": "1929-12-17",
+    "category": "natural_disaster",
+    "name": "M7.86 93 km NW of Attu Station, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1930-12-03",
+    "category": "natural_disaster",
+    "name": "M7.52 36 km SSW of Pyu, Myanmar",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1931-01-27",
+    "category": "natural_disaster",
+    "name": "M7.58 37 km S of Sarupathar, India",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1931-03-09",
+    "category": "natural_disaster",
+    "name": "M7.92 78 km E of Hachinohe, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1931-08-11",
+    "category": "natural_disaster",
+    "name": "M7.9 172 km SE of Altay, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1931-09-18",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Japanese invasion Manchuria"
+  },
+  {
+    "date": "1931-10-10",
+    "category": "natural_disaster",
+    "name": "M7.84 116 km NW of Kirakira, Solomon Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1931-11-02",
+    "category": "natural_disaster",
+    "name": "M7.93 58 km ESE of Takanabe, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1932-05-14",
+    "category": "natural_disaster",
+    "name": "M7.7 148 km SE of Tondano, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1932-06-22",
+    "category": "natural_disaster",
+    "name": "M7.7 12 km NNE of La Central, Mexico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1932-12-25",
+    "category": "natural_disaster",
+    "name": "M7.84 108 km WSW of Laojunmiao, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1933-03-02",
+    "category": "natural_disaster",
+    "name": "M8.4 1933 Sanriku (Sanriku-oki) Earthquake, J",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1933-06-25",
+    "category": "natural_disaster",
+    "name": "M7.52 48 km SW of Kotabumi, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1934-01-15",
+    "category": "natural_disaster",
+    "name": "M8 1934 Bihar-Nepal Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1934-02-24",
+    "category": "natural_disaster",
+    "name": "M7.5 Volcano Islands, Japan region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1934-07-18",
+    "category": "natural_disaster",
+    "name": "M7.7 138 km SSE of Lata, Solomon Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1935-05-31",
+    "category": "natural_disaster",
+    "name": "M7.61 17 km WSW of Kalat, Pakistan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1935-09-20",
+    "category": "natural_disaster",
+    "name": "M7.83 New Guinea, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1935-10-03",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Second Italo-Ethiopian War"
+  },
+  {
+    "date": "1935-12-28",
+    "category": "natural_disaster",
+    "name": "M7.6 212 km W of Pariaman, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1936-04-01",
+    "category": "natural_disaster",
+    "name": "M7.75 161 km SE of Sarangani, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1936-07-13",
+    "category": "natural_disaster",
+    "name": "M7.52 83 km NNE of Taltal, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1936-07-17",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Spanish Civil War"
+  },
+  {
+    "date": "1937-01-07",
+    "category": "natural_disaster",
+    "name": "M7.81 Southern Qinghai, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1937-07-07",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Second Sino-Japanese War"
+  },
+  {
+    "date": "1937-08-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Recession of 1937"
+  },
+  {
+    "date": "1937-08-20",
+    "category": "natural_disaster",
+    "name": "M7.64 6 km E of Tignoan, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1938-02-01",
+    "category": "natural_disaster",
+    "name": "M8.5 1938 Banda Sea Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1938-05-23",
+    "category": "natural_disaster",
+    "name": "M7.7 69 km ESE of Kitaibaraki, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1938-06-16",
+    "category": "natural_disaster",
+    "name": "M7.6 78 km S of Naze, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1938-11-10",
+    "category": "natural_disaster",
+    "name": "M8.23 1938 Semidi Islands, Alaska Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1938-12-17",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Nuclear fission"
+  },
+  {
+    "date": "1939-01-30",
+    "category": "natural_disaster",
+    "name": "M7.82 85 km S of Panguna, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1939-03-21",
+    "category": "natural_disaster",
+    "name": "M7.5 South Indian Ocean",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1939-04-30",
+    "category": "natural_disaster",
+    "name": "M7.83 23 km SSE of Malango, Solomon Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1939-09-01",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "World War II"
+  },
+  {
+    "date": "1939-12-27",
+    "category": "natural_disaster",
+    "name": "M7.8 20 km NNE of Erzincan, Turkey",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1940-01-17",
+    "category": "natural_disaster",
+    "name": "M7.5 Mariana Islands region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1940-05-24",
+    "category": "natural_disaster",
+    "name": "M8.2 21 km SE of Huacho, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1940-08-01",
+    "category": "natural_disaster",
+    "name": "M7.5 137 km WSW of Rishiri Town, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1940-11-10",
+    "category": "natural_disaster",
+    "name": "M7.74 13 km ESE of Comand?u, Romania",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1940-12-28",
+    "category": "natural_disaster",
+    "name": "M7.7 Mariana Islands region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1941-04-15",
+    "category": "natural_disaster",
+    "name": "M7.6 21 km ESE of Coalcomán de Vázquez Pallar",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1941-06-22",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Operation Barbarossa"
+  },
+  {
+    "date": "1941-06-26",
+    "category": "natural_disaster",
+    "name": "M7.96 43 km N of Bamboo Flat, India",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1941-11-25",
+    "category": "natural_disaster",
+    "name": "M7.84 Azores-Cape St. Vincent Ridge",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1941-12-07",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Pearl Harbor"
+  },
+  {
+    "date": "1942-04-08",
+    "category": "natural_disaster",
+    "name": "M7.63 18 km WSW of Tayaman, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1942-05-14",
+    "category": "natural_disaster",
+    "name": "M7.8 12 km SE of Pedernales, Ecuador",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1942-08-25",
+    "category": "natural_disaster",
+    "name": "M8.1 21 km NNE of Minas de Marcona, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1942-11-10",
+    "category": "natural_disaster",
+    "name": "M8 1942 Southwest Indian Ridge Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1943-04-06",
+    "category": "natural_disaster",
+    "name": "M8.1 45 km NNW of Illapel, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1943-05-26",
+    "category": "natural_disaster",
+    "name": "M7.76 77 km E of Baculin, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1943-06-09",
+    "category": "natural_disaster",
+    "name": "M7.73 26 km S of Sijunjung, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1943-07-29",
+    "category": "natural_disaster",
+    "name": "M7.7 45 km N of San Antonio, Puerto Rico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1943-09-06",
+    "category": "natural_disaster",
+    "name": "M7.52 Macquarie Island region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1943-11-27",
+    "category": "natural_disaster",
+    "name": "M7.5 6 km SSE of Ilgaz, Turkey",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1944-02-01",
+    "category": "natural_disaster",
+    "name": "M7.6 10 km WNW of Orta, Turkey",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1944-04-27",
+    "category": "natural_disaster",
+    "name": "M7.6 5 km SW of Manokwari, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1944-12-07",
+    "category": "natural_disaster",
+    "name": "M8.1 1944 Toankai Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1945-05-08",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "WW2 End Europe"
+  },
+  {
+    "date": "1945-07-16",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Trinity nuclear test"
+  },
+  {
+    "date": "1945-08-15",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "WW2 End Pacific"
+  },
+  {
+    "date": "1945-09-02",
+    "category": "natural_disaster",
+    "name": "M7.5 173 km WSW of Riverton, New Zealand",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1945-11-28",
+    "category": "natural_disaster",
+    "name": "M8.1 1945 Makran Subduction Zone Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1946-04-01",
+    "category": "natural_disaster",
+    "name": "M8.6 1946 Unimak Island, Alaska Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1946-06-23",
+    "category": "natural_disaster",
+    "name": "M7.5 8 km NNW of Courtenay, Canada",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1946-08-04",
+    "category": "natural_disaster",
+    "name": "M7.76 16 km NNW of Miches, Dominican Republic",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1946-09-29",
+    "category": "natural_disaster",
+    "name": "M7.68 152 km SE of Kokopo, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1946-11-02",
+    "category": "natural_disaster",
+    "name": "M7.54 34 km N of Kerben, Kyrgyzstan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1946-12-19",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "First Indochina War"
+  },
+  {
+    "date": "1946-12-20",
+    "category": "natural_disaster",
+    "name": "M8.3 68 km S of Shing?, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1947-03-25",
+    "category": "natural_disaster",
+    "name": "M7.67 46 km E of Gisborne, New Zealand",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1947-05-27",
+    "category": "natural_disaster",
+    "name": "M7.6 138 km SW of Insrom, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1947-11-01",
+    "category": "natural_disaster",
+    "name": "M7.6 23 km E of Santa Rosa, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1947-12-23",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Transistor"
+  },
+  {
+    "date": "1948-01-24",
+    "category": "natural_disaster",
+    "name": "M7.8 3 km W of Buga, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1948-05-14",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Arab-Israeli War 1948"
+  },
+  {
+    "date": "1948-09-08",
+    "category": "natural_disaster",
+    "name": "M7.5 110 km E of ‘Ohonua, Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1949-03-04",
+    "category": "natural_disaster",
+    "name": "M7.5 35 km SSW of Jurm, Afghanistan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1949-07-10",
+    "category": "natural_disaster",
+    "name": "M7.5 43 km ENE of Rasht, Tajikistan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1949-08-22",
+    "category": "natural_disaster",
+    "name": "M8 1949 Haida Gwaii Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1949-12-17",
+    "category": "natural_disaster",
+    "name": "M7.58 109 km SSE of Punta Arenas, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1950-02-28",
+    "category": "natural_disaster",
+    "name": "M7.7 100 km SSE of Korsakov, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1950-06-25",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Korean War"
+  },
+  {
+    "date": "1950-08-15",
+    "category": "natural_disaster",
+    "name": "M8.6 1950 Assam-Tibet Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1950-10-05",
+    "category": "natural_disaster",
+    "name": "M7.5 Costa Rica",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1950-11-02",
+    "category": "natural_disaster",
+    "name": "M7.7 Banda Sea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1950-12-14",
+    "category": "natural_disaster",
+    "name": "M7.8 159 km W of Pangai, Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1951-11-24",
+    "category": "natural_disaster",
+    "name": "M7.81 Taiwan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1951-12-08",
+    "category": "natural_disaster",
+    "name": "M7.53 South Indian Ocean",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1952-03-04",
+    "category": "natural_disaster",
+    "name": "M8.1 1952 Tokachi-Oki Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1952-07-21",
+    "category": "natural_disaster",
+    "name": "M7.5 The 1952 Kern County, California Earthqu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1952-11-04",
+    "category": "natural_disaster",
+    "name": "M9 89 km ESE of Petropavlovsk-Kamchatsky, R",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1953-04-25",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "DNA structure"
+  },
+  {
+    "date": "1953-05-06",
+    "category": "natural_disaster",
+    "name": "M7.55 23 km SE of Chiguayante, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1953-07-27",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Korean War End"
+  },
+  {
+    "date": "1953-11-25",
+    "category": "natural_disaster",
+    "name": "M7.9 174 km SE of Katsuura, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1954-03-29",
+    "category": "natural_disaster",
+    "name": "M7.8 Strait of Gibraltar",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1954-11-01",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Algerian War"
+  },
+  {
+    "date": "1955-02-27",
+    "category": "natural_disaster",
+    "name": "M7.52 Kermadec Islands region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1956-05-23",
+    "category": "natural_disaster",
+    "name": "M7.6 144 km SSW of Leava, Wallis and Futuna",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1956-07-09",
+    "category": "natural_disaster",
+    "name": "M7.7 19 km SSE of Amorgós, Greece",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1956-10-29",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Suez Crisis"
+  },
+  {
+    "date": "1957-02-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Asian Flu"
+  },
+  {
+    "date": "1957-03-09",
+    "category": "natural_disaster",
+    "name": "M8.6 1957 Atka, Alaska Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1957-07-28",
+    "category": "natural_disaster",
+    "name": "M7.6 8 km ENE of Apantla, Mexico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1957-10-04",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Sputnik"
+  },
+  {
+    "date": "1957-10-28",
+    "category": "natural_disaster",
+    "name": "M7.6 66 km SSE of Klyuchi, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1957-11-30",
+    "category": "natural_disaster",
+    "name": "M7.7 51 km W of Atocha, Bolivia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1957-12-17",
+    "category": "natural_disaster",
+    "name": "M7.8 186 km NNW of Sola, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1958-01-19",
+    "category": "natural_disaster",
+    "name": "M7.6 near the coast of Ecuador",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1958-02-01",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Explorer 1"
+  },
+  {
+    "date": "1958-07-26",
+    "category": "natural_disaster",
+    "name": "M7.5 81 km SSE of Puerto Rosario de Laberinto",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1958-11-07",
+    "category": "natural_disaster",
+    "name": "M8.3 1958 Kuril Islands Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1959-01-01",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Cuban Revolution"
+  },
+  {
+    "date": "1959-05-04",
+    "category": "natural_disaster",
+    "name": "M7.9 76 km ENE of Petropavlovsk-Kamchatsky, R",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1960-03-20",
+    "category": "natural_disaster",
+    "name": "M7.95 113 km ENE of Miyako, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1960-05-22",
+    "category": "natural_disaster",
+    "name": "M9.5 1960 Great Chilean Earthquake (Valdivia ",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1960-06-06",
+    "category": "natural_disaster",
+    "name": "M7.7 35 km S of Puerto Chacabuco, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1960-11-21",
+    "category": "natural_disaster",
+    "name": "M7.6 103 km WSW of Mórrope, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1961-02-26",
+    "category": "natural_disaster",
+    "name": "M7.54 18 km NNE of Nichinan, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1961-04-12",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Gagarin in space"
+  },
+  {
+    "date": "1961-04-17",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Bay of Pigs"
+  },
+  {
+    "date": "1961-08-19",
+    "category": "natural_disaster",
+    "name": "M7.6 132 km W of Iñapari, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1962-10-16",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Cuban Missile Crisis"
+  },
+  {
+    "date": "1963-02-26",
+    "category": "natural_disaster",
+    "name": "M7.5 49 km WSW of Wau, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1963-03-16",
+    "category": "natural_disaster",
+    "name": "M7.65 east of the Kuril Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1963-08-15",
+    "category": "natural_disaster",
+    "name": "M7.67 50 km N of Sandia, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1963-10-20",
+    "category": "natural_disaster",
+    "name": "M7.8 217 km ESE of Kuril’sk, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1963-11-10",
+    "category": "natural_disaster",
+    "name": "M7.63 132 km SW of Tarauacá, Brazil",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1963-12-18",
+    "category": "natural_disaster",
+    "name": "M7.6 south of the Fiji Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1964-03-28",
+    "category": "natural_disaster",
+    "name": "M9.2 The 1964 Prince William Sound, Alaska Ea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1964-05-26",
+    "category": "natural_disaster",
+    "name": "M7.8 South Sandwich Islands region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1964-06-16",
+    "category": "natural_disaster",
+    "name": "M7.6 27 km NW of Murakami, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1965-01-24",
+    "category": "natural_disaster",
+    "name": "M8.2 1965 Ceram Sea Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1965-02-04",
+    "category": "natural_disaster",
+    "name": "M8.7 1965 Western Aleutian Islands (Hawadax/R",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1965-03-08",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Vietnam War escalation"
+  },
+  {
+    "date": "1965-03-30",
+    "category": "natural_disaster",
+    "name": "M7.6 Rat Islands, Aleutian Islands, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1965-05-20",
+    "category": "natural_disaster",
+    "name": "M7.7 45 km NNE of Port-Olry, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1965-07-02",
+    "category": "natural_disaster",
+    "name": "M7.8 81 km E of Nikolski, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1965-08-12",
+    "category": "natural_disaster",
+    "name": "M7.6 31 km S of Luganville, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1966-03-12",
+    "category": "natural_disaster",
+    "name": "M7.5 38 km SW of Yonakuni, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1966-09-09",
+    "category": "natural_disaster",
+    "name": "M7.71 90 km NE of Tobelo, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1966-10-18",
+    "category": "natural_disaster",
+    "name": "M8.1 67 km W of Paramonga, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1966-12-31",
+    "category": "natural_disaster",
+    "name": "M7.8 146 km SSE of Lata, Solomon Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1967-06-05",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Six-Day War"
+  },
+  {
+    "date": "1968-01-30",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Tet Offensive"
+  },
+  {
+    "date": "1968-04-01",
+    "category": "natural_disaster",
+    "name": "M7.5 60 km ESE of Nobeoka, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1968-05-28",
+    "category": "natural_disaster",
+    "name": "M7.5 143 km WSW of Abepura, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1968-07-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Hong Kong Flu"
+  },
+  {
+    "date": "1968-08-10",
+    "category": "natural_disaster",
+    "name": "M7.68 121 km E of Bitung, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1969-01-30",
+    "category": "natural_disaster",
+    "name": "M7.6 223 km ESE of Sarangani, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1969-02-28",
+    "category": "natural_disaster",
+    "name": "M7.8 188 km SW of Sagres, Portugal",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1969-07-20",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Moon landing"
+  },
+  {
+    "date": "1969-08-12",
+    "category": "natural_disaster",
+    "name": "M8.2 1969 Hokkaido Toho-oki Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1969-11-21",
+    "category": "natural_disaster",
+    "name": "M7.54 209 km WSW of Sinabang, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1970-05-31",
+    "category": "natural_disaster",
+    "name": "M7.9 34 km SW of Chimbote, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1970-07-31",
+    "category": "natural_disaster",
+    "name": "M8 95 km N of San Antonio del Estrecho, Per",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1971-01-10",
+    "category": "natural_disaster",
+    "name": "M7.7 120 km SW of Abepura, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1971-03-26",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Bangladesh Liberation War"
+  },
+  {
+    "date": "1971-07-26",
+    "category": "natural_disaster",
+    "name": "M8.1 1971 Bougainville Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1971-11-15",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Microprocessor"
+  },
+  {
+    "date": "1971-12-15",
+    "category": "natural_disaster",
+    "name": "M7.62 55 km ESE of Ust’-Kamchatsk Staryy, Russ",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1972-06-11",
+    "category": "natural_disaster",
+    "name": "M7.72 228 km SW of Sarangani, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1972-07-31",
+    "category": "natural_disaster",
+    "name": "M7.6 55 km SW of Sitka, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1972-08-18",
+    "category": "natural_disaster",
+    "name": "M7.5 199 km SSE of Kokopo, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1972-12-02",
+    "category": "natural_disaster",
+    "name": "M8 1972 Mindanao, Philippines Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1973-01-01",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Internet (ARPANET)"
+  },
+  {
+    "date": "1973-01-31",
+    "category": "natural_disaster",
+    "name": "M7.5 35 km SW of Aguililla, Mexico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1973-06-17",
+    "category": "natural_disaster",
+    "name": "M7.7 19 km ESE of Nemuro, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1973-10-06",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Yom Kippur War"
+  },
+  {
+    "date": "1973-10-17",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Oil Crisis 1973"
+  },
+  {
+    "date": "1973-12-28",
+    "category": "natural_disaster",
+    "name": "M7.5 81 km NW of Port-Olry, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1974-10-08",
+    "category": "natural_disaster",
+    "name": "M7.5 25 km NW of Saint John’s, Antigua and Ba",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1975-01-01",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Personal computer"
+  },
+  {
+    "date": "1975-02-02",
+    "category": "natural_disaster",
+    "name": "M7.6 36 km NE of Attu Station, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1975-04-30",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Fall of Saigon"
+  },
+  {
+    "date": "1975-05-26",
+    "category": "natural_disaster",
+    "name": "M7.9 Azores-Cape St. Vincent Ridge",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1975-07-20",
+    "category": "natural_disaster",
+    "name": "M7.7 94 km SSW of Panguna, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1975-10-11",
+    "category": "natural_disaster",
+    "name": "M7.8 south of Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1975-11-29",
+    "category": "natural_disaster",
+    "name": "M7.7 17 km SSW of Leilani Estates, Hawaii",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1975-12-26",
+    "category": "natural_disaster",
+    "name": "M7.8 146 km ESE of Hihifo, Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1976-01-14",
+    "category": "natural_disaster",
+    "name": "M8 1976 Kermadec Islands, New Zealand Earth",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1976-02-04",
+    "category": "natural_disaster",
+    "name": "M7.5 7 km N of Los Amates, Guatemala",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1976-07-04",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Legionnaires disease"
+  },
+  {
+    "date": "1976-07-27",
+    "category": "natural_disaster",
+    "name": "M7.5 17 km NE of Penguanzhuang, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1976-08-16",
+    "category": "natural_disaster",
+    "name": "M7.9 19 km WNW of Palimbang, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1976-08-26",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Ebola first outbreak"
+  },
+  {
+    "date": "1977-03-04",
+    "category": "natural_disaster",
+    "name": "M7.5 2 km N of Spulber, Romania",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1977-04-21",
+    "category": "natural_disaster",
+    "name": "M7.5 103 km SE of Honiara, Solomon Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1977-08-19",
+    "category": "natural_disaster",
+    "name": "M8.3 1977 Sumba, Indonesia Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1978-03-24",
+    "category": "natural_disaster",
+    "name": "M7.6 134 km SE of Kuril’sk, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1978-06-12",
+    "category": "natural_disaster",
+    "name": "M7.7 68 km ESE of Ishinomaki, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1978-11-29",
+    "category": "natural_disaster",
+    "name": "M7.7 2 km ESE of San Agustín Loxicha, Mexico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1979-01-01",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1979-02-11",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1979-03-14",
+    "category": "natural_disaster",
+    "name": "M7.6 12 km SSE of Vallecitos de Zaragoza, Mex",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1979-04-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Energy Crisis 1979"
+  },
+  {
+    "date": "1979-09-12",
+    "category": "natural_disaster",
+    "name": "M7.9 55 km S of Biak, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1979-10-06",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1979-12-12",
+    "category": "natural_disaster",
+    "name": "M7.7 56 km NW of Valdez, Ecuador",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1979-12-24",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1980-01-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Early 1980s Recession"
+  },
+  {
+    "date": "1980-05-18",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1980-07-17",
+    "category": "natural_disaster",
+    "name": "M7.9 199 km S of Lata, Solomon Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1980-09-22",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1981-05-25",
+    "category": "natural_disaster",
+    "name": "M7.6 off the west coast of the South Island o",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1981-06-01",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1981-06-05",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1981-08-12",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1981-09-01",
+    "category": "natural_disaster",
+    "name": "M7.7 133 km NE of Hihifo, Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1981-10-06",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1982-03-29",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1982-04-02",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Falklands War"
+  },
+  {
+    "date": "1982-06-06",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1982-08-12",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1983-01-01",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1983-03-18",
+    "category": "natural_disaster",
+    "name": "M7.6 157 km ESE of Kokopo, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1983-10-23",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1984-02-08",
+    "category": "natural_disaster",
+    "name": "M7.6 85 km SE of Honiara, Solomon Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1984-04-23",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "HIV cause identified"
+  },
+  {
+    "date": "1984-10-31",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1984-11-20",
+    "category": "natural_disaster",
+    "name": "M7.5 45 km SW of Sarangani, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1985-03-04",
+    "category": "natural_disaster",
+    "name": "M8 25 km WSW of Valparaíso, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1985-03-11",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1985-09-19",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1985-10-18",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1986-01-01",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1986-04-15",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1986-04-26",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1986-05-08",
+    "category": "natural_disaster",
+    "name": "M8 1986 Atka, Alaska Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1986-08-14",
+    "category": "natural_disaster",
+    "name": "M7.5 146 km NW of Ternate, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1986-10-20",
+    "category": "natural_disaster",
+    "name": "M7.7 Kermadec Islands region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1987-03-05",
+    "category": "natural_disaster",
+    "name": "M7.6 84 km SSE of Antofagasta, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1987-10-19",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1987-11-30",
+    "category": "natural_disaster",
+    "name": "M7.9 200 km WSW of Yakutat, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1988-01-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "HIV pandemic peak"
+  },
+  {
+    "date": "1988-03-07",
+    "category": "natural_disaster",
+    "name": "M7.8 Gulf of Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1988-07-03",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1988-08-10",
+    "category": "natural_disaster",
+    "name": "M7.6 121 km W of Kirakira, Solomon Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1988-11-06",
+    "category": "natural_disaster",
+    "name": "M7.7 145 km NW of Jinghong, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1988-12-07",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1989-03-12",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1989-05-23",
+    "category": "natural_disaster",
+    "name": "M8.02 1989 Macquarie Ridge Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1989-06-04",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1989-08-09",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "S&L Crisis"
+  },
+  {
+    "date": "1989-10-17",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1989-11-09",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1989-12-15",
+    "category": "natural_disaster",
+    "name": "M7.6 37 km ENE of Barcelona, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1989-12-20",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Invasion of Panama"
+  },
+  {
+    "date": "1990-03-03",
+    "category": "natural_disaster",
+    "name": "M7.6 south of the Fiji Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1990-04-18",
+    "category": "natural_disaster",
+    "name": "M7.8 75 km NNW of Gorontalo, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1990-06-26",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Human Genome start"
+  },
+  {
+    "date": "1990-07-16",
+    "category": "natural_disaster",
+    "name": "M7.7 4 km E of Macapsing, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1990-08-01",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1990-08-02",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1990-12-30",
+    "category": "natural_disaster",
+    "name": "M7.5 104 km ENE of Kimbe, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1991-01-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Cholera pandemic 7"
+  },
+  {
+    "date": "1991-01-17",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1991-04-23",
+    "category": "natural_disaster",
+    "name": "M7.6 34 km S of Limón, Costa Rica",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1991-06-15",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1991-06-25",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Yugoslav Wars"
+  },
+  {
+    "date": "1991-08-06",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1991-08-19",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1991-12-22",
+    "category": "natural_disaster",
+    "name": "M7.6 248 km E of Kuril’sk, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1991-12-25",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1992-04-05",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1992-09-02",
+    "category": "natural_disaster",
+    "name": "M7.7 83 km SSW of Corinto, Nicaragua",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1992-09-16",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1992-12-12",
+    "category": "natural_disaster",
+    "name": "M7.8 37 km WNW of Maumere, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1993-01-01",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1993-01-15",
+    "category": "natural_disaster",
+    "name": "M7.6 52 km NE of Otofuke, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1993-02-26",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1993-04-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Cryptosporidiosis outbreak"
+  },
+  {
+    "date": "1993-04-22",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1993-06-08",
+    "category": "natural_disaster",
+    "name": "M7.5 97 km ESE of Ozernovskiy, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1993-07-12",
+    "category": "natural_disaster",
+    "name": "M7.7 107 km W of Iwanai, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1993-08-08",
+    "category": "natural_disaster",
+    "name": "M7.8 32 km S of Inarajan Village, Guam",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1994-01-17",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1994-03-10",
+    "category": "natural_disaster",
+    "name": "M7.6 240 km E of Levuka, Fiji",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1994-04-06",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1994-06-09",
+    "category": "natural_disaster",
+    "name": "M8.2 55 km NNW of Reyes, Bolivia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1994-09-21",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Plague India"
+  },
+  {
+    "date": "1994-10-04",
+    "category": "natural_disaster",
+    "name": "M8.3 48 km E of Shikotan, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1994-12-11",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "First Chechen War"
+  },
+  {
+    "date": "1994-12-20",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1994-12-28",
+    "category": "natural_disaster",
+    "name": "M7.8 off the east coast of Honshu, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1995-01-17",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1995-05-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Ebola Kikwit"
+  },
+  {
+    "date": "1995-05-17",
+    "category": "natural_disaster",
+    "name": "M7.7 249 km E of Vao, New Caledonia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1995-07-30",
+    "category": "natural_disaster",
+    "name": "M8 36 km NNE of Antofagasta, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1995-08-09",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1995-08-16",
+    "category": "natural_disaster",
+    "name": "M7.7 155 km WNW of Panguna, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1995-10-09",
+    "category": "natural_disaster",
+    "name": "M8 1995 Colima-Jalisco, Mexico Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1995-11-04",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1995-12-03",
+    "category": "natural_disaster",
+    "name": "M7.9 128 km ESE of Kuril’sk, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1996-01-01",
+    "category": "natural_disaster",
+    "name": "M7.9 181 km N of Palu, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1996-02-10",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1996-02-21",
+    "category": "natural_disaster",
+    "name": "M7.5 123 km WSW of Puerto Santa, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1996-03-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "BSE/Mad Cow crisis"
+  },
+  {
+    "date": "1996-06-17",
+    "category": "natural_disaster",
+    "name": "M7.9 169 km NNE of Maumere, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1996-09-27",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1996-11-12",
+    "category": "natural_disaster",
+    "name": "M7.7 60 km SW of Changuillo, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1997-02-22",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Dolly the sheep"
+  },
+  {
+    "date": "1997-04-21",
+    "category": "natural_disaster",
+    "name": "M7.7 171 km NNW of Sola, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1997-05-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "H5N1 first cases"
+  },
+  {
+    "date": "1997-05-11",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1997-07-01",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1997-07-02",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1997-10-14",
+    "category": "natural_disaster",
+    "name": "M7.8 192 km WSW of Haveluloto, Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1997-10-27",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1997-11-08",
+    "category": "natural_disaster",
+    "name": "M7.5 western Xizang",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1997-12-05",
+    "category": "natural_disaster",
+    "name": "M7.8 156 km S of Ust’-Kamchatsk Staryy, Russi",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1998-01-04",
+    "category": "natural_disaster",
+    "name": "M7.5 southeast of the Loyalty Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1998-03-25",
+    "category": "natural_disaster",
+    "name": "M8.1 1998 Balleny Islands Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1998-05-04",
+    "category": "natural_disaster",
+    "name": "M7.5 254 km SSE of Ishigaki, Japan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1998-08-07",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1998-08-17",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1998-09-04",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1998-09-23",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1998-11-29",
+    "category": "natural_disaster",
+    "name": "M7.7 264 km ESE of Luwuk, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1999-03-24",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1999-08-09",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1999-08-17",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1999-09-21",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "1999-10-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "West Nile US"
+  },
+  {
+    "date": "1999-11-26",
+    "category": "natural_disaster",
+    "name": "M7.5 92 km ESE of Lakatoro, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2000-01-14",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2000-02-12",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Human genome draft"
+  },
+  {
+    "date": "2000-03-10",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2000-03-28",
+    "category": "natural_disaster",
+    "name": "M7.6 Volcano Islands, Japan region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2000-05-04",
+    "category": "natural_disaster",
+    "name": "M7.6 89 km E of Luwuk, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2000-06-18",
+    "category": "natural_disaster",
+    "name": "M7.9 South Indian Ocean",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2000-11-18",
+    "category": "natural_disaster",
+    "name": "M7.8 138 km SSW of Kokopo, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2001-01-26",
+    "category": "natural_disaster",
+    "name": "M7.7 17 km NW of Bhach?u, India",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2001-06-24",
+    "category": "natural_disaster",
+    "name": "M8.4 6 km SSW of Atico, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2001-07-07",
+    "category": "natural_disaster",
+    "name": "M7.6 51 km SW of Punta de Bombón, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2001-09-11",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2001-10-07",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Afghanistan War"
+  },
+  {
+    "date": "2001-10-19",
+    "category": "natural_disaster",
+    "name": "M7.5 155 km E of Kendari, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2001-10-23",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2001-11-14",
+    "category": "natural_disaster",
+    "name": "M7.8 Southern Qinghai, China",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2001-12-02",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2002-03-06",
+    "category": "natural_disaster",
+    "name": "M7.5 Mindanao, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2002-06-25",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "WorldCom fraud"
+  },
+  {
+    "date": "2002-07-19",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2002-08-19",
+    "category": "natural_disaster",
+    "name": "M7.7 south of the Fiji Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2002-09-08",
+    "category": "natural_disaster",
+    "name": "M7.6 68 km ESE of Aitape, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2002-10-10",
+    "category": "natural_disaster",
+    "name": "M7.6 102 km SSE of Manokwari, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2002-11-01",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2002-11-04",
+    "category": "natural_disaster",
+    "name": "M7.9 2002 Denali Fault, Alaska Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2003-01-22",
+    "category": "natural_disaster",
+    "name": "M7.6 16 km SSW of Cuyutlán, Mexico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2003-03-15",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2003-03-20",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2003-04-14",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Human genome complete"
+  },
+  {
+    "date": "2003-07-16",
+    "category": "natural_disaster",
+    "name": "M7.6 Carlsberg Ridge",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2003-08-01",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2003-09-25",
+    "category": "natural_disaster",
+    "name": "M8.16 2003 Tokachi-Oki Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2003-11-17",
+    "category": "natural_disaster",
+    "name": "M7.8 Rat Islands, Aleutian Islands, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2004-01-28",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "H5N1 Asia"
+  },
+  {
+    "date": "2004-02-04",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2004-03-11",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2004-11-12",
+    "category": "natural_disaster",
+    "name": "M7.5 63 km NW of Maubara, Timor Leste",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2004-12-26",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2005-02-14",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "YouTube"
+  },
+  {
+    "date": "2005-03-28",
+    "category": "natural_disaster",
+    "name": "M8.6 78 km WSW of Singkil, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2005-06-14",
+    "category": "natural_disaster",
+    "name": "M7.8 102 km ENE of Iquique, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2005-07-07",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2005-08-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Marburg Angola"
+  },
+  {
+    "date": "2005-08-29",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2005-09-26",
+    "category": "natural_disaster",
+    "name": "M7.5 39 km NW of Yurimaguas, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2005-10-08",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2006-01-27",
+    "category": "natural_disaster",
+    "name": "M7.6 196 km S of Ambon, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2006-04-21",
+    "category": "natural_disaster",
+    "name": "M7.6 80 km NE of Tilichiki, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2006-05-03",
+    "category": "natural_disaster",
+    "name": "M8 2006 Tonga Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2006-07-12",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "2006 Lebanon War"
+  },
+  {
+    "date": "2006-07-17",
+    "category": "natural_disaster",
+    "name": "M7.7 226 km SSW of Singaparna, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2006-08-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Chikungunya Indian Ocean"
+  },
+  {
+    "date": "2006-10-09",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2006-11-15",
+    "category": "natural_disaster",
+    "name": "M8.3 2006 Kuril Islands Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-01-09",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-01-21",
+    "category": "natural_disaster",
+    "name": "M7.5 126 km WNW of Ternate, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-02-27",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-04-02",
+    "category": "natural_disaster",
+    "name": "M8.1 2007 Solomon Islands Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-08-09",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-08-16",
+    "category": "natural_disaster",
+    "name": "M8 41 km SW of San Vicente de Cañete, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-09-28",
+    "category": "natural_disaster",
+    "name": "M7.5 Volcano Islands, Japan region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-11-14",
+    "category": "natural_disaster",
+    "name": "M7.7 36 km ESE of Tocopilla, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-12-09",
+    "category": "natural_disaster",
+    "name": "M7.8 south of the Fiji Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2007-12-27",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2008-03-14",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2008-05-02",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2008-05-12",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2008-07-05",
+    "category": "natural_disaster",
+    "name": "M7.7 Sea of Okhotsk",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2008-08-08",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2008-09-10",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2008-09-15",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2008-10-08",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-01-01",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "Great Recession"
+  },
+  {
+    "date": "2009-01-03",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-01-03",
+    "category": "natural_disaster",
+    "name": "M7.7 140 km WNW of Manokwari, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-03-09",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-03-19",
+    "category": "natural_disaster",
+    "name": "M7.6 191 km S of ‘Ohonua, Tonga",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-04-09",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-06-11",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "H1N1 pandemic declared"
+  },
+  {
+    "date": "2009-07-15",
+    "category": "natural_disaster",
+    "name": "M7.8 97 km WSW of Te Anau, New Zealand",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-08-10",
+    "category": "natural_disaster",
+    "name": "M7.5 266 km N of Bamboo Flat, India",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-09-30",
+    "category": "natural_disaster",
+    "name": "M7.6 30 km WSW of Pariaman, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2009-10-08",
+    "category": "natural_disaster",
+    "name": "M7.8 196 km NW of Sola, Vanuatu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2010-01-12",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2010-02-27",
+    "category": "natural_disaster",
+    "name": "M8.8 2010 Maule, Chile Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2010-04-20",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2010-05-10",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2010-06-12",
+    "category": "natural_disaster",
+    "name": "M7.5 Nicobar Islands, India region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2010-06-24",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2010-07-24",
+    "category": "natural_disaster",
+    "name": "M7.5 72 km S of Panubigan, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2010-10-01",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Haiti cholera"
+  },
+  {
+    "date": "2010-10-25",
+    "category": "natural_disaster",
+    "name": "M7.8 215 km SW of Sungai Penuh, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2011-02-17",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2011-02-22",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2011-03-11",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2011-03-15",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Syrian Civil War"
+  },
+  {
+    "date": "2011-05-02",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2011-07-06",
+    "category": "natural_disaster",
+    "name": "M7.6 Kermadec Islands region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2011-08-05",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2011-10-05",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2012-04-11",
+    "category": "natural_disaster",
+    "name": "M8.2 2012 Wharton Basin Aftershock",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2012-06-01",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2012-07-04",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Higgs boson"
+  },
+  {
+    "date": "2012-07-18",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2012-08-25",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2012-08-31",
+    "category": "natural_disaster",
+    "name": "M7.6 89 km E of Sulangan, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2012-09-01",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2012-09-05",
+    "category": "natural_disaster",
+    "name": "M7.6 11 km ENE of Hojancha, Costa Rica",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2012-10-29",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-01-05",
+    "category": "natural_disaster",
+    "name": "M7.5 110 km SW of Edna Bay, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-02-06",
+    "category": "natural_disaster",
+    "name": "M8 2013 Santa Cruz Islands Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-03-31",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "H7N9 China"
+  },
+  {
+    "date": "2013-04-15",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-04-16",
+    "category": "natural_disaster",
+    "name": "M7.7 79 km ESE of Kh?sh, Iran",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-05-24",
+    "category": "natural_disaster",
+    "name": "M8.3 2013 Sea of Okhotsk Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-08-21",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-09-24",
+    "category": "natural_disaster",
+    "name": "M7.7 113 km NW of Bela, Pakistan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-11-08",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2013-12-19",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2014-02-22",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2014-03-18",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2014-03-23",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2014-04-19",
+    "category": "natural_disaster",
+    "name": "M7.5 70 km SW of Panguna, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2014-06-24",
+    "category": "natural_disaster",
+    "name": "M7.9 Rat Islands, Aleutian Islands, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2014-07-17",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2014-08-08",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Ebola emergency"
+  },
+  {
+    "date": "2014-10-15",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2014-10-20",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "AI breakthrough"
+  },
+  {
+    "date": "2015-01-07",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-03-26",
+    "category": "geopolitical",
+    "source": "cow",
+    "name": "Yemen Civil War"
+  },
+  {
+    "date": "2015-03-30",
+    "category": "natural_disaster",
+    "name": "M7.5 53 km SE of Kokopo, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-04-25",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-05-20",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-05-30",
+    "category": "natural_disaster",
+    "name": "M7.8 Bonin Islands, Japan region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-08-24",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-09-14",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Gravitational waves"
+  },
+  {
+    "date": "2015-09-17",
+    "category": "natural_disaster",
+    "name": "M8.3 48 km W of Illapel, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-10-26",
+    "category": "natural_disaster",
+    "name": "M7.5 Hindu Kush region, Afghanistan",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-11-13",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2015-11-25",
+    "category": "natural_disaster",
+    "name": "M7.6 185 km WNW of Iñapari, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-01-20",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-02-01",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-03-02",
+    "category": "natural_disaster",
+    "name": "M7.8 southwest of Sumatra, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-03-09",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-04-17",
+    "category": "natural_disaster",
+    "name": "M7.8 27 km SSE of Muisne, Ecuador",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-07-15",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-07-30",
+    "category": "natural_disaster",
+    "name": "M7.7 Pagan region, Northern Mariana Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-08-24",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-11-13",
+    "category": "natural_disaster",
+    "name": "M7.8 53 km NNE of Amberley, New Zealand",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-11-30",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2016-12-25",
+    "category": "natural_disaster",
+    "name": "M7.6 41 km SW of Quellón, Chile",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2017-01-22",
+    "category": "natural_disaster",
+    "name": "M7.9 35 km WNW of Panguna, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2017-04-07",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2017-05-12",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "WannaCry (bio parallel)"
+  },
+  {
+    "date": "2017-07-18",
+    "category": "natural_disaster",
+    "name": "M7.7 Komandorskiye Ostrova, Russia region",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2017-08-25",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2017-09-07",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2017-12-17",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-01-23",
+    "category": "natural_disaster",
+    "name": "M7.9 261 km SE of Chiniak, Alaska",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-02-25",
+    "category": "natural_disaster",
+    "name": "M7.5 32 km SW of Tari, Papua New Guinea",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-04-14",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-05-08",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Ebola DRC"
+  },
+  {
+    "date": "2018-06-01",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "GPT-1"
+  },
+  {
+    "date": "2018-08-01",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-08-19",
+    "category": "natural_disaster",
+    "name": "M8.2 2018 Fiji Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-09-06",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-11-08",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-12-05",
+    "category": "natural_disaster",
+    "name": "M7.5 166 km ESE of Tadine, New Caledonia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2018-12-24",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2019-01-03",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2019-02-22",
+    "category": "natural_disaster",
+    "name": "M7.5 115 km ESE of Palora, Ecuador",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2019-04-10",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Black hole photo"
+  },
+  {
+    "date": "2019-05-26",
+    "category": "natural_disaster",
+    "name": "M8 78 km NE of Navarro, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2019-07-17",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Ebola emergency 2019"
+  },
+  {
+    "date": "2019-10-23",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Quantum supremacy"
+  },
+  {
+    "date": "2019-12-31",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-01-03",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-01-28",
+    "category": "natural_disaster",
+    "name": "M7.7 123 km NNW of Lucea, Jamaica",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-01-30",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-02-24",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-03-11",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-03-20",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-03-25",
+    "category": "natural_disaster",
+    "name": "M7.5 221 km SSE of Severo-Kuril’sk, Russia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-07-22",
+    "category": "natural_disaster",
+    "name": "M7.8 2020 Perryville, Alaska Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-10-19",
+    "category": "natural_disaster",
+    "name": "M7.6 2020 Sand Point, Alaska Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-11-09",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2020-11-09",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-01-06",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-02-10",
+    "category": "natural_disaster",
+    "name": "M7.7 southeast of the Loyalty Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-03-04",
+    "category": "natural_disaster",
+    "name": "M8.1 2021 Kermadec Islands, New Zealand Earth",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-05-05",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-07-11",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "Bezos space"
+  },
+  {
+    "date": "2021-07-14",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-08-12",
+    "category": "natural_disaster",
+    "name": "M8.1 2021 South Sandwich Islands Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-08-15",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-11-26",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2021-11-28",
+    "category": "natural_disaster",
+    "name": "M7.5 43 km NNW of Barranca, Peru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2022-01-24",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2022-02-24",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2022-05-23",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2022-07-23",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Mpox global emergency"
+  },
+  {
+    "date": "2022-09-19",
+    "category": "natural_disaster",
+    "name": "M7.6 35 km SSW of Aguililla, Mexico",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2022-09-23",
+    "category": "economic_crisis",
+    "source": "manual",
+    "name": "UK gilt crisis"
+  },
+  {
+    "date": "2022-11-30",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-01-09",
+    "category": "natural_disaster",
+    "name": "M7.6 Pulau Pulau Tanimbar, Indonesia",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-02-06",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-03-10",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-03-14",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-05-05",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "COVID emergency end"
+  },
+  {
+    "date": "2023-05-19",
+    "category": "natural_disaster",
+    "name": "M7.7 southeast of the Loyalty Islands",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-07-18",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-09-20",
+    "category": "economic_crisis",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-10-07",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2023-12-02",
+    "category": "natural_disaster",
+    "name": "M7.6 19 km E of Gamut, Philippines",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2024-01-01",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2024-02-15",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2024-04-01",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2024-05-13",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2024-06-01",
+    "category": "epidemic",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2024-08-14",
+    "category": "epidemic",
+    "source": "who_manual",
+    "name": "Mpox 2024 emergency"
+  },
+  {
+    "date": "2024-09-12",
+    "category": "tech_breakthrough",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2024-09-27",
+    "category": "natural_disaster",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2024-10-07",
+    "category": "geopolitical",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2025-01-20",
+    "category": "tech_breakthrough",
+    "source": "manual",
+    "name": "DeepSeek R1"
+  },
+  {
+    "date": "2025-02-09",
+    "category": "natural_disaster",
+    "name": "M7.6 210 km SSW of George Town, Cayman Island",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2025-03-28",
+    "category": "natural_disaster",
+    "name": "M7.7 2025 Mandalay, Burma (Myanmar) Earthquak",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2025-07-30",
+    "category": "natural_disaster",
+    "name": "M8.8 2025 Kamchatka Peninsula, Russia Earthqu",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2025-08-22",
+    "category": "natural_disaster",
+    "name": "M7.5 2025 Southern Drake Passage Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2025-09-18",
+    "category": "natural_disaster",
+    "name": "M7.8 140 km E of Petropavlovsk-Kamchatsky, Ru",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2025-10-10",
+    "category": "natural_disaster",
+    "name": "M7.6 Drake Passage",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  },
+  {
+    "date": "2025-12-08",
+    "category": "natural_disaster",
+    "name": "M7.6 2025 Aomori Prefecture, Japan Earthquake",
+    "source": "usgs_api",
+    "goldstein": -7.0,
+    "tone": -3.0
+  }
+]
