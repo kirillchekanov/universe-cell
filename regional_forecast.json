@@ -1,0 +1,73 @@
+{
+  "f1_walkforward": 0.335,
+  "f1_crossval": 0.279,
+  "n_classes": 9,
+  "classes": [
+    "economic_crisis",
+    "epidemic",
+    "geopolitical",
+    "natural_disaster",
+    "natural_disaster_americas",
+    "natural_disaster_asia",
+    "natural_disaster_europe",
+    "neutral",
+    "tech_breakthrough"
+  ],
+  "forecast": {
+    "2026-08-29": {
+      "economic_crisis": 0.0839,
+      "epidemic": 0.1028,
+      "geopolitical": 0.1094,
+      "natural_disaster": 0.038,
+      "natural_disaster_americas": 0.035,
+      "natural_disaster_asia": 0.1626,
+      "natural_disaster_europe": 0.0653,
+      "neutral": 0.2633,
+      "tech_breakthrough": 0.1397
+    },
+    "2027-03-21": {
+      "economic_crisis": 0.0817,
+      "epidemic": 0.1013,
+      "geopolitical": 0.1212,
+      "natural_disaster": 0.1107,
+      "natural_disaster_americas": 0.0616,
+      "natural_disaster_asia": 0.2379,
+      "natural_disaster_europe": 0.0649,
+      "neutral": 0.1233,
+      "tech_breakthrough": 0.0973
+    },
+    "2027-09-23": {
+      "economic_crisis": 0.1164,
+      "epidemic": 0.0878,
+      "geopolitical": 0.1252,
+      "natural_disaster": 0.114,
+      "natural_disaster_americas": 0.0575,
+      "natural_disaster_asia": 0.1417,
+      "natural_disaster_europe": 0.0605,
+      "neutral": 0.191,
+      "tech_breakthrough": 0.106
+    },
+    "2027-12-22": {
+      "economic_crisis": 0.1026,
+      "epidemic": 0.1364,
+      "geopolitical": 0.0908,
+      "natural_disaster": 0.1239,
+      "natural_disaster_americas": 0.0657,
+      "natural_disaster_asia": 0.1685,
+      "natural_disaster_europe": 0.065,
+      "neutral": 0.1204,
+      "tech_breakthrough": 0.1267
+    },
+    "2028-12-16": {
+      "economic_crisis": 0.0321,
+      "epidemic": 0.0614,
+      "geopolitical": 0.0969,
+      "natural_disaster": 0.089,
+      "natural_disaster_americas": 0.0461,
+      "natural_disaster_asia": 0.1048,
+      "natural_disaster_europe": 0.0489,
+      "neutral": 0.2648,
+      "tech_breakthrough": 0.2561
+    }
+  }
+}

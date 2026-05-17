@@ -1,0 +1,418 @@
+{
+  "countries": {
+    "USA": "1776-07-04",
+    "Russia": "1991-12-25",
+    "China": "1949-10-01",
+    "Germany": "1990-10-03",
+    "France": "1958-10-04",
+    "UK": "1801-01-01",
+    "Japan": "1947-05-03",
+    "Israel": "1948-05-14",
+    "India": "1947-08-15",
+    "Pakistan": "1947-08-14",
+    "Ukraine": "1991-08-24",
+    "Iran": "1979-04-01",
+    "Saudi Arabia": "1932-09-23",
+    "Turkey": "1923-10-29",
+    "Brazil": "1889-11-15",
+    "EU": "1993-11-01",
+    "UN": "1945-10-24",
+    "NATO": "1949-04-04",
+    "North Korea": "1948-09-09",
+    "South Korea": "1948-08-15"
+  },
+  "natal_configs": {
+    "USA": {
+      "date": "1776-07-04",
+      "lons": {
+        "Sun": 282.45,
+        "Moon": 313.81,
+        "Mercury": 267.01,
+        "Venus": 77.13,
+        "Mars": 66.46,
+        "Jupiter": 94.42,
+        "Saturn": 200.8,
+        "Uranus": 67.22,
+        "Neptune": 174.22
+      }
+    },
+    "Russia": {
+      "date": "1991-12-25",
+      "lons": {
+        "Sun": 92.68,
+        "Moon": 142.48,
+        "Mercury": 167.19,
+        "Venus": 168.9,
+        "Mars": 249.54,
+        "Jupiter": 154.57,
+        "Saturn": 308.13,
+        "Uranus": 283.8,
+        "Neptune": 286.38
+      }
+    },
+    "China": {
+      "date": "1949-10-01",
+      "lons": {
+        "Sun": 7.49,
+        "Moon": 299.36,
+        "Mercury": 356.42,
+        "Venus": 295.14,
+        "Mars": 104.95,
+        "Jupiter": 303.49,
+        "Saturn": 160.58,
+        "Uranus": 91.95,
+        "Neptune": 194.88
+      }
+    },
+    "Germany": {
+      "date": "1990-10-03",
+      "lons": {
+        "Sun": 9.53,
+        "Moon": 349.57,
+        "Mercury": 126.23,
+        "Venus": 171.16,
+        "Mars": 34.18,
+        "Jupiter": 119.03,
+        "Saturn": 294.45,
+        "Uranus": 278.69,
+        "Neptune": 283.72
+      }
+    },
+    "France": {
+      "date": "1958-10-04",
+      "lons": {
+        "Sun": 10.26,
+        "Moon": 76.65,
+        "Mercury": 186.14,
+        "Venus": 166.56,
+        "Mars": 28.82,
+        "Jupiter": 219.68,
+        "Saturn": 265.79,
+        "Uranus": 132.75,
+        "Neptune": 214.38
+      }
+    },
+    "UK": {
+      "date": "1801-01-01",
+      "lons": {
+        "Sun": 100.19,
+        "Moon": 109.43,
+        "Mercury": 187.14,
+        "Venus": 10.1,
+        "Mars": 74.69,
+        "Jupiter": 117.9,
+        "Saturn": 139.17,
+        "Uranus": 178.85,
+        "Neptune": 227.29
+      }
+    },
+    "Japan": {
+      "date": "1947-05-03",
+      "lons": {
+        "Sun": 221.74,
+        "Moon": 195.71,
+        "Mercury": 345.98,
+        "Venus": 321.67,
+        "Mars": 358.07,
+        "Jupiter": 231.83,
+        "Saturn": 128.99,
+        "Uranus": 81.44,
+        "Neptune": 189.64
+      }
+    },
+    "Israel": {
+      "date": "1948-05-14",
+      "lons": {
+        "Sun": 233.11,
+        "Moon": 116.07,
+        "Mercury": 128.97,
+        "Venus": 206.68,
+        "Mars": 185.92,
+        "Jupiter": 261.47,
+        "Saturn": 142.67,
+        "Uranus": 85.91,
+        "Neptune": 191.88
+      }
+    },
+    "India": {
+      "date": "1947-08-15",
+      "lons": {
+        "Sun": 321.34,
+        "Moon": 120.57,
+        "Mercury": 73.69,
+        "Venus": 128.41,
+        "Mars": 59.19,
+        "Jupiter": 239.89,
+        "Saturn": 132.78,
+        "Uranus": 82.67,
+        "Neptune": 190.26
+      }
+    },
+    "Pakistan": {
+      "date": "1947-08-14",
+      "lons": {
+        "Sun": 320.38,
+        "Moon": 105.53,
+        "Mercury": 67.39,
+        "Venus": 126.78,
+        "Mars": 58.65,
+        "Jupiter": 239.81,
+        "Saturn": 132.75,
+        "Uranus": 82.66,
+        "Neptune": 190.25
+      }
+    },
+    "Ukraine": {
+      "date": "1991-08-24",
+      "lons": {
+        "Sun": 330.35,
+        "Moon": 314.79,
+        "Mercury": 336.73,
+        "Venus": 331.07,
+        "Mars": 189.45,
+        "Jupiter": 144.99,
+        "Saturn": 304.36,
+        "Uranus": 282.4,
+        "Neptune": 285.65
+      }
+    },
+    "Iran": {
+      "date": "1979-04-01",
+      "lons": {
+        "Sun": 190.68,
+        "Moon": 61.03,
+        "Mercury": 209.49,
+        "Venus": 277.14,
+        "Mars": 344.23,
+        "Jupiter": 129.37,
+        "Saturn": 161.6,
+        "Uranus": 228.5,
+        "Neptune": 258.7
+      }
+    },
+    "Saudi Arabia": {
+      "date": "1932-09-23",
+      "lons": {
+        "Sun": 359.75,
+        "Moon": 89.38,
+        "Mercury": 159.32,
+        "Venus": 53.56,
+        "Mars": 88.31,
+        "Jupiter": 155.48,
+        "Saturn": 303.27,
+        "Uranus": 21.15,
+        "Neptune": 157.86
+      }
+    },
+    "Turkey": {
+      "date": "1923-10-29",
+      "lons": {
+        "Sun": 34.54,
+        "Moon": 80.64,
+        "Mercury": 171.83,
+        "Venus": 244.76,
+        "Mars": 170.79,
+        "Jupiter": 237.67,
+        "Saturn": 203.43,
+        "Uranus": 346.1,
+        "Neptune": 138.39
+      }
+    },
+    "Brazil": {
+      "date": "1889-11-15",
+      "lons": {
+        "Sun": 52.86,
+        "Moon": 133.38,
+        "Mercury": 185.95,
+        "Venus": 177.75,
+        "Mars": 155.24,
+        "Jupiter": 285.27,
+        "Saturn": 147.08,
+        "Uranus": 202.77,
+        "Neptune": 63.09
+      }
+    },
+    "EU": {
+      "date": "1993-11-01",
+      "lons": {
+        "Sun": 38.58,
+        "Moon": 54.83,
+        "Mercury": 14.96,
+        "Venus": 173.63,
+        "Mars": 244.27,
+        "Jupiter": 206.09,
+        "Saturn": 329.26,
+        "Uranus": 291.46,
+        "Neptune": 290.43
+      }
+    },
+    "UN": {
+      "date": "1945-10-24",
+      "lons": {
+        "Sun": 30.23,
+        "Moon": 69.41,
+        "Mercury": 254.6,
+        "Venus": 151.3,
+        "Mars": 73.44,
+        "Jupiter": 189.57,
+        "Saturn": 108.45,
+        "Uranus": 74.9,
+        "Neptune": 186.33
+      }
+    },
+    "NATO": {
+      "date": "1949-04-04",
+      "lons": {
+        "Sun": 193.91,
+        "Moon": 73.44,
+        "Mercury": 338.55,
+        "Venus": 5.98,
+        "Mars": 7.46,
+        "Jupiter": 288.17,
+        "Saturn": 154.25,
+        "Uranus": 89.79,
+        "Neptune": 193.81
+      }
+    },
+    "North Korea": {
+      "date": "1948-09-09",
+      "lons": {
+        "Sun": 346.22,
+        "Moon": 240.63,
+        "Mercury": 241.87,
+        "Venus": 34.21,
+        "Mars": 242.86,
+        "Jupiter": 271.02,
+        "Saturn": 146.9,
+        "Uranus": 87.32,
+        "Neptune": 192.58
+      }
+    },
+    "South Korea": {
+      "date": "1948-08-15",
+      "lons": {
+        "Sun": 322.07,
+        "Moon": 269.56,
+        "Mercury": 154.99,
+        "Venus": 354.36,
+        "Mars": 229.96,
+        "Jupiter": 268.99,
+        "Saturn": 146.0,
+        "Uranus": 87.02,
+        "Neptune": 192.43
+      }
+    }
+  },
+  "forecast": {
+    "2026-08-29": {
+      "USA": 78.76,
+      "Russia": 99.5,
+      "China": 89.68,
+      "Germany": 60.65,
+      "France": 82.21,
+      "UK": 82.36,
+      "Japan": 104.78,
+      "Israel": 104.03,
+      "India": 93.94,
+      "Pakistan": 93.3,
+      "Ukraine": 73.51,
+      "Iran": 88.95,
+      "Saudi Arabia": 61.19,
+      "Turkey": 90.18,
+      "Brazil": 106.06,
+      "EU": 100.32,
+      "UN": 81.7,
+      "NATO": 114.79,
+      "North Korea": 104.14,
+      "South Korea": 86.66
+    },
+    "2027-03-21": {
+      "USA": 103.63,
+      "Russia": 75.13,
+      "China": 110.71,
+      "Germany": 114.7,
+      "France": 106.96,
+      "UK": 87.61,
+      "Japan": 86.23,
+      "Israel": 82.52,
+      "India": 112.01,
+      "Pakistan": 113.11,
+      "Ukraine": 85.38,
+      "Iran": 85.76,
+      "Saudi Arabia": 94.21,
+      "Turkey": 91.0,
+      "Brazil": 87.73,
+      "EU": 95.62,
+      "UN": 85.92,
+      "NATO": 101.6,
+      "North Korea": 101.36,
+      "South Korea": 105.34
+    },
+    "2027-09-23": {
+      "USA": 104.32,
+      "Russia": 67.68,
+      "China": 104.22,
+      "Germany": 88.68,
+      "France": 76.23,
+      "UK": 107.51,
+      "Japan": 100.2,
+      "Israel": 87.93,
+      "India": 94.72,
+      "Pakistan": 92.57,
+      "Ukraine": 79.74,
+      "Iran": 95.93,
+      "Saudi Arabia": 80.89,
+      "Turkey": 82.19,
+      "Brazil": 85.27,
+      "EU": 57.05,
+      "UN": 67.64,
+      "NATO": 106.77,
+      "North Korea": 91.1,
+      "South Korea": 103.7
+    },
+    "2027-12-22": {
+      "USA": 102.97,
+      "Russia": 81.03,
+      "China": 103.44,
+      "Germany": 114.59,
+      "France": 106.3,
+      "UK": 84.77,
+      "Japan": 70.43,
+      "Israel": 116.79,
+      "India": 108.55,
+      "Pakistan": 109.37,
+      "Ukraine": 82.86,
+      "Iran": 96.79,
+      "Saudi Arabia": 92.34,
+      "Turkey": 110.33,
+      "Brazil": 106.53,
+      "EU": 92.15,
+      "UN": 89.54,
+      "NATO": 89.29,
+      "North Korea": 79.2,
+      "South Korea": 91.41
+    },
+    "2028-12-16": {
+      "USA": 99.7,
+      "Russia": 87.09,
+      "China": 78.05,
+      "Germany": 99.45,
+      "France": 100.34,
+      "UK": 105.3,
+      "Japan": 89.86,
+      "Israel": 97.51,
+      "India": 97.24,
+      "Pakistan": 98.55,
+      "Ukraine": 81.72,
+      "Iran": 116.24,
+      "Saudi Arabia": 106.29,
+      "Turkey": 95.57,
+      "Brazil": 79.87,
+      "EU": 77.42,
+      "UN": 73.15,
+      "NATO": 110.72,
+      "North Korea": 93.76,
+      "South Korea": 99.39
+    }
+  }
+}
