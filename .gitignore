@@ -1,0 +1,6 @@
+*.map
+*.gz
+*.pkl
+*.txt.gz
+__pycache__/
+.DS_Store
