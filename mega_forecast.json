@@ -1,0 +1,63 @@
+{
+  "f1": 0.6,
+  "n_features": 52,
+  "top_features": [
+    "sn_val",
+    "asp2_s",
+    "pl0_c",
+    "sun_dist",
+    "asp3_c",
+    "moon_phase",
+    "pl3_c",
+    "ang_mom",
+    "pl3_s",
+    "pl0_s",
+    "asp0_c",
+    "asp1_c",
+    "asp0_s",
+    "pl4_c",
+    "pl6_s"
+  ],
+  "forecast": {
+    "2026-08-29": {
+      "economic_crisis": 0.1303,
+      "epidemic": 0.1395,
+      "geopolitical": 0.263,
+      "natural_disaster": 0.084,
+      "neutral": 0.2265,
+      "tech_breakthrough": 0.1566
+    },
+    "2026-10-28": {
+      "economic_crisis": 0.0565,
+      "epidemic": 0.0536,
+      "geopolitical": 0.1305,
+      "natural_disaster": 0.0677,
+      "neutral": 0.6322,
+      "tech_breakthrough": 0.0595
+    },
+    "2027-09-23": {
+      "economic_crisis": 0.2288,
+      "epidemic": 0.0415,
+      "geopolitical": 0.1669,
+      "natural_disaster": 0.0728,
+      "neutral": 0.3466,
+      "tech_breakthrough": 0.1434
+    },
+    "2027-12-22": {
+      "economic_crisis": 0.1347,
+      "epidemic": 0.0371,
+      "geopolitical": 0.1844,
+      "natural_disaster": 0.0874,
+      "neutral": 0.4304,
+      "tech_breakthrough": 0.1261
+    },
+    "2028-12-16": {
+      "economic_crisis": 0.0581,
+      "epidemic": 0.0395,
+      "geopolitical": 0.1968,
+      "natural_disaster": 0.1113,
+      "neutral": 0.4082,
+      "tech_breakthrough": 0.1861
+    }
+  }
+}
