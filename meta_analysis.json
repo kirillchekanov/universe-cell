@@ -1,0 +1,12 @@
+{
+  "meta_p_ttest": 0.210983,
+  "meta_p_perm": 0.0965,
+  "cohens_d": 0.139,
+  "mean_event_delta": 82.19,
+  "mean_neutral_delta": 85.5,
+  "wf_f1": 0.381,
+  "wf_precision": 0.343,
+  "wf_threshold": 88.8,
+  "known_hits": 12,
+  "known_total": 28
+}

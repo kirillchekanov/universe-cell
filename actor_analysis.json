@@ -1,0 +1,137 @@
+{
+  "China": {
+    "n": 10,
+    "mean_event": 87.5,
+    "mean_neutral": 90.3,
+    "diff": -2.8,
+    "p_ttest": 0.6182,
+    "p_perm": 0.648,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "EU": {
+    "n": 6,
+    "mean_event": 62.8,
+    "mean_neutral": 83.2,
+    "diff": -20.4,
+    "p_ttest": 0.0096,
+    "p_perm": 0.044,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "France": {
+    "n": 7,
+    "mean_event": 79.3,
+    "mean_neutral": 86.3,
+    "diff": -7.0,
+    "p_ttest": 0.3302,
+    "p_perm": 0.395,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "Germany": {
+    "n": 5,
+    "mean_event": 65.5,
+    "mean_neutral": 82.7,
+    "diff": -17.2,
+    "p_ttest": 0.0397,
+    "p_perm": 0.091,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "India": {
+    "n": 9,
+    "mean_event": 86.2,
+    "mean_neutral": 95.1,
+    "diff": -8.8,
+    "p_ttest": 0.1409,
+    "p_perm": 0.256,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "Iran": {
+    "n": 6,
+    "mean_event": 67.9,
+    "mean_neutral": 83.0,
+    "diff": -15.0,
+    "p_ttest": 0.032,
+    "p_perm": 0.066,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "Iraq": {
+    "n": 6,
+    "mean_event": 68.1,
+    "mean_neutral": 87.2,
+    "diff": -19.2,
+    "p_ttest": 0.0164,
+    "p_perm": 0.068,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "Israel": {
+    "n": 7,
+    "mean_event": 77.1,
+    "mean_neutral": 91.3,
+    "diff": -14.2,
+    "p_ttest": 0.0354,
+    "p_perm": 0.069,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "Japan": {
+    "n": 7,
+    "mean_event": 98.9,
+    "mean_neutral": 92.7,
+    "diff": 6.2,
+    "p_ttest": 0.3328,
+    "p_perm": 0.342,
+    "direction": "\u2191 \u0414\u0410\u041b\u042c\u0428\u0415"
+  },
+  "NATO": {
+    "n": 6,
+    "mean_event": 79.0,
+    "mean_neutral": 91.2,
+    "diff": -12.1,
+    "p_ttest": 0.1055,
+    "p_perm": 0.251,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "Russia": {
+    "n": 16,
+    "mean_event": 74.7,
+    "mean_neutral": 83.0,
+    "diff": -8.3,
+    "p_ttest": 0.0479,
+    "p_perm": 0.353,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  },
+  "Turkey": {
+    "n": 4,
+    "mean_event": 101.0,
+    "mean_neutral": 90.3,
+    "diff": 10.7,
+    "p_ttest": 0.1816,
+    "p_perm": 0.35,
+    "direction": "\u2191 \u0414\u0410\u041b\u042c\u0428\u0415"
+  },
+  "UK": {
+    "n": 9,
+    "mean_event": 92.2,
+    "mean_neutral": 86.4,
+    "diff": 5.8,
+    "p_ttest": 0.3633,
+    "p_perm": 0.215,
+    "direction": "\u2191 \u0414\u0410\u041b\u042c\u0428\u0415"
+  },
+  "USA": {
+    "n": 31,
+    "mean_event": 94.1,
+    "mean_neutral": 89.0,
+    "diff": 5.2,
+    "p_ttest": 0.0934,
+    "p_perm": 0.114,
+    "direction": "\u2191 \u0414\u0410\u041b\u042c\u0428\u0415"
+  },
+  "Ukraine": {
+    "n": 4,
+    "mean_event": 65.8,
+    "mean_neutral": 81.5,
+    "diff": -15.8,
+    "p_ttest": 0.075,
+    "p_perm": 0.205,
+    "direction": "\u2193 \u0411\u041b\u0418\u0416\u0415"
+  }
+}
