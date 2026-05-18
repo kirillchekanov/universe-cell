@@ -1,0 +1,85 @@
+{
+  "model_accuracy": 0.813,
+  "now_probabilities": {
+    "economic_crisis": 0.0511,
+    "epidemic": 0.1168,
+    "geopolitical": 0.07,
+    "natural_disaster": 0.071,
+    "neutral": 0.5774,
+    "tech_breakthrough": 0.1138
+  },
+  "natal_probabilities": {
+    "economic_crisis": 0.0665,
+    "epidemic": 0.0265,
+    "geopolitical": 0.0791,
+    "natural_disaster": 0.0851,
+    "neutral": 0.6454,
+    "tech_breakthrough": 0.0975
+  },
+  "tech_peak_dates": [
+    {
+      "date": "2027-03-12",
+      "prob": 0.4032
+    },
+    {
+      "date": "2027-03-18",
+      "prob": 0.3536
+    },
+    {
+      "date": "2027-04-14",
+      "prob": 0.3483
+    },
+    {
+      "date": "2027-02-13",
+      "prob": 0.345
+    },
+    {
+      "date": "2027-03-15",
+      "prob": 0.3406
+    }
+  ],
+  "crisis_peak_dates": [
+    {
+      "date": "2026-06-27",
+      "prob": 0.1107
+    },
+    {
+      "date": "2026-06-30",
+      "prob": 0.106
+    },
+    {
+      "date": "2026-06-21",
+      "prob": 0.1028
+    },
+    {
+      "date": "2026-06-24",
+      "prob": 0.0963
+    },
+    {
+      "date": "2027-06-19",
+      "prob": 0.0896
+    }
+  ],
+  "epidemic_peak_dates": [
+    {
+      "date": "2026-05-19",
+      "prob": 0.1858
+    },
+    {
+      "date": "2027-05-11",
+      "prob": 0.1635
+    },
+    {
+      "date": "2026-05-22",
+      "prob": 0.1622
+    },
+    {
+      "date": "2027-03-03",
+      "prob": 0.1522
+    },
+    {
+      "date": "2027-02-28",
+      "prob": 0.1482
+    }
+  ]
+}

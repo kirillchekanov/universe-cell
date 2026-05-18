@@ -1,0 +1,12 @@
+{
+  "threshold_calibrated": 114.1,
+  "f1_train": 0.684,
+  "f1_test": 0.812,
+  "precision_test": 0.905,
+  "recall_test": 0.736,
+  "p_value_permutation": 0.546,
+  "overfit_gap": -0.128,
+  "verdict": "\u2717 \u041d\u0415 \u0420\u0410\u0411\u041e\u0422\u0410\u0415\u0422 \u043d\u0430 \u0442\u0435\u0441\u0442\u0435",
+  "known_events_hit": 10,
+  "known_events_total": 12
+}

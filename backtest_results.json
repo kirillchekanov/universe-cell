@@ -1,0 +1,928 @@
+{
+  "f1": 0.277,
+  "total": 146,
+  "hits": 12,
+  "near_hits": 23,
+  "misses": 111,
+  "accuracy_top1": 0.082,
+  "accuracy_top2": 0.24,
+  "known_events": [
+    {
+      "date": "2001-09-11",
+      "true": "geopolitical",
+      "name": "9/11"
+    },
+    {
+      "date": "2003-03-20",
+      "true": "geopolitical",
+      "name": "Iraq War"
+    },
+    {
+      "date": "2004-12-26",
+      "true": "natural_disaster",
+      "name": "Indian Ocean tsunami"
+    },
+    {
+      "date": "2005-08-29",
+      "true": "natural_disaster",
+      "name": "Hurricane Katrina"
+    },
+    {
+      "date": "2008-09-15",
+      "true": "economic_crisis",
+      "name": "Lehman Brothers"
+    },
+    {
+      "date": "2009-04-09",
+      "true": "epidemic",
+      "name": "Swine Flu H1N1"
+    },
+    {
+      "date": "2011-03-11",
+      "true": "natural_disaster",
+      "name": "Fukushima"
+    },
+    {
+      "date": "2015-03-17",
+      "true": "geopolitical",
+      "name": "... (Kp storm period)"
+    },
+    {
+      "date": "2020-03-11",
+      "true": "epidemic",
+      "name": "COVID pandemic"
+    },
+    {
+      "date": "2022-02-24",
+      "true": "geopolitical",
+      "name": "Russia-Ukraine War"
+    },
+    {
+      "date": "2022-11-30",
+      "true": "tech_breakthrough",
+      "name": "ChatGPT"
+    },
+    {
+      "date": "2023-02-06",
+      "true": "natural_disaster",
+      "name": "Turkey earthquake"
+    },
+    {
+      "date": "2024-05-10",
+      "true": "natural_disaster",
+      "name": "... (Kp9 storm)"
+    }
+  ],
+  "detailed": [
+    {
+      "date": "2014-04-19",
+      "true": "natural_disaster",
+      "predicted": "natural_disaster",
+      "correct": true,
+      "near": true,
+      "confidence": 0.755,
+      "name": "M7.5 70 km SW of Panguna, Papua New Guin",
+      "proba": {
+        "economic_crisis": 0.093,
+        "epidemic": 0.0,
+        "geopolitical": 0.017,
+        "natural_disaster": 0.755,
+        "neutral": 0.132,
+        "tech_breakthrough": 0.002
+      }
+    },
+    {
+      "date": "2000-11-18",
+      "true": "natural_disaster",
+      "predicted": "natural_disaster",
+      "correct": true,
+      "near": true,
+      "confidence": 0.512,
+      "name": "M7.8 138 km SSW of Kokopo, Papua New Gui",
+      "proba": {
+        "economic_crisis": 0.006,
+        "epidemic": 0.005,
+        "geopolitical": 0.064,
+        "natural_disaster": 0.512,
+        "neutral": 0.39,
+        "tech_breakthrough": 0.023
+      }
+    },
+    {
+      "date": "2007-04-02",
+      "true": "natural_disaster",
+      "predicted": "natural_disaster",
+      "correct": true,
+      "near": true,
+      "confidence": 0.625,
+      "name": "M8.1 2007 Solomon Islands Earthquake",
+      "proba": {
+        "economic_crisis": 0.047,
+        "epidemic": 0.025,
+        "geopolitical": 0.111,
+        "natural_disaster": 0.625,
+        "neutral": 0.165,
+        "tech_breakthrough": 0.027
+      }
+    },
+    {
+      "date": "2003-07-16",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.696,
+      "name": "M7.6 Carlsberg Ridge",
+      "proba": {
+        "economic_crisis": 0.002,
+        "epidemic": 0.002,
+        "geopolitical": 0.249,
+        "natural_disaster": 0.043,
+        "neutral": 0.696,
+        "tech_breakthrough": 0.007
+      }
+    },
+    {
+      "date": "2006-05-03",
+      "true": "natural_disaster",
+      "predicted": "natural_disaster",
+      "correct": true,
+      "near": true,
+      "confidence": 0.677,
+      "name": "M8 2006 Tonga Earthquake",
+      "proba": {
+        "economic_crisis": 0.003,
+        "epidemic": 0.024,
+        "geopolitical": 0.022,
+        "natural_disaster": 0.677,
+        "neutral": 0.271,
+        "tech_breakthrough": 0.003
+      }
+    },
+    {
+      "date": "2025-07-30",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.759,
+      "name": "M8.8 2025 Kamchatka Peninsula, Russia Ea",
+      "proba": {
+        "economic_crisis": 0.004,
+        "epidemic": 0.002,
+        "geopolitical": 0.017,
+        "natural_disaster": 0.21,
+        "neutral": 0.759,
+        "tech_breakthrough": 0.008
+      }
+    },
+    {
+      "date": "2025-03-28",
+      "true": "natural_disaster",
+      "predicted": "natural_disaster",
+      "correct": true,
+      "near": true,
+      "confidence": 0.986,
+      "name": "M7.7 2025 Mandalay, Burma (Myanmar) Eart",
+      "proba": {
+        "economic_crisis": 0.0,
+        "epidemic": 0.0,
+        "geopolitical": 0.007,
+        "natural_disaster": 0.986,
+        "neutral": 0.005,
+        "tech_breakthrough": 0.002
+      }
+    },
+    {
+      "date": "2012-08-31",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.97,
+      "name": "M7.6 89 km E of Sulangan, Philippines",
+      "proba": {
+        "economic_crisis": 0.0,
+        "epidemic": 0.0,
+        "geopolitical": 0.02,
+        "natural_disaster": 0.003,
+        "neutral": 0.97,
+        "tech_breakthrough": 0.007
+      }
+    },
+    {
+      "date": "2015-10-26",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.848,
+      "name": "M7.5 Hindu Kush region, Afghanistan",
+      "proba": {
+        "economic_crisis": 0.005,
+        "epidemic": 0.005,
+        "geopolitical": 0.035,
+        "natural_disaster": 0.09,
+        "neutral": 0.848,
+        "tech_breakthrough": 0.017
+      }
+    },
+    {
+      "date": "2009-08-10",
+      "true": "natural_disaster",
+      "predicted": "economic_crisis",
+      "correct": false,
+      "near": false,
+      "confidence": 0.511,
+      "name": "M7.5 266 km N of Bamboo Flat, India",
+      "proba": {
+        "economic_crisis": 0.511,
+        "epidemic": 0.0,
+        "geopolitical": 0.006,
+        "natural_disaster": 0.1,
+        "neutral": 0.376,
+        "tech_breakthrough": 0.006
+      }
+    },
+    {
+      "date": "2012-04-11",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.625,
+      "name": "M8.2 2012 Wharton Basin Aftershock",
+      "proba": {
+        "economic_crisis": 0.003,
+        "epidemic": 0.002,
+        "geopolitical": 0.08,
+        "natural_disaster": 0.061,
+        "neutral": 0.625,
+        "tech_breakthrough": 0.229
+      }
+    },
+    {
+      "date": "2006-04-21",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.833,
+      "name": "M7.6 80 km NE of Tilichiki, Russia",
+      "proba": {
+        "economic_crisis": 0.002,
+        "epidemic": 0.031,
+        "geopolitical": 0.051,
+        "natural_disaster": 0.072,
+        "neutral": 0.833,
+        "tech_breakthrough": 0.012
+      }
+    },
+    {
+      "date": "2018-09-06",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.905,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.0,
+        "epidemic": 0.079,
+        "geopolitical": 0.002,
+        "natural_disaster": 0.013,
+        "neutral": 0.905,
+        "tech_breakthrough": 0.001
+      }
+    },
+    {
+      "date": "2023-01-09",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.671,
+      "name": "M7.6 Pulau Pulau Tanimbar, Indonesia",
+      "proba": {
+        "economic_crisis": 0.008,
+        "epidemic": 0.002,
+        "geopolitical": 0.005,
+        "natural_disaster": 0.308,
+        "neutral": 0.671,
+        "tech_breakthrough": 0.007
+      }
+    },
+    {
+      "date": "2009-09-30",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.751,
+      "name": "M7.6 30 km WSW of Pariaman, Indonesia",
+      "proba": {
+        "economic_crisis": 0.014,
+        "epidemic": 0.004,
+        "geopolitical": 0.103,
+        "natural_disaster": 0.117,
+        "neutral": 0.751,
+        "tech_breakthrough": 0.011
+      }
+    },
+    {
+      "date": "2023-02-06",
+      "true": "natural_disaster",
+      "predicted": "natural_disaster",
+      "correct": true,
+      "near": true,
+      "confidence": 0.942,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.002,
+        "epidemic": 0.001,
+        "geopolitical": 0.007,
+        "natural_disaster": 0.942,
+        "neutral": 0.046,
+        "tech_breakthrough": 0.003
+      }
+    },
+    {
+      "date": "2024-01-01",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.603,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.005,
+        "epidemic": 0.001,
+        "geopolitical": 0.004,
+        "natural_disaster": 0.383,
+        "neutral": 0.603,
+        "tech_breakthrough": 0.004
+      }
+    },
+    {
+      "date": "2021-08-12",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.633,
+      "name": "M8.1 2021 South Sandwich Islands Earthqu",
+      "proba": {
+        "economic_crisis": 0.002,
+        "epidemic": 0.002,
+        "geopolitical": 0.1,
+        "natural_disaster": 0.254,
+        "neutral": 0.633,
+        "tech_breakthrough": 0.008
+      }
+    },
+    {
+      "date": "2017-08-25",
+      "true": "natural_disaster",
+      "predicted": "natural_disaster",
+      "correct": true,
+      "near": true,
+      "confidence": 0.541,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.011,
+        "epidemic": 0.002,
+        "geopolitical": 0.029,
+        "natural_disaster": 0.541,
+        "neutral": 0.37,
+        "tech_breakthrough": 0.046
+      }
+    },
+    {
+      "date": "2007-11-14",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.747,
+      "name": "M7.7 36 km ESE of Tocopilla, Chile",
+      "proba": {
+        "economic_crisis": 0.029,
+        "epidemic": 0.009,
+        "geopolitical": 0.055,
+        "natural_disaster": 0.146,
+        "neutral": 0.747,
+        "tech_breakthrough": 0.014
+      }
+    },
+    {
+      "date": "2002-03-06",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.509,
+      "name": "M7.5 Mindanao, Philippines",
+      "proba": {
+        "economic_crisis": 0.005,
+        "epidemic": 0.017,
+        "geopolitical": 0.078,
+        "natural_disaster": 0.378,
+        "neutral": 0.509,
+        "tech_breakthrough": 0.013
+      }
+    },
+    {
+      "date": "2001-10-19",
+      "true": "natural_disaster",
+      "predicted": "economic_crisis",
+      "correct": false,
+      "near": false,
+      "confidence": 0.89,
+      "name": "M7.5 155 km E of Kendari, Indonesia",
+      "proba": {
+        "economic_crisis": 0.89,
+        "epidemic": 0.001,
+        "geopolitical": 0.093,
+        "natural_disaster": 0.014,
+        "neutral": 0.002,
+        "tech_breakthrough": 0.0
+      }
+    },
+    {
+      "date": "2006-07-17",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.533,
+      "name": "M7.7 226 km SSW of Singaparna, Indonesia",
+      "proba": {
+        "economic_crisis": 0.008,
+        "epidemic": 0.006,
+        "geopolitical": 0.126,
+        "natural_disaster": 0.241,
+        "neutral": 0.533,
+        "tech_breakthrough": 0.086
+      }
+    },
+    {
+      "date": "2013-04-16",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.469,
+      "name": "M7.7 79 km ESE of Kh?sh, Iran",
+      "proba": {
+        "economic_crisis": 0.009,
+        "epidemic": 0.003,
+        "geopolitical": 0.286,
+        "natural_disaster": 0.194,
+        "neutral": 0.469,
+        "tech_breakthrough": 0.039
+      }
+    },
+    {
+      "date": "2003-11-17",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.487,
+      "name": "M7.8 Rat Islands, Aleutian Islands, Alas",
+      "proba": {
+        "economic_crisis": 0.01,
+        "epidemic": 0.002,
+        "geopolitical": 0.028,
+        "natural_disaster": 0.464,
+        "neutral": 0.487,
+        "tech_breakthrough": 0.009
+      }
+    },
+    {
+      "date": "2013-05-24",
+      "true": "natural_disaster",
+      "predicted": "economic_crisis",
+      "correct": false,
+      "near": false,
+      "confidence": 0.479,
+      "name": "M8.3 2013 Sea of Okhotsk Earthquake",
+      "proba": {
+        "economic_crisis": 0.479,
+        "epidemic": 0.001,
+        "geopolitical": 0.332,
+        "natural_disaster": 0.089,
+        "neutral": 0.095,
+        "tech_breakthrough": 0.004
+      }
+    },
+    {
+      "date": "2022-09-19",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.848,
+      "name": "M7.6 35 km SSW of Aguililla, Mexico",
+      "proba": {
+        "economic_crisis": 0.004,
+        "epidemic": 0.001,
+        "geopolitical": 0.007,
+        "natural_disaster": 0.134,
+        "neutral": 0.848,
+        "tech_breakthrough": 0.006
+      }
+    },
+    {
+      "date": "2015-05-30",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.601,
+      "name": "M7.8 Bonin Islands, Japan region",
+      "proba": {
+        "economic_crisis": 0.021,
+        "epidemic": 0.006,
+        "geopolitical": 0.105,
+        "natural_disaster": 0.203,
+        "neutral": 0.601,
+        "tech_breakthrough": 0.064
+      }
+    },
+    {
+      "date": "2016-08-24",
+      "true": "natural_disaster",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.894,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.053,
+        "epidemic": 0.0,
+        "geopolitical": 0.008,
+        "natural_disaster": 0.01,
+        "neutral": 0.894,
+        "tech_breakthrough": 0.035
+      }
+    },
+    {
+      "date": "2002-09-08",
+      "true": "natural_disaster",
+      "predicted": "natural_disaster",
+      "correct": true,
+      "near": true,
+      "confidence": 0.869,
+      "name": "M7.6 68 km ESE of Aitape, Papua New Guin",
+      "proba": {
+        "economic_crisis": 0.004,
+        "epidemic": 0.003,
+        "geopolitical": 0.015,
+        "natural_disaster": 0.869,
+        "neutral": 0.086,
+        "tech_breakthrough": 0.023
+      }
+    },
+    {
+      "date": "2005-07-07",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.723,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.211,
+        "epidemic": 0.006,
+        "geopolitical": 0.011,
+        "natural_disaster": 0.046,
+        "neutral": 0.723,
+        "tech_breakthrough": 0.002
+      }
+    },
+    {
+      "date": "2003-03-20",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.492,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.005,
+        "epidemic": 0.005,
+        "geopolitical": 0.281,
+        "natural_disaster": 0.152,
+        "neutral": 0.492,
+        "tech_breakthrough": 0.065
+      }
+    },
+    {
+      "date": "2024-10-07",
+      "true": "geopolitical",
+      "predicted": "natural_disaster",
+      "correct": false,
+      "near": false,
+      "confidence": 0.83,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.004,
+        "epidemic": 0.045,
+        "geopolitical": 0.044,
+        "natural_disaster": 0.83,
+        "neutral": 0.073,
+        "tech_breakthrough": 0.006
+      }
+    },
+    {
+      "date": "2014-03-18",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.753,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.001,
+        "epidemic": 0.001,
+        "geopolitical": 0.006,
+        "natural_disaster": 0.235,
+        "neutral": 0.753,
+        "tech_breakthrough": 0.003
+      }
+    },
+    {
+      "date": "2006-07-12",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.671,
+      "name": "2006 Lebanon War",
+      "proba": {
+        "economic_crisis": 0.011,
+        "epidemic": 0.012,
+        "geopolitical": 0.154,
+        "natural_disaster": 0.09,
+        "neutral": 0.671,
+        "tech_breakthrough": 0.061
+      }
+    },
+    {
+      "date": "2021-08-15",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.747,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.003,
+        "epidemic": 0.002,
+        "geopolitical": 0.065,
+        "natural_disaster": 0.174,
+        "neutral": 0.747,
+        "tech_breakthrough": 0.009
+      }
+    },
+    {
+      "date": "2017-04-07",
+      "true": "geopolitical",
+      "predicted": "tech_breakthrough",
+      "correct": false,
+      "near": false,
+      "confidence": 0.924,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.002,
+        "epidemic": 0.008,
+        "geopolitical": 0.009,
+        "natural_disaster": 0.013,
+        "neutral": 0.045,
+        "tech_breakthrough": 0.924
+      }
+    },
+    {
+      "date": "2001-10-07",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.791,
+      "name": "Afghanistan War",
+      "proba": {
+        "economic_crisis": 0.001,
+        "epidemic": 0.06,
+        "geopolitical": 0.014,
+        "natural_disaster": 0.089,
+        "neutral": 0.791,
+        "tech_breakthrough": 0.045
+      }
+    },
+    {
+      "date": "2001-09-11",
+      "true": "geopolitical",
+      "predicted": "natural_disaster",
+      "correct": false,
+      "near": false,
+      "confidence": 0.595,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.002,
+        "epidemic": 0.011,
+        "geopolitical": 0.037,
+        "natural_disaster": 0.595,
+        "neutral": 0.351,
+        "tech_breakthrough": 0.003
+      }
+    },
+    {
+      "date": "2018-04-14",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.811,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.067,
+        "epidemic": 0.002,
+        "geopolitical": 0.017,
+        "natural_disaster": 0.099,
+        "neutral": 0.811,
+        "tech_breakthrough": 0.005
+      }
+    },
+    {
+      "date": "2011-03-15",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.794,
+      "name": "Syrian Civil War",
+      "proba": {
+        "economic_crisis": 0.005,
+        "epidemic": 0.007,
+        "geopolitical": 0.069,
+        "natural_disaster": 0.09,
+        "neutral": 0.794,
+        "tech_breakthrough": 0.034
+      }
+    },
+    {
+      "date": "2006-10-09",
+      "true": "geopolitical",
+      "predicted": "natural_disaster",
+      "correct": false,
+      "near": false,
+      "confidence": 0.752,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.002,
+        "epidemic": 0.002,
+        "geopolitical": 0.035,
+        "natural_disaster": 0.752,
+        "neutral": 0.199,
+        "tech_breakthrough": 0.01
+      }
+    },
+    {
+      "date": "2011-05-02",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.653,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.033,
+        "epidemic": 0.006,
+        "geopolitical": 0.147,
+        "natural_disaster": 0.119,
+        "neutral": 0.653,
+        "tech_breakthrough": 0.042
+      }
+    },
+    {
+      "date": "2014-02-22",
+      "true": "geopolitical",
+      "predicted": "natural_disaster",
+      "correct": false,
+      "near": false,
+      "confidence": 0.785,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.001,
+        "epidemic": 0.001,
+        "geopolitical": 0.016,
+        "natural_disaster": 0.785,
+        "neutral": 0.196,
+        "tech_breakthrough": 0.002
+      }
+    },
+    {
+      "date": "2013-04-15",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.577,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.007,
+        "epidemic": 0.002,
+        "geopolitical": 0.262,
+        "natural_disaster": 0.123,
+        "neutral": 0.577,
+        "tech_breakthrough": 0.029
+      }
+    },
+    {
+      "date": "2012-07-18",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": true,
+      "confidence": 0.775,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.016,
+        "epidemic": 0.007,
+        "geopolitical": 0.089,
+        "natural_disaster": 0.052,
+        "neutral": 0.775,
+        "tech_breakthrough": 0.06
+      }
+    },
+    {
+      "date": "2023-10-07",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.895,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.008,
+        "epidemic": 0.002,
+        "geopolitical": 0.021,
+        "natural_disaster": 0.052,
+        "neutral": 0.895,
+        "tech_breakthrough": 0.022
+      }
+    },
+    {
+      "date": "2019-01-03",
+      "true": "geopolitical",
+      "predicted": "natural_disaster",
+      "correct": false,
+      "near": true,
+      "confidence": 0.376,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.008,
+        "epidemic": 0.015,
+        "geopolitical": 0.374,
+        "natural_disaster": 0.376,
+        "neutral": 0.221,
+        "tech_breakthrough": 0.005
+      }
+    },
+    {
+      "date": "2016-07-15",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.939,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.001,
+        "epidemic": 0.001,
+        "geopolitical": 0.004,
+        "natural_disaster": 0.014,
+        "neutral": 0.939,
+        "tech_breakthrough": 0.04
+      }
+    },
+    {
+      "date": "2021-01-06",
+      "true": "geopolitical",
+      "predicted": "neutral",
+      "correct": false,
+      "near": false,
+      "confidence": 0.695,
+      "name": "",
+      "proba": {
+        "economic_crisis": 0.002,
+        "epidemic": 0.029,
+        "geopolitical": 0.011,
+        "natural_disaster": 0.257,
+        "neutral": 0.695,
+        "tech_breakthrough": 0.005
+      }
+    }
+  ]
+}

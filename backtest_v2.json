@@ -1,0 +1,8 @@
+{
+  "best_model": "RandomForest (balanced)",
+  "f1_best": 0.333,
+  "f1_ensemble": 0.336,
+  "known_hits_top1": 1,
+  "known_hits_top2": 6,
+  "total_known": 17
+}

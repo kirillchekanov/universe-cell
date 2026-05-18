@@ -1,0 +1,20 @@
+{
+  "strategy1_significant_countries": {
+    "Russia": {
+      "n_events": 4,
+      "mean_event_delta": 58.0,
+      "mean_neutral_delta": 83.1,
+      "diff": -25.1,
+      "t": -2.781,
+      "p": 0.0065
+    }
+  },
+  "strategy2": {
+    "f1": 0.633,
+    "p_perm": 0.424
+  },
+  "strategy3": {
+    "f1_weighted": 0.228,
+    "f1_macro": 0.102
+  }
+}
