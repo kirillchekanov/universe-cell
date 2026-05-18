@@ -1,0 +1,10 @@
+{
+  "train_r": 0.091,
+  "train_p": 0.2957,
+  "test_r": 0.2979,
+  "test_p": 0.0094,
+  "test_p_perm": 0.013,
+  "r2_linear": 0.0255,
+  "sunspots_wars_r": 0.1513,
+  "jupsat_wars_r": -0.0044
+}
