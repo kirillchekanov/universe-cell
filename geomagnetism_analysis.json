@@ -1,0 +1,15 @@
+{
+  "kp_wars_partial_r": -0.2265,
+  "kp_wars_p": 0.0507,
+  "kp_wars_p_perm": 0.045,
+  "sn_wars_partial_r": 0.2979,
+  "sn_wars_p": 0.0094,
+  "sn_kp_r": -0.2401,
+  "seasonality_p": 0.2068,
+  "top_war_months": [
+    "\u0410\u043f\u0440",
+    "\u041e\u043a\u0442",
+    "\u0418\u044e\u043b"
+  ],
+  "best_kp_lag": 4
+}
