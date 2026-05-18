@@ -1,0 +1,10 @@
+{
+  "autocorr_all_lags_significant": true,
+  "lyapunov": 0.0,
+  "recurrence_rate_wars": 0.454,
+  "turchin_50yr_not_dominant": true,
+  "dominant_period_years": 10.4,
+  "combined_model_r2": 0.0654,
+  "combined_model_r": 0.2558,
+  "interpretation": "Solar cycle = synchronizing factor for internally accumulated tensions"
+}
