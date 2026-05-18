@@ -1,0 +1,20 @@
+{
+  "path_a_beta": 0.00253,
+  "path_a_p": 0.0,
+  "path_b_beta": 0.35333,
+  "path_b_p": 0.2071,
+  "path_c_beta": 0.00351,
+  "path_c_p": 0.0094,
+  "path_c_prime": 0.00262,
+  "indirect": 0.000894,
+  "sobel_p": 0.22,
+  "bootstrap_ci": [
+    -0.000488,
+    0.002703
+  ],
+  "mediation_sig": false,
+  "mediation_type": "\u043c\u0435\u0434\u0438\u0430\u0446\u0438\u044f \u043d\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0430",
+  "proportion": 0.255,
+  "n_years": 75,
+  "period": "1950-2024"
+}
