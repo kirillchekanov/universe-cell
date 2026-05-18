@@ -1,0 +1,14 @@
+{
+  "turchin_peaks_wars": 0.571,
+  "turchin_troughs_wars": 0.667,
+  "turchin_p": 0.5915,
+  "turchin_50yr_in_spectrum": false,
+  "top_spectral_periods": [
+    8.0,
+    8.4,
+    10.4,
+    11.0,
+    11.6
+  ],
+  "autocorr_lag1": 0.2467
+}
