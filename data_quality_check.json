@@ -1,0 +1,8 @@
+{
+  "significant_windows": 5,
+  "walkforward_r": 0.298,
+  "walkforward_p": 0.009,
+  "signal_stable": true,
+  "uniform_test_r_orig": 0.1513,
+  "uniform_test_r_uniform": 0.1165
+}
