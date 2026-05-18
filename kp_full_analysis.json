@@ -3,10 +3,10 @@
   "kp_sn_p": 0.0,
   "sn_wars_r": 0.2979,
   "sn_wars_p": 0.0094,
-  "sn_wars_p_perm": 0.0115,
+  "sn_wars_p_perm": 0.01,
   "kp_wars_r": 0.2655,
   "kp_wars_p": 0.0213,
-  "kp_wars_p_perm": 0.022,
+  "kp_wars_p_perm": 0.0215,
   "mediation_chain_valid": true,
   "kp_baseline": 3.639
 }
