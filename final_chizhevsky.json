@@ -1,0 +1,33 @@
+{
+  "main_finding": "SN[t] -> Wars[t+1]",
+  "full_sample": {
+    "r": 0.2386,
+    "p": 0.0406,
+    "p_perm": 0.041,
+    "n": 74,
+    "period": "1950-2024"
+  },
+  "walk_forward": {
+    "train": "1950-1989",
+    "test": "1990-2024",
+    "r": 0.2825,
+    "p": 0.1002,
+    "p_perm": 0.0995,
+    "binary_accuracy": 0.6
+  },
+  "confirmations": {
+    "f107_r": 0.277,
+    "f107_p": 0.016,
+    "kp_r": 0.266,
+    "kp_p": 0.021,
+    "specific_to_wars": true
+  },
+  "limitations": [
+    "signal unstable after 2000",
+    "walk-forward p=0.10 borderline",
+    "mediation via Kp not confirmed",
+    "dataset sparse before 1950"
+  ],
+  "forecast_2025": "+0.89 wars/year above trend",
+  "forecast_2026": "+0.82 wars/year above trend"
+}
