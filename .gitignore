@@ -4,3 +4,4 @@
 *.txt.gz
 __pycache__/
 .DS_Store
+GEDEvent_v25_1.csv

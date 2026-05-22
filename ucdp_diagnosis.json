@@ -1,0 +1,10 @@
+{
+  "raw_r": 0.6058,
+  "partial_r_control_sources": 0.5943,
+  "partial_p": 0.0001,
+  "quadratic_residuals_r": 0.4267,
+  "quadratic_residuals_p": 0.0095,
+  "deaths_r": 0.0578,
+  "deaths_p": 0.7379,
+  "verdict": "signal partially real, partially reporting artifact"
+}
