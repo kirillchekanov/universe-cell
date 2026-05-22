@@ -76,5 +76,17 @@
     "Why is Kp->returns specific to SP500 not DAX/Nikkei/FTSE?",
     "What is the mechanism SN->volatility?",
     "Is SN->gov_deaths causal or confounded?"
-  ]
+  ],
+  "honest_assessment": {
+    "most_robust": "Kp -> daily violence (UCDP) p=0.000 r=-0.091",
+    "medium_confidence": [
+      "SN -> gov conflict deaths r=0.556",
+      "SN -> market volatility 5/7 markets"
+    ],
+    "low_confidence": [
+      "Kp -> SP500 returns (disappeared on common period)",
+      "SN->Kp->VIX->Vol chain (effect size r=-0.008)"
+    ],
+    "key_caveat": "Most signals are small effect sizes (r<0.1) despite statistical significance due to large N"
+  }
 }
