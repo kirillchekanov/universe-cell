@@ -1,0 +1,15 @@
+{
+  "agrarian_hypothesis": {
+    "agrarian_mean_r": 0.218,
+    "industrial_mean_r": 0.2402
+  },
+  "nasa_giss": {
+    "sn_temp_r": null,
+    "temp_wars_r": null,
+    "mediation_sig": null
+  },
+  "richardson_soc": {
+    "alpha": 2.176,
+    "ks_p": 0.7808
+  }
+}
