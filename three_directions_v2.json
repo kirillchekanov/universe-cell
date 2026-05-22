@@ -1,0 +1,19 @@
+{
+  "kp_sp500": {
+    "r": -0.0162,
+    "p": 0.0129,
+    "storm_vs_quiet_p": 0.0239,
+    "p_perm": 0.0017
+  },
+  "volatility_kp": {
+    "r": -0.0396,
+    "p": 0.0,
+    "storm_vol": 14.23,
+    "quiet_vol": 15.56
+  },
+  "cow_sp500_event_study": {
+    "pre_war_mean": 0.0013,
+    "post_war_mean": -0.0459,
+    "pre_vs_post_p": 0.4344
+  }
+}
