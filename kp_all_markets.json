@@ -1,0 +1,58 @@
+{
+  "S&P500": {
+    "n_days": 23707,
+    "period": "1932-2026",
+    "storms_mean": 0.00323,
+    "quiet_mean": 0.06546,
+    "kp_ret_r": -0.0162,
+    "kp_ret_p": 0.0129,
+    "storm_quiet_p": 0.0239,
+    "p_perm": 0.002,
+    "kp_vol_r": -0.0506,
+    "kp_vol_p": 0.0,
+    "sn_vol_r": -0.0172,
+    "sn_vol_p": 0.0079
+  },
+  "DAX": {
+    "n_days": 9701,
+    "period": "1988-2026",
+    "storms_mean": 0.05648,
+    "quiet_mean": 0.075,
+    "kp_ret_r": -0.0017,
+    "kp_ret_p": 0.8664,
+    "storm_quiet_p": 0.7128,
+    "p_perm": 0.6105,
+    "kp_vol_r": -0.0093,
+    "kp_vol_p": 0.359,
+    "sn_vol_r": 0.0034,
+    "sn_vol_p": 0.7355
+  },
+  "Nikkei": {
+    "n_days": 15082,
+    "period": "1965-2026",
+    "storms_mean": 0.03849,
+    "quiet_mean": 0.02592,
+    "kp_ret_r": 0.0055,
+    "kp_ret_p": 0.4988,
+    "storm_quiet_p": 0.745,
+    "p_perm": 0.6435,
+    "kp_vol_r": -0.0158,
+    "kp_vol_p": 0.0525,
+    "sn_vol_r": -0.0575,
+    "sn_vol_p": 0.0
+  },
+  "FTSE": {
+    "n_days": 10701,
+    "period": "1984-2026",
+    "storms_mean": 0.0521,
+    "quiet_mean": 0.0673,
+    "kp_ret_r": -0.0005,
+    "kp_ret_p": 0.9581,
+    "storm_quiet_p": 0.6861,
+    "p_perm": 0.563,
+    "kp_vol_r": -0.0341,
+    "kp_vol_p": 0.0004,
+    "sn_vol_r": -0.0939,
+    "sn_vol_p": 0.0
+  }
+}
