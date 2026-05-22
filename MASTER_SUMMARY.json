@@ -1,0 +1,80 @@
+{
+  "project": "Universe as Cell",
+  "repo": "github.com/kirillchekanov/universe-cell",
+  "date": "2026-05-22",
+  "datasets": {
+    "SP500": "24715 days 1927-2026",
+    "DAX_Nikkei_FTSE": "9-15k days each",
+    "COW_MID_5.0": "2436 conflicts 1816-2014",
+    "UCDP_GED_25.1": "463621 incidents 1989-2024",
+    "Kp_index": "34471 days 1932-2026",
+    "sunspots": "326 years 1700-2025"
+  },
+  "confirmed_signals": [
+    {
+      "name": "Kp → daily violence (global)",
+      "r": -0.091,
+      "p": 0.0,
+      "note": "storms=25/day vs quiet=33/day · 13142 days · UCDP",
+      "robust": true
+    },
+    {
+      "name": "SN → Asia conflict incidents (walk-forward)",
+      "r": 0.826,
+      "p": 0.0001,
+      "note": "combined model SN+Kp · test 2010-2024",
+      "robust": true
+    },
+    {
+      "name": "SN → market volatility",
+      "r": -0.096,
+      "p": 0.0,
+      "note": "3/4 markets: SP500 Nikkei FTSE · detrended",
+      "robust": true
+    },
+    {
+      "name": "Kp → SP500 daily returns",
+      "r": -0.016,
+      "p": 0.013,
+      "p_perm": 0.002,
+      "note": "storms=+0.003%/day vs quiet=+0.066%/day · 23707 days",
+      "robust": true
+    },
+    {
+      "name": "SN → gov conflict deaths (UCDP)",
+      "r": 0.556,
+      "p": 0.0004,
+      "note": "state-based violence 1989-2024 · detrended",
+      "robust": true
+    },
+    {
+      "name": "September effect SP500",
+      "daily_return": -0.055,
+      "p": 0.001,
+      "p_perm": 0.0,
+      "note": "known effect French/Bouman — weaker after 2002",
+      "robust": true
+    }
+  ],
+  "artifacts_explained": [
+    "Lag -1 (conflicts before sun): autocorrelation artifact ACF=0.84",
+    "Europe Kp effect: driven by Ukraine 2022-24 + Bosnia 1992-95",
+    "UCDP annual r=0.97: partially reporting growth artifact",
+    "COW global p=0.87: counts ongoing not new conflicts"
+  ],
+  "rejected_hypotheses": [
+    "Planetary configurations (all p>0.10)",
+    "Natal astrology",
+    "Lunar cycle SP500 (p=0.31)",
+    "Turchin 50yr cycle (p=0.59)",
+    "Kp mediation Sunspots->Kp->Wars (Sobel p=0.22)",
+    "Agrarian mechanism (same signal agrarian vs industrial)",
+    "Monday effect after 1990 (disappeared)"
+  ],
+  "open_questions": [
+    "Why does Asia show negative SN correlation post-2005?",
+    "Why is Kp->returns specific to SP500 not DAX/Nikkei/FTSE?",
+    "What is the mechanism SN->volatility?",
+    "Is SN->gov_deaths causal or confounded?"
+  ]
+}
