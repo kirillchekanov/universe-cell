@@ -1,0 +1,35 @@
+{
+  "kp_returns": {
+    "r": -0.016,
+    "p": 0.013,
+    "p_perm": 0.002
+  },
+  "kp_volatility": {
+    "r": -0.051,
+    "p": 0.0,
+    "note": "detrended"
+  },
+  "sn_volatility": {
+    "r": -0.096,
+    "p": 0.0,
+    "note": "detrended"
+  },
+  "september_effect": {
+    "daily_return": -0.055,
+    "p": 0.001
+  },
+  "monday_effect": {
+    "daily_return": -0.063,
+    "p": 0.0
+  },
+  "sn_wars_nonstationary": {
+    "r_peak": 0.58,
+    "period": "1970-2005",
+    "p": 0.007
+  },
+  "cow_global": {
+    "r": -0.012,
+    "p": 0.867,
+    "verdict": "not confirmed"
+  }
+}
