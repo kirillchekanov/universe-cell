@@ -1,0 +1,27 @@
+{
+  "project": "Universe as Cell",
+  "repo": "github.com/kirillchekanov/universe-cell",
+  "main_finding": "Solar activity is a synchronizing factor for war frequency",
+  "key_stats": {
+    "SN_Wars_r": 0.2019,
+    "SN_Wars_p": 0.024,
+    "SN_Wars_noWW2_r": 0.2048,
+    "SN_Wars_lag1_r": 0.135,
+    "Richardson_alpha": 2.176,
+    "signal_nonstationarity": "strong 1970-2005, weak 1940-1965 due to WW2"
+  },
+  "confirmed": [
+    "System is deterministic (surrogate test p=0.000)",
+    "Autocorrelation up to 20 years",
+    "SN->Wars p<0.05 robust to WW2 removal",
+    "F10.7 confirms independently",
+    "Richardson power law alpha=2.18"
+  ],
+  "not_confirmed": [
+    "Mechanism via Kp (mediation p=0.22)",
+    "Agrarian mechanism (agrarian\u2248industrial signal)",
+    "Turchin 50yr cycle",
+    "Planetary configurations"
+  ],
+  "forecast_2026": "Below average solar activity -> normalization of conflict frequency"
+}
