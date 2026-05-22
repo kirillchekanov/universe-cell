@@ -1,0 +1,37 @@
+{
+  "best_lag": 4,
+  "lag3_r": -0.652,
+  "lag3_p": 0.001,
+  "lag4_r": -0.759,
+  "lag4_p": 0.0,
+  "commodity_network": [
+    {
+      "pair": "SN-Gold",
+      "r": 0.3464,
+      "p": 0.0973
+    },
+    {
+      "pair": "SN-Bonds",
+      "r": 0.289,
+      "p": 0.0743
+    },
+    {
+      "pair": "SN-Unemp",
+      "r": -0.4832,
+      "p": 0.0038
+    },
+    {
+      "pair": "Gold-Bonds",
+      "r": -0.3551,
+      "p": 0.0964
+    },
+    {
+      "pair": "Bonds-Unemp",
+      "r": -0.7269,
+      "p": 0.0
+    }
+  ],
+  "oil_forecast": {
+    "2026": "below trend (high SN 2023)"
+  }
+}
