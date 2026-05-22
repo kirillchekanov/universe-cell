@@ -1,0 +1,15 @@
+{
+  "sn_unemployment_r": -0.483,
+  "sn_unemployment_p": 0.0038,
+  "co2_unemployment_r": -0.774,
+  "co2_unemployment_p": 0.0,
+  "unemployment_ucdp_r": -0.468,
+  "unemployment_ucdp_p": 0.005,
+  "solar_forecast_unemployment": {
+    "2025": 120,
+    "2026": 85,
+    "2027": 55,
+    "2028": 35,
+    "2029": 20
+  }
+}
