@@ -1,0 +1,8 @@
+{
+  "kp_vol_r": -0.0396,
+  "kp_vol_detrended_r": -0.0506,
+  "kp_vol_detrended_p": 0.0,
+  "high_vol_kp": 3.547,
+  "low_vol_kp": 3.621,
+  "crisis_kp_lower": true
+}
