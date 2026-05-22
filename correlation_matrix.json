@@ -1,0 +1,132 @@
+{
+  "n_pairs_tested": 83,
+  "n_significant": 18,
+  "top_correlations": [
+    {
+      "var1": "co2",
+      "var2": "unemployment",
+      "r": -0.7741,
+      "p": 0.0,
+      "n": 35
+    },
+    {
+      "var1": "population",
+      "var2": "nuclear_warheads",
+      "r": -0.8901,
+      "p": 0.0,
+      "n": 16
+    },
+    {
+      "var1": "gdp_per_capita",
+      "var2": "unemployment",
+      "r": -0.8676,
+      "p": 0.0,
+      "n": 34
+    },
+    {
+      "var1": "sunspots",
+      "var2": "ucdp_incidents",
+      "r": 0.6058,
+      "p": 0.0001,
+      "n": 36
+    },
+    {
+      "var1": "population",
+      "var2": "unemployment",
+      "r": 0.5836,
+      "p": 0.0003,
+      "n": 34
+    },
+    {
+      "var1": "sp500_return",
+      "var2": "sp500_vol",
+      "r": -0.339,
+      "p": 0.0006,
+      "n": 99
+    },
+    {
+      "var1": "crises_our",
+      "var2": "sp500_vol",
+      "r": 0.5608,
+      "p": 0.0013,
+      "n": 30
+    },
+    {
+      "var1": "sunspots",
+      "var2": "wars_our",
+      "r": 0.4179,
+      "p": 0.0017,
+      "n": 54
+    },
+    {
+      "var1": "food_index",
+      "var2": "unemployment",
+      "r": 0.5349,
+      "p": 0.0023,
+      "n": 30
+    },
+    {
+      "var1": "ucdp_incidents",
+      "var2": "sp500_vol",
+      "r": -0.4865,
+      "p": 0.0026,
+      "n": 36
+    },
+    {
+      "var1": "unemployment",
+      "var2": "sunspots",
+      "r": -0.4832,
+      "p": 0.0038,
+      "n": 34
+    },
+    {
+      "var1": "unemployment",
+      "var2": "ucdp_incidents",
+      "r": -0.4682,
+      "p": 0.0052,
+      "n": 34
+    },
+    {
+      "var1": "food_index",
+      "var2": "sp500_return",
+      "r": -0.3334,
+      "p": 0.0092,
+      "n": 60
+    },
+    {
+      "var1": "epidemics_our",
+      "var2": "sp500_vol",
+      "r": 0.3863,
+      "p": 0.024,
+      "n": 34
+    },
+    {
+      "var1": "co2",
+      "var2": "epidemics_our",
+      "r": 0.3805,
+      "p": 0.0289,
+      "n": 33
+    },
+    {
+      "var1": "co2",
+      "var2": "nuclear_warheads",
+      "r": -0.5421,
+      "p": 0.0301,
+      "n": 16
+    },
+    {
+      "var1": "ucdp_incidents",
+      "var2": "ucdp_deaths",
+      "r": 0.3392,
+      "p": 0.043,
+      "n": 36
+    },
+    {
+      "var1": "co2",
+      "var2": "ucdp_incidents",
+      "r": 0.3373,
+      "p": 0.0442,
+      "n": 36
+    }
+  ]
+}
