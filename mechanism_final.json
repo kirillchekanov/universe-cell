@@ -1,0 +1,35 @@
+{
+  "type1_type2_storms_reduce": "storms reduce -23pct all days -30pct winter",
+  "type3_paradox": "storms increase p=0.068 weak signal",
+  "latitude": {
+    "\u0421\u0443\u0431\u0442\u0440\u043e\u043f\u0438\u043a\u0438_20-40": {
+      "pct": -20.8,
+      "p": 0.0
+    },
+    "\u0422\u0440\u043e\u043f\u0438\u043a\u0438_0-20": {
+      "pct": -8.0,
+      "p": 0.147
+    }
+  },
+  "best_condition": "\u0417\u0438\u043c\u0430",
+  "best_pct": -30.0,
+  "region_14d": {
+    "Middle East": {
+      "pct": -82.8,
+      "p": 0.0
+    },
+    "Asia": {
+      "pct": -59.0,
+      "p": 0.0
+    },
+    "Americas": {
+      "pct": -45.3,
+      "p": 0.0
+    },
+    "Europe": {
+      "pct": 78.1,
+      "p": 0.022
+    }
+  },
+  "proposed_mechanism": "geomagnetic -> serotonin/melatonin -> impulsivity"
+}
