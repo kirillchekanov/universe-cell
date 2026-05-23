@@ -1,0 +1,30 @@
+{
+  "most_likely_analogy": "transposon",
+  "probability": 0.4,
+  "key_insight": "humanity as cosmic transposon \u2014 engine of universal evolution",
+  "great_filter_reinterpretation": "not destruction but successful insertion into galactic genome",
+  "current_status": "active transposon searching for insertion site (Mars/stars)",
+  "suppression_mechanism": "Kp geomagnetic = epigenetic methylation analog",
+  "candidates_ranked": [
+    {
+      "type": "transposon",
+      "p": 0.4
+    },
+    {
+      "type": "oncogene",
+      "p": 0.35
+    },
+    {
+      "type": "virus",
+      "p": 0.3
+    },
+    {
+      "type": "mitochondria",
+      "p": 0.25
+    },
+    {
+      "type": "neuron",
+      "p": 0.2
+    }
+  ]
+}
