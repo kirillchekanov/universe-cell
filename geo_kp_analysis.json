@@ -1,0 +1,167 @@
+{
+  "AEX": {
+    "country": "?",
+    "type": "?",
+    "lat": 0,
+    "tz": 0,
+    "storm": 0.05128,
+    "quiet": 0.06163,
+    "p": 0.8384,
+    "p_perm": 0.772,
+    "n": 8569
+  },
+  "CAC40": {
+    "country": "France",
+    "type": "european",
+    "lat": 49,
+    "tz": 1,
+    "storm": 0.04312,
+    "quiet": 0.07235,
+    "p": 0.5629,
+    "p_perm": 0.4055,
+    "n": 9193
+  },
+  "DAX_DEU": {
+    "country": "Germany",
+    "type": "european",
+    "lat": 51,
+    "tz": 1,
+    "storm": 0.05648,
+    "quiet": 0.075,
+    "p": 0.7128,
+    "p_perm": 0.5945,
+    "n": 9701
+  },
+  "FTSE_GBR": {
+    "country": "UK",
+    "type": "anglo",
+    "lat": 51,
+    "tz": 0,
+    "storm": 0.0521,
+    "quiet": 0.0673,
+    "p": 0.6861,
+    "p_perm": 0.558,
+    "n": 10701
+  },
+  "IPC": {
+    "country": "Mexico",
+    "type": "other",
+    "lat": 19,
+    "tz": -6,
+    "storm": -0.03364,
+    "quiet": 0.10268,
+    "p": 0.0158,
+    "p_perm": 0.0005,
+    "n": 8641
+  },
+  "KOSPI": {
+    "country": "Korea",
+    "type": "asian",
+    "lat": 37,
+    "tz": 9,
+    "storm": 0.00773,
+    "quiet": 0.07946,
+    "p": 0.3361,
+    "p_perm": 0.187,
+    "n": 7242
+  },
+  "MERV": {
+    "country": "?",
+    "type": "?",
+    "lat": 0,
+    "tz": 0,
+    "storm": 0.17964,
+    "quiet": 0.13119,
+    "p": 0.638,
+    "p_perm": 0.53,
+    "n": 7241
+  },
+  "MIB": {
+    "country": "?",
+    "type": "?",
+    "lat": 0,
+    "tz": 0,
+    "storm": 0.05998,
+    "quiet": 0.05966,
+    "p": 0.9961,
+    "p_perm": 0.9915,
+    "n": 7244
+  },
+  "NZX": {
+    "country": "NZ",
+    "type": "anglo",
+    "lat": -41,
+    "tz": 12,
+    "storm": 0.05628,
+    "quiet": 0.06969,
+    "p": 0.708,
+    "p_perm": 0.601,
+    "n": 5761
+  },
+  "Nikkei_JPN": {
+    "country": "Japan",
+    "type": "asian",
+    "lat": 36,
+    "tz": 9,
+    "storm": 0.03849,
+    "quiet": 0.02592,
+    "p": 0.745,
+    "p_perm": 0.6575,
+    "n": 15082
+  },
+  "OMX": {
+    "country": "?",
+    "type": "?",
+    "lat": 0,
+    "tz": 0,
+    "storm": 0.04169,
+    "quiet": 0.09304,
+    "p": 0.4878,
+    "p_perm": 0.357,
+    "n": 4381
+  },
+  "SMI": {
+    "country": "Switzerland",
+    "type": "european",
+    "lat": 47,
+    "tz": 1,
+    "storm": 0.03654,
+    "quiet": 0.06354,
+    "p": 0.5269,
+    "p_perm": 0.3815,
+    "n": 8914
+  },
+  "SP500_USA": {
+    "country": "USA",
+    "type": "anglo",
+    "lat": 40,
+    "tz": -5,
+    "storm": 0.00323,
+    "quiet": 0.06546,
+    "p": 0.0239,
+    "p_perm": 0.003,
+    "n": 23707
+  },
+  "TA35": {
+    "country": "?",
+    "type": "?",
+    "lat": 0,
+    "tz": 0,
+    "storm": 0.09279,
+    "quiet": 0.04914,
+    "p": 0.4168,
+    "p_perm": 0.26,
+    "n": 7872
+  },
+  "TWII": {
+    "country": "Taiwan",
+    "type": "asian",
+    "lat": 25,
+    "tz": 8,
+    "storm": 0.0321,
+    "quiet": 0.06372,
+    "p": 0.5937,
+    "p_perm": 0.4465,
+    "n": 7072
+  }
+}
