@@ -1,0 +1,427 @@
+{
+  "sn_correlations": [
+    {
+      "name": "hang_seng",
+      "r": -0.6587,
+      "p": 0.0,
+      "p_perm": 0.0,
+      "n": 38
+    },
+    {
+      "name": "bse",
+      "r": 0.5437,
+      "p": 0.0028,
+      "p_perm": 0.002,
+      "n": 28
+    },
+    {
+      "name": "unemployment",
+      "r": -0.4832,
+      "p": 0.0038,
+      "p_perm": 0.004,
+      "n": 34
+    },
+    {
+      "name": "infant_mortality",
+      "r": 0.3709,
+      "p": 0.0283,
+      "p_perm": 0.027,
+      "n": 35
+    },
+    {
+      "name": "bonds_10y",
+      "r": 0.289,
+      "p": 0.0743,
+      "p_perm": 0.065,
+      "n": 39
+    },
+    {
+      "name": "food_index",
+      "r": -0.2313,
+      "p": 0.0754,
+      "p_perm": 0.072,
+      "n": 60
+    },
+    {
+      "name": "tsx",
+      "r": 0.2873,
+      "p": 0.0761,
+      "p_perm": 0.084,
+      "n": 39
+    },
+    {
+      "name": "patents",
+      "r": 0.2699,
+      "p": 0.0838,
+      "p_perm": 0.078,
+      "n": 42
+    },
+    {
+      "name": "gold",
+      "r": 0.3464,
+      "p": 0.0973,
+      "p_perm": 0.101,
+      "n": 24
+    },
+    {
+      "name": "population",
+      "r": -0.1982,
+      "p": 0.1134,
+      "p_perm": 0.106,
+      "n": 65
+    },
+    {
+      "name": "shanghai",
+      "r": -0.3057,
+      "p": 0.1136,
+      "p_perm": 0.106,
+      "n": 28
+    },
+    {
+      "name": "mobile_subs",
+      "r": 0.2217,
+      "p": 0.1691,
+      "p_perm": 0.165,
+      "n": 40
+    },
+    {
+      "name": "dollar_index",
+      "r": 0.1931,
+      "p": 0.2327,
+      "p_perm": 0.248,
+      "n": 40
+    },
+    {
+      "name": "gdp_per_capita",
+      "r": 0.112,
+      "p": 0.3744,
+      "p_perm": 0.363,
+      "n": 65
+    },
+    {
+      "name": "silver",
+      "r": 0.1534,
+      "p": 0.4743,
+      "p_perm": 0.503,
+      "n": 24
+    },
+    {
+      "name": "arms_exports",
+      "r": 0.0849,
+      "p": 0.5012,
+      "p_perm": 0.498,
+      "n": 65
+    },
+    {
+      "name": "military_spending",
+      "r": 0.075,
+      "p": 0.5528,
+      "p_perm": 0.587,
+      "n": 65
+    },
+    {
+      "name": "trade_pct_gdp",
+      "r": -0.0741,
+      "p": 0.591,
+      "p_perm": 0.564,
+      "n": 55
+    },
+    {
+      "name": "birth_rate",
+      "r": -0.0656,
+      "p": 0.6037,
+      "p_perm": 0.613,
+      "n": 65
+    },
+    {
+      "name": "ibovespa",
+      "r": -0.0725,
+      "p": 0.6935,
+      "p_perm": 0.689,
+      "n": 32
+    },
+    {
+      "name": "co2",
+      "r": 0.0475,
+      "p": 0.7074,
+      "p_perm": 0.736,
+      "n": 65
+    },
+    {
+      "name": "internet_users",
+      "r": 0.0883,
+      "p": 0.7112,
+      "p_perm": 0.698,
+      "n": 20
+    },
+    {
+      "name": "energy_use",
+      "r": 0.0631,
+      "p": 0.7228,
+      "p_perm": 0.697,
+      "n": 34
+    },
+    {
+      "name": "oil",
+      "r": 0.0729,
+      "p": 0.7351,
+      "p_perm": 0.72,
+      "n": 24
+    },
+    {
+      "name": "copper",
+      "r": -0.0395,
+      "p": 0.8547,
+      "p_perm": 0.848,
+      "n": 24
+    },
+    {
+      "name": "nuclear_warheads",
+      "r": 0.0424,
+      "p": 0.8761,
+      "p_perm": 0.884,
+      "n": 16
+    },
+    {
+      "name": "asx",
+      "r": -0.023,
+      "p": 0.9006,
+      "p_perm": 0.902,
+      "n": 32
+    },
+    {
+      "name": "death_rate",
+      "r": -0.0146,
+      "p": 0.908,
+      "p_perm": 0.9,
+      "n": 65
+    },
+    {
+      "name": "life_expectancy",
+      "r": -0.0098,
+      "p": 0.9382,
+      "p_perm": 0.94,
+      "n": 65
+    },
+    {
+      "name": "school_enrollment",
+      "r": 0.0052,
+      "p": 0.97,
+      "p_perm": 0.968,
+      "n": 55
+    }
+  ],
+  "strong_pairs": [
+    {
+      "n1": "co2",
+      "n2": "population",
+      "r": 0.6899,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "co2",
+      "n2": "gdp_per_capita",
+      "r": 0.7942,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "co2",
+      "n2": "unemployment",
+      "r": -0.7741,
+      "p": 0.0,
+      "n": 35
+    },
+    {
+      "n1": "co2",
+      "n2": "life_expectancy",
+      "r": -0.7974,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "co2",
+      "n2": "death_rate",
+      "r": 0.8487,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "co2",
+      "n2": "military_spending",
+      "r": 0.7923,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "co2",
+      "n2": "school_enrollment",
+      "r": -0.663,
+      "p": 0.0,
+      "n": 55
+    },
+    {
+      "n1": "co2",
+      "n2": "arms_exports",
+      "r": -0.6098,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "co2",
+      "n2": "bse",
+      "r": 0.852,
+      "p": 0.0,
+      "n": 29
+    },
+    {
+      "n1": "population",
+      "n2": "food_index",
+      "r": 0.6037,
+      "p": 0.0,
+      "n": 60
+    },
+    {
+      "n1": "population",
+      "n2": "life_expectancy",
+      "r": -0.7936,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "population",
+      "n2": "death_rate",
+      "r": 0.7951,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "population",
+      "n2": "arms_exports",
+      "r": -0.6374,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "population",
+      "n2": "tsx",
+      "r": -0.7125,
+      "p": 0.0,
+      "n": 39
+    },
+    {
+      "n1": "population",
+      "n2": "hang_seng",
+      "r": 0.7292,
+      "p": 0.0,
+      "n": 38
+    },
+    {
+      "n1": "gdp_per_capita",
+      "n2": "unemployment",
+      "r": -0.8676,
+      "p": 0.0,
+      "n": 34
+    },
+    {
+      "n1": "gdp_per_capita",
+      "n2": "school_enrollment",
+      "r": -0.6413,
+      "p": 0.0,
+      "n": 55
+    },
+    {
+      "n1": "gdp_per_capita",
+      "n2": "arms_exports",
+      "r": -0.6109,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "gdp_per_capita",
+      "n2": "tsx",
+      "r": 0.7317,
+      "p": 0.0,
+      "n": 39
+    },
+    {
+      "n1": "food_index",
+      "n2": "arms_exports",
+      "r": -0.7876,
+      "p": 0.0,
+      "n": 60
+    },
+    {
+      "n1": "patents",
+      "n2": "infant_mortality",
+      "r": -0.8447,
+      "p": 0.0,
+      "n": 32
+    },
+    {
+      "n1": "patents",
+      "n2": "arms_exports",
+      "r": -0.7632,
+      "p": 0.0,
+      "n": 42
+    },
+    {
+      "n1": "gold",
+      "n2": "silver",
+      "r": 0.8539,
+      "p": 0.0,
+      "n": 25
+    },
+    {
+      "n1": "oil",
+      "n2": "copper",
+      "r": 0.83,
+      "p": 0.0,
+      "n": 25
+    },
+    {
+      "n1": "oil",
+      "n2": "trade_pct_gdp",
+      "r": 0.8734,
+      "p": 0.0,
+      "n": 24
+    },
+    {
+      "n1": "oil",
+      "n2": "energy_use",
+      "r": 0.8605,
+      "p": 0.0,
+      "n": 23
+    },
+    {
+      "n1": "life_expectancy",
+      "n2": "death_rate",
+      "r": -0.9676,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "n1": "life_expectancy",
+      "n2": "school_enrollment",
+      "r": 0.6521,
+      "p": 0.0,
+      "n": 55
+    },
+    {
+      "n1": "infant_mortality",
+      "n2": "internet_users",
+      "r": 0.8865,
+      "p": 0.0,
+      "n": 20
+    },
+    {
+      "n1": "infant_mortality",
+      "n2": "school_enrollment",
+      "r": -0.7737,
+      "p": 0.0,
+      "n": 35
+    }
+  ],
+  "n_variables": 33
+}
