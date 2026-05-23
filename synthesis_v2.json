@@ -1,0 +1,15 @@
+{
+  "drake_equation_transposon": {
+    "L_in_cell_seconds": 2.3564,
+    "detection_probability": 2.308e-05,
+    "expected_active_civilizations": 120000.0,
+    "fermi_solved": false
+  },
+  "heat_signature_pct": 1.6771,
+  "next_steps": [
+    "NASA exoplanet CO2 signatures",
+    "SDSS dark matter vs habitable zones",
+    "Psychiatric hospitalization data",
+    "Kp effect on DNA methylation (wet lab)"
+  ]
+}
