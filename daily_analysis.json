@@ -1,0 +1,25 @@
+{
+  "fx_results": {
+    "EUR/USD": {
+      "r": -0.0035,
+      "p_storm": 0.9848,
+      "p_perm": 0.984
+    },
+    "JPY/USD": {
+      "r": 0.0096,
+      "p_storm": 0.7337,
+      "p_perm": 0.66
+    },
+    "GBP/USD": {
+      "r": 0.0126,
+      "p_storm": 0.5147,
+      "p_perm": 0.373
+    },
+    "CHF/USD": {
+      "r": 0.0006,
+      "p_storm": 0.5875,
+      "p_perm": 0.475
+    }
+  },
+  "extreme_storms_n": 508
+}
