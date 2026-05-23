@@ -1,0 +1,20 @@
+{
+  "cancer_biology_applied": true,
+  "growth_model": "Gompertz best fit for tumor growth",
+  "doubling_time_population_years": 49.0,
+  "oncogenes_analogs": [
+    "capitalism",
+    "AI",
+    "fossil fuels",
+    "medicine"
+  ],
+  "suppressors_analogs": [
+    "UN",
+    "religion",
+    "ecology",
+    "education"
+  ],
+  "tumor_microenvironment": "geopolitics",
+  "immunotherapy_analog": "restore Kp/melatonin channel",
+  "urban_rural_kp_test": "tested via UCDP coordinate precision"
+}
