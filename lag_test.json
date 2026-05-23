@@ -1,0 +1,6 @@
+{
+  "ar1_lag_m1_real": false,
+  "ar1_lag_m2_real": false,
+  "granger_sn_war": true,
+  "granger_war_sn_artifact": false
+}
