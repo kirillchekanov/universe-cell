@@ -1,0 +1,11 @@
+{
+  "malignancy_index": 7.5,
+  "max_possible": 10,
+  "stage": "carcinoma_in_situ",
+  "missing_for_malignancy": [
+    "space_colonization",
+    "full_host_autonomy"
+  ],
+  "next_critical_mutation": "Mars colonization ~2040-2050",
+  "fermi_paradox_connection": "immune system kills civilizations before metastasis"
+}
