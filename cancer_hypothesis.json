@@ -1,0 +1,13 @@
+{
+  "pop_growth_model": {
+    "linear_r2": 0.9991,
+    "exp_r2": 0.9891,
+    "quadratic_r2": 0.9996
+  },
+  "co2_growth": {
+    "exp_r2": 0.8799,
+    "acceleration_r": 0.6748
+  },
+  "hallmarks_present": 9,
+  "verdict": "benign-like tumor with metastasis potential"
+}
