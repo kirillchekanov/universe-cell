@@ -1,0 +1,12 @@
+{
+  "hypothesis": "Solar activity as galactic immune system",
+  "evidence": {
+    "daily_kp_suppression": "\u221223% violence during storms",
+    "14day_window": "\u221249% suppression",
+    "middle_east_14d": "\u221283% suppression",
+    "annual_sn_conflict": "r=+0.606 (more sun = more structured conflict?)",
+    "paradox": "annual positive but daily negative \u2014 two timescales"
+  },
+  "immune_analogs": 7,
+  "verdict": "data compatible with hypothesis, not proof of teleology"
+}
