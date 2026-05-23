@@ -11,203 +11,203 @@
       "name": "bse",
       "r": 0.5437,
       "p": 0.0028,
-      "p_perm": 0.002,
+      "p_perm": 0.001,
       "n": 28
     },
     {
       "name": "unemployment",
       "r": -0.4832,
       "p": 0.0038,
-      "p_perm": 0.004,
+      "p_perm": 0.0,
       "n": 34
     },
     {
       "name": "infant_mortality",
       "r": 0.3709,
       "p": 0.0283,
-      "p_perm": 0.027,
+      "p_perm": 0.03,
       "n": 35
     },
     {
       "name": "bonds_10y",
       "r": 0.289,
       "p": 0.0743,
-      "p_perm": 0.065,
+      "p_perm": 0.06,
       "n": 39
     },
     {
       "name": "food_index",
       "r": -0.2313,
       "p": 0.0754,
-      "p_perm": 0.072,
+      "p_perm": 0.073,
       "n": 60
     },
     {
       "name": "tsx",
       "r": 0.2873,
       "p": 0.0761,
-      "p_perm": 0.084,
+      "p_perm": 0.079,
       "n": 39
     },
     {
       "name": "patents",
       "r": 0.2699,
       "p": 0.0838,
-      "p_perm": 0.078,
+      "p_perm": 0.094,
       "n": 42
     },
     {
       "name": "gold",
       "r": 0.3464,
       "p": 0.0973,
-      "p_perm": 0.101,
+      "p_perm": 0.1,
       "n": 24
     },
     {
       "name": "population",
       "r": -0.1982,
       "p": 0.1134,
-      "p_perm": 0.106,
+      "p_perm": 0.13,
       "n": 65
     },
     {
       "name": "shanghai",
       "r": -0.3057,
       "p": 0.1136,
-      "p_perm": 0.106,
+      "p_perm": 0.109,
       "n": 28
     },
     {
       "name": "mobile_subs",
       "r": 0.2217,
       "p": 0.1691,
-      "p_perm": 0.165,
+      "p_perm": 0.162,
       "n": 40
     },
     {
       "name": "dollar_index",
       "r": 0.1931,
       "p": 0.2327,
-      "p_perm": 0.248,
+      "p_perm": 0.238,
       "n": 40
     },
     {
       "name": "gdp_per_capita",
       "r": 0.112,
       "p": 0.3744,
-      "p_perm": 0.363,
+      "p_perm": 0.38,
       "n": 65
     },
     {
       "name": "silver",
       "r": 0.1534,
       "p": 0.4743,
-      "p_perm": 0.503,
+      "p_perm": 0.464,
       "n": 24
     },
     {
       "name": "arms_exports",
       "r": 0.0849,
       "p": 0.5012,
-      "p_perm": 0.498,
+      "p_perm": 0.509,
       "n": 65
     },
     {
       "name": "military_spending",
       "r": 0.075,
       "p": 0.5528,
-      "p_perm": 0.587,
+      "p_perm": 0.55,
       "n": 65
     },
     {
       "name": "trade_pct_gdp",
       "r": -0.0741,
       "p": 0.591,
-      "p_perm": 0.564,
+      "p_perm": 0.585,
       "n": 55
     },
     {
       "name": "birth_rate",
       "r": -0.0656,
       "p": 0.6037,
-      "p_perm": 0.613,
+      "p_perm": 0.591,
       "n": 65
     },
     {
       "name": "ibovespa",
       "r": -0.0725,
       "p": 0.6935,
-      "p_perm": 0.689,
+      "p_perm": 0.706,
       "n": 32
     },
     {
       "name": "co2",
       "r": 0.0475,
       "p": 0.7074,
-      "p_perm": 0.736,
+      "p_perm": 0.685,
       "n": 65
     },
     {
       "name": "internet_users",
       "r": 0.0883,
       "p": 0.7112,
-      "p_perm": 0.698,
+      "p_perm": 0.677,
       "n": 20
     },
     {
       "name": "energy_use",
       "r": 0.0631,
       "p": 0.7228,
-      "p_perm": 0.697,
+      "p_perm": 0.725,
       "n": 34
     },
     {
       "name": "oil",
       "r": 0.0729,
       "p": 0.7351,
-      "p_perm": 0.72,
+      "p_perm": 0.744,
       "n": 24
     },
     {
       "name": "copper",
       "r": -0.0395,
       "p": 0.8547,
-      "p_perm": 0.848,
+      "p_perm": 0.854,
       "n": 24
     },
     {
       "name": "nuclear_warheads",
       "r": 0.0424,
       "p": 0.8761,
-      "p_perm": 0.884,
+      "p_perm": 0.882,
       "n": 16
     },
     {
       "name": "asx",
       "r": -0.023,
       "p": 0.9006,
-      "p_perm": 0.902,
+      "p_perm": 0.904,
       "n": 32
     },
     {
       "name": "death_rate",
       "r": -0.0146,
       "p": 0.908,
-      "p_perm": 0.9,
+      "p_perm": 0.911,
       "n": 65
     },
     {
       "name": "life_expectancy",
       "r": -0.0098,
       "p": 0.9382,
-      "p_perm": 0.94,
+      "p_perm": 0.933,
       "n": 65
     },
     {
       "name": "school_enrollment",
       "r": 0.0052,
       "p": 0.97,
-      "p_perm": 0.968,
+      "p_perm": 0.973,
       "n": 55
     }
   ],
