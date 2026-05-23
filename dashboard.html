@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Universe as Cell — Solar Activity & Conflict Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:#07080F; color:#e0e0e0; font-family:'SF Mono',monospace; padding:20px; }
+h1 { color:#27EFB5; font-size:1.4em; margin-bottom:4px; }
+.subtitle { color:#666; font-size:0.8em; margin-bottom:24px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:16px; margin-bottom:20px; }
+.card { background:#0d0d1a; border:1px solid #1a1a3e; border-radius:10px; padding:18px; }
+.card h3 { color:#888; font-size:0.75em; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; }
+.big-number { font-size:2.5em; font-weight:bold; margin-bottom:4px; }
+.label { font-size:0.8em; color:#666; }
+.green { color:#27EFB5; }
+.yellow { color:#EF9F27; }
+.red { color:#EF4444; }
+.blue { color:#6B5BDB; }
+.bar-container { margin-top:12px; }
+.bar-row { display:flex; align-items:center; margin:6px 0; font-size:0.78em; }
+.bar-label { width:130px; color:#aaa; flex-shrink:0; }
+.bar-track { flex:1; height:14px; background:#1a1a2e; border-radius:7px; overflow:hidden; }
+.bar-fill { height:100%; border-radius:7px; transition:width 0.5s; }
+.bar-val { width:60px; text-align:right; color:#ccc; font-size:0.9em; }
+.chart-container { position:relative; height:200px; margin-top:12px; }
+.finding { background:#0a0a1a; border-left:3px solid #27EFB5; padding:10px 14px;
+           margin:8px 0; border-radius:0 6px 6px 0; font-size:0.82em; line-height:1.6; }
+.finding.yellow { border-color:#EF9F27; }
+.finding.red { border-color:#EF4444; }
+.status-badge { display:inline-block; padding:3px 10px; border-radius:12px;
+                font-size:0.75em; font-weight:bold; margin-left:8px; }
+.badge-calm { background:#1a3a2a; color:#27EFB5; }
+.badge-storm { background:#3a1a1a; color:#EF4444; }
+.badge-moderate { background:#2a2a1a; color:#EF9F27; }
+footer { text-align:center; color:#333; font-size:0.75em; margin-top:24px; padding-top:16px;
+         border-top:1px solid #1a1a2e; }
+</style>
+</head>
+<body>
+
+<h1>🌌 Universe as Cell</h1>
+<p class="subtitle">Solar Activity & Human Conflict Monitor · github.com/kirillchekanov/universe-cell</p>
+
+<div class="grid">
+
+  <!-- ТЕКУЩИЙ KP -->
+  <div class="card">
+    <h3>Текущий Kp индекс</h3>
+    <div class="big-number yellow" id="kp-now">1.88</div>
+    <div class="label">2026-05-17 · GFZ Potsdam
+      <span class="status-badge badge-calm" id="kp-badge">ТИХО</span>
+    </div>
+    <div class="bar-container">
+      <div class="bar-row">
+        <span class="bar-label">Тихо (&lt;2)</span>
+        <div class="bar-track"><div class="bar-fill green" style="width:100%"></div></div>
+        <span class="bar-val green">−23%</span>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">Нормально (2-4)</span>
+        <div class="bar-track"><div class="bar-fill yellow" style="width:60%"></div></div>
+        <span class="bar-val yellow">−5%</span>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">Буря (≥5)</span>
+        <div class="bar-track"><div class="bar-fill red" style="width:30%"></div></div>
+        <span class="bar-val red">−23%</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 14-ДНЕВНОЕ СРЕДНЕЕ -->
+  <div class="card">
+    <h3>Kp 14д среднее · Прогноз</h3>
+    <div class="big-number yellow">4.05</div>
+    <div class="label">Повышенная активность
+      <span class="status-badge badge-moderate">УМЕРЕННО</span>
+    </div>
+    <div class="finding yellow" style="margin-top:12px">
+      📊 Прогноз: <strong>−15%</strong> организованного насилия<br>
+      от базового уровня (32.6 инцидентов/день)
+    </div>
+    <div class="finding" style="margin-top:6px; border-color:#6B5BDB">
+      🌍 Ближний Восток: −83% при 14д бурях<br>
+      🌏 Азия: −59% · 🌎 Америки: −45%
+    </div>
+  </div>
+
+  <!-- ГЛАВНЫЙ РЕЗУЛЬТАТ -->
+  <div class="card">
+    <h3>Главный результат · UCDP GED 25.1</h3>
+    <div style="font-size:0.85em; line-height:1.8; margin-top:8px">
+      <div style="display:flex; justify-content:space-between; padding:4px 0; border-bottom:1px solid #1a1a2e">
+        <span style="color:#aaa">Условие</span>
+        <span style="color:#aaa">Буря vs Тихо</span>
+        <span style="color:#aaa">Эффект</span>
+      </div>
+      <div style="display:flex; justify-content:space-between; padding:4px 0">
+        <span>Все дни (N=13142)</span>
+        <span>25 vs 33/день</span>
+        <span class="green">−23%</span>
+      </div>
+      <div style="display:flex; justify-content:space-between; padding:4px 0">
+        <span>Зима</span>
+        <span>22 vs 32/день</span>
+        <span class="green">−30%</span>
+      </div>
+      <div style="display:flex; justify-content:space-between; padding:4px 0">
+        <span>14д окно</span>
+        <span>17 vs 33/день</span>
+        <span class="green">−49%</span>
+      </div>
+      <div style="display:flex; justify-content:space-between; padding:4px 0">
+        <span>БВ 14д окно</span>
+        <span>2 vs 12/день</span>
+        <span class="green">−83%</span>
+      </div>
+    </div>
+    <div style="margin-top:8px; font-size:0.7em; color:#444">
+      p=0.000 · p_perm=0.000 · Лаги 0-14 устойчивы
+    </div>
+  </div>
+
+  <!-- МЕХАНИЗМ -->
+  <div class="card">
+    <h3>Гипотеза механизма</h3>
+    <div style="font-size:0.85em; margin-top:8px; line-height:2">
+      <div style="text-align:center; padding:8px; background:#0a0a1a; border-radius:8px">
+        <span class="yellow">Геомагнитная буря (Kp↑)</span><br>
+        <span style="color:#444">↓</span><br>
+        <span style="color:#6B5BDB">Серотонин / Мелатонин</span><br>
+        <span style="color:#444">↓</span><br>
+        <span style="color:#888">Снижение импульсивности</span><br>
+        <span style="color:#444">↓</span><br>
+        <span class="green">Меньше организованного насилия</span>
+      </div>
+    </div>
+    <div style="margin-top:10px; font-size:0.75em">
+      <div class="finding">✓ Зимой сильнее (серотонин ниже)</div>
+      <div class="finding">✓ Не в тропиках (поле слабее)</div>
+      <div class="finding red">✗ Одностороннее насилие — обратный знак</div>
+    </div>
+  </div>
+
+  <!-- РЕГИОНАЛЬНАЯ КАРТА -->
+  <div class="card">
+    <h3>Региональный эффект (14д окно)</h3>
+    <div class="bar-container" style="margin-top:8px">
+      <div class="bar-row">
+        <span class="bar-label">Ближний Восток</span>
+        <div class="bar-track"><div class="bar-fill green" style="width:83%"></div></div>
+        <span class="bar-val green">−83%</span>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">Азия</span>
+        <div class="bar-track"><div class="bar-fill green" style="width:59%"></div></div>
+        <span class="bar-val green">−59%</span>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">Америки</span>
+        <div class="bar-track"><div class="bar-fill green" style="width:45%"></div></div>
+        <span class="bar-val green">−45%</span>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">Глобально</span>
+        <div class="bar-track"><div class="bar-fill yellow" style="width:23%"></div></div>
+        <span class="bar-val yellow">−23%</span>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">Европа</span>
+        <div class="bar-track"><div class="bar-fill red" style="width:78%"></div></div>
+        <span class="bar-val red">+78%</span>
+      </div>
+      <div class="bar-row">
+        <span class="bar-label">Африка</span>
+        <div class="bar-track"><div class="bar-fill" style="width:21%;background:#555"></div></div>
+        <span class="bar-val" style="color:#555">+21%</span>
+      </div>
+    </div>
+    <div style="font-size:0.7em; color:#444; margin-top:8px">
+      Европа: аномалия — Украина 65% европейских инцидентов
+    </div>
+  </div>
+
+  <!-- ВАЛИДАЦИЯ -->
+  <div class="card">
+    <h3>Валидация модели 2023-2024</h3>
+    <div style="font-size:0.85em; margin-top:8px">
+      <div style="display:flex; justify-content:space-between; padding:4px 0; border-bottom:1px solid #1a1a2e">
+        <span style="color:#aaa">Год</span>
+        <span style="color:#aaa">Факт</span>
+        <span style="color:#aaa">Прогноз</span>
+        <span style="color:#aaa">Ошибка</span>
+      </div>
+      <div style="display:flex; justify-content:space-between; padding:6px 0">
+        <span>2023 (SN=159)</span>
+        <span>26,486</span>
+        <span>24,660</span>
+        <span class="green">+6.9% ✓</span>
+      </div>
+      <div style="display:flex; justify-content:space-between; padding:6px 0">
+        <span>2024 (SN=181)</span>
+        <span>28,816</span>
+        <span>26,315</span>
+        <span class="green">+8.7% ✓</span>
+      </div>
+      <div style="display:flex; justify-content:space-between; padding:6px 0; border-top:1px solid #1a1a2e; margin-top:4px">
+        <span style="color:#27EFB5">MAE</span>
+        <span></span>
+        <span></span>
+        <span class="green">7.8% ✓</span>
+      </div>
+    </div>
+    <div class="finding" style="margin-top:10px">
+      📈 Прогноз 2025-2027: рост конфликтов<br>
+      по мере спада солнечного цикла 25
+    </div>
+  </div>
+
+</div>
+
+<!-- ТАБЛИЦА ВСЕХ РЕЗУЛЬТАТОВ -->
+<div class="card" style="margin-bottom:16px">
+  <h3>Все подтверждённые сигналы</h3>
+  <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:12px; margin-top:12px">
+    <div>
+      <div class="finding">
+        <strong class="green">✓✓ Kp → насилие (дневной)</strong><br>
+        r=−0.091 · p=0.000 · N=13,142 дней<br>
+        <span style="color:#666">Самый надёжный результат</span>
+      </div>
+      <div class="finding">
+        <strong class="green">✓✓ SN → волатильность рынков</strong><br>
+        3/4 рынка · S&P500 r=−0.051 · p=0.000<br>
+        <span style="color:#666">detrended · 90 лет данных</span>
+      </div>
+      <div class="finding">
+        <strong class="green">✓✓ SN → безработица</strong><br>
+        r=−0.483 · p=0.004 · лаг+1<br>
+        <span style="color:#666">N=34 года · выдержал контроль</span>
+      </div>
+    </div>
+    <div>
+      <div class="finding yellow">
+        <strong class="yellow">✓ SN → госконфликты жертвы</strong><br>
+        r=+0.556 · p=0.0004 · N=36 лет<br>
+        <span style="color:#666">частично артефакт репортинга</span>
+      </div>
+      <div class="finding yellow">
+        <strong class="yellow">✓ Kp → VIX (страх рынка)</strong><br>
+        бури=18.96 · тихо=20.29 · p=0.000<br>
+        <span style="color:#666">но только 1/8 десятилетий</span>
+      </div>
+      <div class="finding yellow">
+        <strong class="yellow">✓ SN → ДТП смертность</strong><br>
+        r=−0.534 · p=0.015 · N=20 лет<br>
+        <span style="color:#666">новый результат · нужна проверка</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  Universe as Cell · Kirill Chekanov · 2026<br>
+  Data: UCDP GED 25.1 · GFZ Kp · SILSO · Yahoo Finance · World Bank<br>
+  github.com/kirillchekanov/universe-cell
+</footer>
+
+</body>
+</html>
