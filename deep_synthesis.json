@@ -1,0 +1,16 @@
+{
+  "fermi_via_transposon": {
+    "P_successful_insertion": 2e-06,
+    "analogy": "1 of 500000 LINE-1 copies inserts successfully"
+  },
+  "heat_signature_pct": 1.68,
+  "jwst_detection_range_ly": 50,
+  "cosmic_dna_analogy": {
+    "coding_dna_pct": 1.5,
+    "visible_matter_pct": 5.0,
+    "noncoding_dna_pct": 98.5,
+    "dark_content_pct": 95.0,
+    "ratio_coding": 0.0152,
+    "ratio_visible": 0.0526
+  }
+}
