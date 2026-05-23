@@ -1,0 +1,16 @@
+{
+  "theory": "Great Filter = Galactic Immune Response",
+  "current_stage": "carcinoma_in_situ_7.5_of_10",
+  "critical_window": "2040-2060",
+  "outcomes": {
+    "A_apoptosis": "self-destruction (most civilizations)",
+    "B_metastasis": "space colonization (few)",
+    "C_symbiosis": "equilibrium with biosphere (unknown)"
+  },
+  "fermi_explanation": "immune system prevents most civilizations from metastasizing",
+  "our_data_support": {
+    "kp_suppression": "-23 to -83pct violence",
+    "granger_sn_war": "p=0.01 lag 2-3 years",
+    "logistic_curve": "peak 1999 growth slowing"
+  }
+}
