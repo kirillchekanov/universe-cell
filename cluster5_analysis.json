@@ -1,0 +1,156 @@
+{
+  "members": [
+    "sunspots",
+    "kp_annual",
+    "sp500_return",
+    "sp500_vol",
+    "sp500_vix",
+    "ucdp_incidents",
+    "ucdp_gov",
+    "hang_seng",
+    "shanghai",
+    "events_geopol"
+  ],
+  "significant_pairs": [
+    {
+      "v1": "sunspots",
+      "v2": "hang_seng",
+      "r": -0.6587,
+      "p": 0.0,
+      "n": 38
+    },
+    {
+      "v1": "sp500_vol",
+      "v2": "sp500_vix",
+      "r": 0.9232,
+      "p": 0.0,
+      "n": 36
+    },
+    {
+      "v1": "ucdp_incidents",
+      "v2": "ucdp_gov",
+      "r": 0.9671,
+      "p": 0.0,
+      "n": 36
+    },
+    {
+      "v1": "sunspots",
+      "v2": "ucdp_incidents",
+      "r": 0.6058,
+      "p": 0.0001,
+      "n": 36
+    },
+    {
+      "v1": "kp_annual",
+      "v2": "hang_seng",
+      "r": -0.5714,
+      "p": 0.0001,
+      "n": 39
+    },
+    {
+      "v1": "sunspots",
+      "v2": "kp_annual",
+      "r": 0.4386,
+      "p": 0.0003,
+      "n": 65
+    },
+    {
+      "v1": "sunspots",
+      "v2": "events_geopol",
+      "r": 0.456,
+      "p": 0.001,
+      "n": 49
+    },
+    {
+      "v1": "sunspots",
+      "v2": "ucdp_gov",
+      "r": 0.52,
+      "p": 0.0012,
+      "n": 36
+    },
+    {
+      "v1": "sp500_vol",
+      "v2": "ucdp_incidents",
+      "r": -0.4865,
+      "p": 0.0026,
+      "n": 36
+    },
+    {
+      "v1": "kp_annual",
+      "v2": "sp500_vol",
+      "r": -0.2969,
+      "p": 0.0037,
+      "n": 94
+    },
+    {
+      "v1": "sp500_vix",
+      "v2": "ucdp_incidents",
+      "r": -0.4747,
+      "p": 0.004,
+      "n": 35
+    },
+    {
+      "v1": "hang_seng",
+      "v2": "shanghai",
+      "r": 0.515,
+      "p": 0.0043,
+      "n": 29
+    },
+    {
+      "v1": "sp500_vol",
+      "v2": "ucdp_gov",
+      "r": -0.4501,
+      "p": 0.0059,
+      "n": 36
+    },
+    {
+      "v1": "sp500_vix",
+      "v2": "ucdp_gov",
+      "r": -0.456,
+      "p": 0.0059,
+      "n": 35
+    },
+    {
+      "v1": "kp_annual",
+      "v2": "ucdp_incidents",
+      "r": 0.447,
+      "p": 0.0063,
+      "n": 36
+    },
+    {
+      "v1": "sp500_return",
+      "v2": "sp500_vol",
+      "r": -0.2525,
+      "p": 0.0121,
+      "n": 98
+    },
+    {
+      "v1": "ucdp_incidents",
+      "v2": "hang_seng",
+      "r": -0.3704,
+      "p": 0.0262,
+      "n": 36
+    },
+    {
+      "v1": "kp_annual",
+      "v2": "sp500_vix",
+      "r": -0.3138,
+      "p": 0.0586,
+      "n": 37
+    },
+    {
+      "v1": "sp500_return",
+      "v2": "sp500_vix",
+      "r": -0.3171,
+      "p": 0.0595,
+      "n": 36
+    },
+    {
+      "v1": "kp_annual",
+      "v2": "ucdp_gov",
+      "r": 0.3139,
+      "p": 0.0623,
+      "n": 36
+    }
+  ]
+}
