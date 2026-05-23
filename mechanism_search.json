@@ -1,0 +1,8 @@
+{
+  "seasonal_effect": "tested",
+  "latitude_effect": "tested",
+  "escalation_kp": {
+    "esc_mean": 3.744,
+    "calm_mean": 3.572
+  }
+}
