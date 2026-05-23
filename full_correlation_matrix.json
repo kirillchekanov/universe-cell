@@ -1,0 +1,400 @@
+{
+  "variables": [
+    "arms_exports",
+    "asx",
+    "birth_rate",
+    "bonds_10y",
+    "bse",
+    "co2",
+    "copper",
+    "death_rate",
+    "dollar_index",
+    "energy_use",
+    "events_econom",
+    "events_epidem",
+    "events_geopol",
+    "events_natura",
+    "food_index",
+    "gdp_per_capita",
+    "gold",
+    "hang_seng",
+    "ibovespa",
+    "infant_mortality",
+    "internet_users",
+    "kp_annual",
+    "life_expectancy",
+    "military_spending",
+    "mobile_subs",
+    "nuclear_warheads",
+    "oil",
+    "patents",
+    "population",
+    "school_enrollment",
+    "shanghai",
+    "silver",
+    "sp500_return",
+    "sp500_vix",
+    "sp500_vol",
+    "sunspots",
+    "trade_pct_gdp",
+    "tsx",
+    "ucdp_deaths",
+    "ucdp_gov",
+    "ucdp_incidents",
+    "unemployment"
+  ],
+  "n_vars": 42,
+  "n_significant_pairs": 280,
+  "top_correlations": [
+    {
+      "v1": "death_rate",
+      "v2": "life_expectancy",
+      "r": -0.9676,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "ucdp_gov",
+      "v2": "ucdp_incidents",
+      "r": 0.9671,
+      "p": 0.0,
+      "n": 36
+    },
+    {
+      "v1": "co2",
+      "v2": "death_rate",
+      "r": 0.8487,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "sp500_vix",
+      "v2": "sp500_vol",
+      "r": 0.9232,
+      "p": 0.0,
+      "n": 36
+    },
+    {
+      "v1": "co2",
+      "v2": "life_expectancy",
+      "r": -0.7974,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "death_rate",
+      "v2": "population",
+      "r": 0.7951,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "co2",
+      "v2": "gdp_per_capita",
+      "r": 0.7942,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "life_expectancy",
+      "v2": "population",
+      "r": -0.7936,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "co2",
+      "v2": "military_spending",
+      "r": 0.7923,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "arms_exports",
+      "v2": "food_index",
+      "r": -0.7876,
+      "p": 0.0,
+      "n": 60
+    },
+    {
+      "v1": "gdp_per_capita",
+      "v2": "unemployment",
+      "r": -0.8676,
+      "p": 0.0,
+      "n": 34
+    },
+    {
+      "v1": "co2",
+      "v2": "population",
+      "r": 0.6899,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "infant_mortality",
+      "v2": "patents",
+      "r": -0.8447,
+      "p": 0.0,
+      "n": 32
+    },
+    {
+      "v1": "death_rate",
+      "v2": "school_enrollment",
+      "r": -0.7029,
+      "p": 0.0,
+      "n": 55
+    },
+    {
+      "v1": "bse",
+      "v2": "infant_mortality",
+      "r": 0.8646,
+      "p": 0.0,
+      "n": 28
+    },
+    {
+      "v1": "arms_exports",
+      "v2": "patents",
+      "r": -0.7632,
+      "p": 0.0,
+      "n": 42
+    },
+    {
+      "v1": "bse",
+      "v2": "co2",
+      "r": 0.852,
+      "p": 0.0,
+      "n": 29
+    },
+    {
+      "v1": "arms_exports",
+      "v2": "population",
+      "r": -0.6374,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "ibovespa",
+      "v2": "tsx",
+      "r": 0.8013,
+      "p": 0.0,
+      "n": 34
+    },
+    {
+      "v1": "oil",
+      "v2": "trade_pct_gdp",
+      "r": 0.8734,
+      "p": 0.0,
+      "n": 24
+    },
+    {
+      "v1": "co2",
+      "v2": "school_enrollment",
+      "r": -0.663,
+      "p": 0.0,
+      "n": 55
+    },
+    {
+      "v1": "co2",
+      "v2": "unemployment",
+      "r": -0.7741,
+      "p": 0.0,
+      "n": 35
+    },
+    {
+      "v1": "infant_mortality",
+      "v2": "school_enrollment",
+      "r": -0.7737,
+      "p": 0.0,
+      "n": 35
+    },
+    {
+      "v1": "gold",
+      "v2": "silver",
+      "r": 0.8539,
+      "p": 0.0,
+      "n": 25
+    },
+    {
+      "v1": "death_rate",
+      "v2": "military_spending",
+      "r": 0.6111,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "arms_exports",
+      "v2": "gdp_per_capita",
+      "r": -0.6109,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "life_expectancy",
+      "v2": "school_enrollment",
+      "r": 0.6521,
+      "p": 0.0,
+      "n": 55
+    },
+    {
+      "v1": "arms_exports",
+      "v2": "co2",
+      "r": -0.6098,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "asx",
+      "v2": "tsx",
+      "r": 0.7751,
+      "p": 0.0,
+      "n": 33
+    },
+    {
+      "v1": "gdp_per_capita",
+      "v2": "tsx",
+      "r": 0.7317,
+      "p": 0.0,
+      "n": 39
+    },
+    {
+      "v1": "gdp_per_capita",
+      "v2": "school_enrollment",
+      "r": -0.6413,
+      "p": 0.0,
+      "n": 55
+    },
+    {
+      "v1": "energy_use",
+      "v2": "oil",
+      "r": 0.8605,
+      "p": 0.0,
+      "n": 23
+    },
+    {
+      "v1": "arms_exports",
+      "v2": "infant_mortality",
+      "r": 0.7552,
+      "p": 0.0,
+      "n": 35
+    },
+    {
+      "v1": "infant_mortality",
+      "v2": "internet_users",
+      "r": 0.8865,
+      "p": 0.0,
+      "n": 20
+    },
+    {
+      "v1": "military_spending",
+      "v2": "mobile_subs",
+      "r": 0.7162,
+      "p": 0.0,
+      "n": 40
+    },
+    {
+      "v1": "bse",
+      "v2": "mobile_subs",
+      "r": -0.8448,
+      "p": 0.0,
+      "n": 24
+    },
+    {
+      "v1": "hang_seng",
+      "v2": "population",
+      "r": 0.7292,
+      "p": 0.0,
+      "n": 38
+    },
+    {
+      "v1": "copper",
+      "v2": "oil",
+      "r": 0.83,
+      "p": 0.0,
+      "n": 25
+    },
+    {
+      "v1": "arms_exports",
+      "v2": "death_rate",
+      "r": -0.5854,
+      "p": 0.0,
+      "n": 65
+    },
+    {
+      "v1": "food_index",
+      "v2": "population",
+      "r": 0.6037,
+      "p": 0.0,
+      "n": 60
+    },
+    {
+      "v1": "population",
+      "v2": "tsx",
+      "r": -0.7125,
+      "p": 0.0,
+      "n": 39
+    },
+    {
+      "v1": "bse",
+      "v2": "tsx",
+      "r": 0.7848,
+      "p": 0.0,
+      "n": 29
+    },
+    {
+      "v1": "dollar_index",
+      "v2": "energy_use",
+      "r": -0.74,
+      "p": 1e-06,
+      "n": 34
+    },
+    {
+      "v1": "infant_mortality",
+      "v2": "life_expectancy",
+      "r": -0.7283,
+      "p": 1e-06,
+      "n": 35
+    },
+    {
+      "v1": "arms_exports",
+      "v2": "life_expectancy",
+      "r": 0.5683,
+      "p": 1e-06,
+      "n": 65
+    },
+    {
+      "v1": "food_index",
+      "v2": "trade_pct_gdp",
+      "r": 0.6222,
+      "p": 1e-06,
+      "n": 51
+    },
+    {
+      "v1": "copper",
+      "v2": "energy_use",
+      "r": 0.8275,
+      "p": 1e-06,
+      "n": 23
+    },
+    {
+      "v1": "bse",
+      "v2": "unemployment",
+      "r": -0.7643,
+      "p": 1e-06,
+      "n": 29
+    },
+    {
+      "v1": "bonds_10y",
+      "v2": "bse",
+      "r": 0.7812,
+      "p": 2e-06,
+      "n": 27
+    },
+    {
+      "v1": "birth_rate",
+      "v2": "internet_users",
+      "r": -0.8541,
+      "p": 2e-06,
+      "n": 20
+    }
+  ]
+}
