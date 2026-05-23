@@ -1,0 +1,18 @@
+{
+  "mediation_unemployment": {
+    "sn_ue_r": -0.4832,
+    "ue_ucdp_r": -0.4682,
+    "partial_r": 0.4906
+  },
+  "mediation_temperature": {
+    "sn_temp_r": 0.2708,
+    "temp_ucdp_r": 0.0914,
+    "partial_r": 0.6061
+  },
+  "predictive_model": {
+    "test_r": 0.4337,
+    "test_p": 0.1063,
+    "test_r2": 0.0094
+  },
+  "paradox": "daily: storms->less violence; annual: high SN->more conflicts"
+}
