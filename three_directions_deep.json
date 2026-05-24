@@ -1,0 +1,19 @@
+{
+  "oncostasis_model": {
+    "equilibrium_formula": "N* = K*(1 - k*I/r)",
+    "current_status": "near equilibrium but accelerating"
+  },
+  "psychiatric_meta": {
+    "mean_r": -0.028,
+    "p_meta": 0.8023,
+    "two_mechanisms": [
+      "serotonin (reduces aggression)",
+      "excitation (increases psychosis)"
+    ]
+  },
+  "information_substrate": {
+    "universe_capacity_bits": 2.33e+123,
+    "our_contribution_bits": 1e+23,
+    "years_to_1pct_earth": 254.0
+  }
+}
