@@ -1,0 +1,8 @@
+{
+  "pct_false_positives_slow_ar": 80.9,
+  "pct_false_positives_fast_ar": 12.3,
+  "kp_fd_r": -0.0021,
+  "kp_fd_p": 0.8101,
+  "mars_fd_r": 0.0046,
+  "mars_fd_p": 0.824
+}
