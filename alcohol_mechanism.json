@@ -1,0 +1,17 @@
+{
+  "latitude_effect_r": -0.515,
+  "latitude_effect_p": 0.049,
+  "strongest": {
+    "Iceland": {
+      "r": -0.768,
+      "lat": 65
+    },
+    "Norway": {
+      "r": -0.686,
+      "lat": 60
+    }
+  },
+  "anomaly_sweden": "Systembolaget monopoly neutralizes serotonin signal",
+  "anomaly_nigeria": "possibly drought/economic mechanism not serotonin",
+  "conclusion": "alcohol is best proxy for serotonin pathway latitude-confirmed"
+}
