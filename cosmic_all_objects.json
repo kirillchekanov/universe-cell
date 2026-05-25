@@ -1,0 +1,43 @@
+{
+  "grb_ucdp": {
+    "pct": 12.52
+  },
+  "xflares_ucdp": {
+    "pct": 12.52
+  },
+  "variable_stars": {
+    "Algol": {
+      "r": -0.0037,
+      "p": 0.6699,
+      "period": 2.8673
+    },
+    "Mira": {
+      "r": -0.005,
+      "p": 0.5651,
+      "period": 331.65
+    },
+    "Delta_Cep": {
+      "r": -0.01,
+      "p": 0.2525,
+      "period": 5.3663
+    },
+    "Beta_Lyr": {
+      "r": 0.0013,
+      "p": 0.8772,
+      "period": 12.9414
+    },
+    "RR_Lyr": {
+      "r": -0.0012,
+      "p": 0.8921,
+      "period": 0.5669
+    },
+    "Eta_Car": {
+      "r": 0.0539,
+      "p": 0.0,
+      "period": 2022.7
+    }
+  },
+  "bonferroni_passed": 11,
+  "fdr_passed": 16,
+  "entropy_kp_r": -0.8806
+}
