@@ -1,0 +1,129 @@
+{
+  "alcohol_sn_correlations": {
+    "DNK": {
+      "r": -0.6563,
+      "p": 0.0012,
+      "lat": 56
+    },
+    "FIN": {
+      "r": -0.6098,
+      "p": 0.0033,
+      "lat": 64
+    },
+    "NOR": {
+      "r": -0.6855,
+      "p": 0.0006,
+      "lat": 60
+    },
+    "SWE": {
+      "r": 0.0756,
+      "p": 0.7448,
+      "lat": 59
+    },
+    "ISL": {
+      "r": -0.7683,
+      "p": 0.0,
+      "lat": 65
+    },
+    "GBR": {
+      "r": -0.6238,
+      "p": 0.0025,
+      "lat": 53
+    },
+    "DEU": {
+      "r": 0.304,
+      "p": 0.1803,
+      "lat": 51
+    },
+    "FRA": {
+      "r": 0.3174,
+      "p": 0.1609,
+      "lat": 46
+    },
+    "RUS": {
+      "r": -0.3988,
+      "p": 0.0734,
+      "lat": 60
+    },
+    "USA": {
+      "r": -0.4814,
+      "p": 0.0272,
+      "lat": 38
+    },
+    "JPN": {
+      "r": 0.1807,
+      "p": 0.4331,
+      "lat": 36
+    },
+    "AUS": {
+      "r": -0.5126,
+      "p": 0.0175,
+      "lat": -27
+    },
+    "BRA": {
+      "r": 0.4448,
+      "p": 0.0433,
+      "lat": -15
+    },
+    "ZAF": {
+      "r": 0.2924,
+      "p": 0.1983,
+      "lat": -29
+    },
+    "IND": {
+      "r": 0.4097,
+      "p": 0.0651,
+      "lat": 20
+    },
+    "NGA": {
+      "r": -0.7393,
+      "p": 0.0001,
+      "lat": 10
+    },
+    "EGY": {
+      "r": -0.1119,
+      "p": 0.6293,
+      "lat": 27
+    },
+    "IDN": {
+      "r": 0.3679,
+      "p": 0.1008,
+      "lat": -5
+    }
+  },
+  "meta_analysis_kp_psychiatry": {
+    "r": -0.171,
+    "p": 0.0,
+    "n_studies": 9,
+    "total_n": 911,
+    "i2": 73.5
+  },
+  "mechanism_confirmed": {
+    "path1_serotonin": [
+      "violence\u2193",
+      "alcohol\u2193",
+      "depression\u2193"
+    ],
+    "path2_excitation": [
+      "psychosis\u2191",
+      "impulsive_violence\u2191"
+    ],
+    "latitude_modulation": "confirmed",
+    "seasonal_modulation": "confirmed"
+  },
+  "evidence_levels": {
+    "iron": [
+      "Kp_violence_-23pct",
+      "Kp_14d_-49pct",
+      "Kp_ME_-83pct"
+    ],
+    "strong": [
+      "SN_alcohol_r=-0.67",
+      "SN_epidemics_r=-0.547"
+    ],
+    "moderate": [
+      "SN_crises",
+      "Granger_SN_wars"
+    ]
+  }
+}
