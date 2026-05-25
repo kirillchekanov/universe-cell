@@ -1,6 +1,6 @@
 {
-  "crime_sn": "tested",
-  "health_sn": "tested",
-  "kp_vix_regime": "tested",
-  "kp_by_decade": "tested"
+  "nhtsa_sn_r": 0.0177,
+  "nhtsa_sn_p": 0.9522,
+  "fbi_homicide_trend": "increases in solar minima but COVID confounds 2020",
+  "wavelet": "FFT analysis completed"
 }
