@@ -1,6 +1,13 @@
 {
-  "tested": 0,
+  "total_tested": 0,
   "real_signals": 0,
+  "weak_signals": 0,
   "artifacts": 0,
-  "results": []
+  "results": [],
+  "gold_standard": {
+    "Kp_UCDP": {
+      "r": -0.091,
+      "p": 0.0
+    }
+  }
 }
