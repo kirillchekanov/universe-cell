@@ -1,0 +1,60 @@
+{
+  "aspect_configs_tested": 166,
+  "significant_raw": 64,
+  "significant_bonferroni": 34,
+  "top_configs": [
+    {
+      "config": "Uranus_Neptune_conj",
+      "pct": -64.51,
+      "p": 0.0
+    },
+    {
+      "config": "Uranus_Neptune_sext",
+      "pct": 159.87,
+      "p": 0.0
+    },
+    {
+      "config": "Saturn_Neptune_trine",
+      "pct": 49.75,
+      "p": 0.0
+    },
+    {
+      "config": "Saturn_Uranus_conj",
+      "pct": -75.99,
+      "p": 0.0
+    },
+    {
+      "config": "Jupiter_Saturn_oppos",
+      "pct": -48.83,
+      "p": 0.0
+    },
+    {
+      "config": "Saturn_Neptune_conj",
+      "pct": -50.99,
+      "p": 0.0
+    },
+    {
+      "config": "Saturn_Neptune_oppos",
+      "pct": -43.43,
+      "p": 0.0
+    },
+    {
+      "config": "Jupiter_Saturn_sext",
+      "pct": 34.7,
+      "p": 0.0
+    },
+    {
+      "config": "Saturn_Uranus_oppos",
+      "pct": -32.08,
+      "p": 0.0
+    },
+    {
+      "config": "Saturn_Neptune_sext",
+      "pct": -26.44,
+      "p": 0.0
+    }
+  ],
+  "kp_variability_r": -0.0164,
+  "kp_variability_p": 0.0595,
+  "kp_max_r": 0.0001
+}
