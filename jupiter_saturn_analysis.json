@@ -1,8 +1,10 @@
 {
-  "jupiter_ucdp_partial_r": 0.4428,
-  "jupiter_ucdp_partial_p": 0.0,
-  "kp_ucdp_partial_r": 0.0194,
-  "kp_ucdp_partial_p": 0.0262,
-  "saturn_speed_ucdp_r": -0.202,
-  "saturn_speed_ar1p": 0.0
+  "jupiter_first_diff_r": 0.0004,
+  "jupiter_first_diff_p": 0.9609,
+  "jupiter_first_diff_ar1p": 0.6427,
+  "jupiter_verdict": "artifact",
+  "saturn_first_diff_r": -0.0021,
+  "saturn_first_diff_p": 0.811,
+  "saturn_first_diff_ar1p": 0.597,
+  "saturn_verdict": "artifact"
 }
