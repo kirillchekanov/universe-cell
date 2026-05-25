@@ -1,0 +1,101 @@
+{
+  "harmonics": [
+    {
+      "planet": "Moon",
+      "period": 3285.5000000000005,
+      "r": -0.2891020643410458,
+      "p": 2.200192518773369e-251,
+      "pp": 0.0
+    },
+    {
+      "planet": "Venus",
+      "period": 1010.9230769230769,
+      "r": -0.06645238104690498,
+      "p": 2.4269417918903898e-14,
+      "pp": 0.0
+    },
+    {
+      "planet": "Jupiter",
+      "period": 3285.5000000000005,
+      "r": -0.2891020643410458,
+      "p": 2.200192518773369e-251,
+      "pp": 0.0
+    }
+  ],
+  "ki9_significant_stars": [],
+  "midpoints_significant": [
+    {
+      "country": "Russia",
+      "mp": "\u041c\u0430\u0440\u0441/\u0421\u043e\u043b\u043d\u0446\u0435",
+      "pct": 14.0,
+      "p": 0.0131,
+      "p_fd": 0.8506,
+      "verdict": "\u2713"
+    },
+    {
+      "country": "Israel",
+      "mp": "\u041c\u0430\u0440\u0441/\u0421\u0430\u0442\u0443\u0440\u043d",
+      "pct": -45.2,
+      "p": 0.0,
+      "p_fd": 0.8223,
+      "verdict": "\u2713"
+    },
+    {
+      "country": "Israel",
+      "mp": "\u041c\u0430\u0440\u0441/\u0421\u043e\u043b\u043d\u0446\u0435",
+      "pct": -42.8,
+      "p": 0.0,
+      "p_fd": 0.8592,
+      "verdict": "\u2713"
+    },
+    {
+      "country": "Israel",
+      "mp": "\u0421\u0430\u0442\u0443\u0440\u043d/\u0421\u043e\u043b\u043d\u0446\u0435",
+      "pct": -35.6,
+      "p": 0.0006,
+      "p_fd": 0.6219,
+      "verdict": "\u2713"
+    },
+    {
+      "country": "Syria",
+      "mp": "\u041c\u0430\u0440\u0441/\u0421\u0430\u0442\u0443\u0440\u043d",
+      "pct": -13.9,
+      "p": 0.0012,
+      "p_fd": 0.7052,
+      "verdict": "\u2713"
+    },
+    {
+      "country": "Syria",
+      "mp": "\u041c\u0430\u0440\u0441/\u0421\u043e\u043b\u043d\u0446\u0435",
+      "pct": -31.7,
+      "p": 0.0,
+      "p_fd": 0.6991,
+      "verdict": "\u2713"
+    },
+    {
+      "country": "Syria",
+      "mp": "\u0421\u0430\u0442\u0443\u0440\u043d/\u0421\u043e\u043b\u043d\u0446\u0435",
+      "pct": 49.1,
+      "p": 0.0,
+      "p_fd": 0.7415,
+      "verdict": "\u2713"
+    },
+    {
+      "country": "Ukraine",
+      "mp": "\u041c\u0430\u0440\u0441/\u0421\u043e\u043b\u043d\u0446\u0435",
+      "pct": -29.7,
+      "p": 0.0,
+      "p_fd": 0.7777,
+      "verdict": "\u2713"
+    },
+    {
+      "country": "Ukraine",
+      "mp": "\u0421\u0430\u0442\u0443\u0440\u043d/\u0421\u043e\u043b\u043d\u0446\u0435",
+      "pct": 43.6,
+      "p": 0.0,
+      "p_fd": 0.475,
+      "verdict": "\u2713"
+    }
+  ],
+  "conclusion": "All three methods fail strict tests. Kp remains only validated signal."
+}
