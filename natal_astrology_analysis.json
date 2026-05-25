@@ -1,0 +1,51 @@
+{
+  "natal_charts": [
+    "USA",
+    "Russia",
+    "Iraq",
+    "Israel",
+    "Ukraine",
+    "Germany",
+    "China",
+    "India",
+    "Syria",
+    "Afghanistan"
+  ],
+  "results": [
+    {
+      "country": "Russia",
+      "mars_conj_pct": -7.6,
+      "mars_conj_p": 0.2383
+    },
+    {
+      "country": "Iraq",
+      "mars_conj_pct": -4.8,
+      "mars_conj_p": 0.4208
+    },
+    {
+      "country": "Israel",
+      "mars_conj_pct": -55.6,
+      "mars_conj_p": 0.0012
+    },
+    {
+      "country": "Ukraine",
+      "mars_conj_pct": -5.1,
+      "mars_conj_p": 0.7332
+    },
+    {
+      "country": "India",
+      "mars_conj_pct": 4.6,
+      "mars_conj_p": 0.2637
+    },
+    {
+      "country": "Syria",
+      "mars_conj_pct": -27.2,
+      "mars_conj_p": 0.0002
+    },
+    {
+      "country": "Afghanistan",
+      "mars_conj_pct": 27.7,
+      "mars_conj_p": 0.0
+    }
+  ]
+}
