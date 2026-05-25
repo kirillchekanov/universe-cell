@@ -1,0 +1,118 @@
+{
+  "results": [
+    {
+      "country": "Israel",
+      "asp": "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0446\u0438\u044f",
+      "pct": -56.4,
+      "p": 0.0009,
+      "p_fd": 0.8922,
+      "verdict": "\u2717 \u0410\u0420\u0422\u0415\u0424\u0410\u041a\u0422"
+    },
+    {
+      "country": "Israel",
+      "asp": "\u043e\u043f\u043f\u043e\u0437\u0438\u0446\u0438\u044f",
+      "pct": -23.4,
+      "p": 0.1348,
+      "p_fd": 0.8049,
+      "verdict": "\u2717"
+    },
+    {
+      "country": "Syria",
+      "asp": "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0446\u0438\u044f",
+      "pct": -28.1,
+      "p": 0.0001,
+      "p_fd": 0.8172,
+      "verdict": "\u2717 \u0410\u0420\u0422\u0415\u0424\u0410\u041a\u0422"
+    },
+    {
+      "country": "Syria",
+      "asp": "\u043e\u043f\u043f\u043e\u0437\u0438\u0446\u0438\u044f",
+      "pct": -30.0,
+      "p": 0.0,
+      "p_fd": 0.8983,
+      "verdict": "\u2717 \u0410\u0420\u0422\u0415\u0424\u0410\u041a\u0422"
+    },
+    {
+      "country": "Afghanistan",
+      "asp": "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0446\u0438\u044f",
+      "pct": 30.6,
+      "p": 0.0,
+      "p_fd": 0.914,
+      "verdict": "\u2717 \u0410\u0420\u0422\u0415\u0424\u0410\u041a\u0422"
+    },
+    {
+      "country": "Afghanistan",
+      "asp": "\u043e\u043f\u043f\u043e\u0437\u0438\u0446\u0438\u044f",
+      "pct": 12.2,
+      "p": 0.0502,
+      "p_fd": 0.9385,
+      "verdict": "\u2717"
+    },
+    {
+      "country": "Russia",
+      "asp": "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0446\u0438\u044f",
+      "pct": -8.2,
+      "p": 0.2075,
+      "p_fd": 0.8813,
+      "verdict": "\u2717"
+    },
+    {
+      "country": "Russia",
+      "asp": "\u043e\u043f\u043f\u043e\u0437\u0438\u0446\u0438\u044f",
+      "pct": 12.5,
+      "p": 0.0309,
+      "p_fd": 0.7975,
+      "verdict": "\u2717 \u0410\u0420\u0422\u0415\u0424\u0410\u041a\u0422"
+    },
+    {
+      "country": "Iraq",
+      "asp": "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0446\u0438\u044f",
+      "pct": -4.7,
+      "p": 0.4377,
+      "p_fd": 0.8461,
+      "verdict": "\u2717"
+    },
+    {
+      "country": "Iraq",
+      "asp": "\u043e\u043f\u043f\u043e\u0437\u0438\u0446\u0438\u044f",
+      "pct": 3.1,
+      "p": 0.5556,
+      "p_fd": 0.7368,
+      "verdict": "\u2717"
+    },
+    {
+      "country": "Ukraine",
+      "asp": "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0446\u0438\u044f",
+      "pct": -5.2,
+      "p": 0.7267,
+      "p_fd": 0.947,
+      "verdict": "\u2717"
+    },
+    {
+      "country": "Ukraine",
+      "asp": "\u043e\u043f\u043f\u043e\u0437\u0438\u0446\u0438\u044f",
+      "pct": 20.2,
+      "p": 0.1317,
+      "p_fd": 0.8614,
+      "verdict": "\u2717"
+    },
+    {
+      "country": "India",
+      "asp": "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0446\u0438\u044f",
+      "pct": 4.8,
+      "p": 0.2404,
+      "p_fd": 0.7132,
+      "verdict": "\u2717"
+    },
+    {
+      "country": "India",
+      "asp": "\u043e\u043f\u043f\u043e\u0437\u0438\u0446\u0438\u044f",
+      "pct": -1.8,
+      "p": 0.7046,
+      "p_fd": 0.9708,
+      "verdict": "\u2717"
+    }
+  ],
+  "real": 0,
+  "artifact": 5
+}
