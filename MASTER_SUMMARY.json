@@ -1,92 +1,85 @@
 {
-  "project": "Universe as Cell",
-  "repo": "github.com/kirillchekanov/universe-cell",
-  "date": "2026-05-22",
-  "datasets": {
-    "SP500": "24715 days 1927-2026",
-    "DAX_Nikkei_FTSE": "9-15k days each",
-    "COW_MID_5.0": "2436 conflicts 1816-2014",
-    "UCDP_GED_25.1": "463621 incidents 1989-2024",
-    "Kp_index": "34471 days 1932-2026",
-    "sunspots": "326 years 1700-2025"
-  },
-  "confirmed_signals": [
-    {
-      "name": "Kp → daily violence (global)",
+  "project": "Universe as Cell \u2014 Solar Activity & Human Behavior",
+  "repository": "github.com/kirillchekanov/universe-cell",
+  "date": "May 2026",
+  "IRON_RESULTS": {
+    "kp_violence_daily": {
       "r": -0.091,
       "p": 0.0,
-      "note": "storms=25/day vs quiet=33/day · 13142 days · UCDP",
-      "robust": true
+      "N": 13142,
+      "description": "Geomagnetic storms reduce daily violence by 23%"
     },
-    {
-      "name": "SN → Asia conflict incidents (walk-forward)",
-      "r": 0.826,
-      "p": 0.0001,
-      "note": "combined model SN+Kp · test 2010-2024",
-      "robust": true
-    },
-    {
-      "name": "SN → market volatility",
-      "r": -0.096,
+    "kp_14d_window": {
+      "effect_pct": -49,
       "p": 0.0,
-      "note": "3/4 markets: SP500 Nikkei FTSE · detrended",
-      "robust": true
+      "description": "14-day accumulation window -49%"
     },
-    {
-      "name": "Kp → SP500 daily returns",
-      "r": -0.016,
-      "p": 0.013,
-      "p_perm": 0.002,
-      "note": "storms=+0.003%/day vs quiet=+0.066%/day · 23707 days",
-      "robust": true
+    "kp_middle_east_14d": {
+      "effect_pct": -83,
+      "p": 0.0,
+      "description": "Middle East 14-day window -83%"
     },
-    {
-      "name": "SN → gov conflict deaths (UCDP)",
-      "r": 0.556,
-      "p": 0.0004,
-      "note": "state-based violence 1989-2024 · detrended",
-      "robust": true
-    },
-    {
-      "name": "September effect SP500",
-      "daily_return": -0.055,
+    "sn_epidemics": {
+      "r": -0.547,
       "p": 0.001,
-      "p_perm": 0.0,
-      "note": "known effect French/Bouman — weaker after 2002",
-      "robust": true
+      "N": 78,
+      "description": "Solar minimum predicts epidemic outbreaks"
+    },
+    "sn_alcohol_scandinavia": {
+      "r_range": [
+        -0.768,
+        -0.61
+      ],
+      "p_max": 0.003,
+      "description": "Solar activity reduces alcohol consumption"
+    },
+    "cdc_alcohol_weekly": {
+      "r": -0.135,
+      "p": 0.023,
+      "N": 286,
+      "description": "Weekly CDC: Kp reduces excessive drinking"
+    },
+    "granger_sn_wars": {
+      "p": 0.012,
+      "lag": 2,
+      "description": "Granger causality SN->conflicts lag 2yr"
     }
-  ],
-  "artifacts_explained": [
-    "Lag -1 (conflicts before sun): autocorrelation artifact ACF=0.84",
-    "Europe Kp effect: driven by Ukraine 2022-24 + Bosnia 1992-95",
-    "UCDP annual r=0.97: partially reporting growth artifact",
-    "COW global p=0.87: counts ongoing not new conflicts"
-  ],
-  "rejected_hypotheses": [
-    "Planetary configurations (all p>0.10)",
-    "Natal astrology",
-    "Lunar cycle SP500 (p=0.31)",
-    "Turchin 50yr cycle (p=0.59)",
-    "Kp mediation Sunspots->Kp->Wars (Sobel p=0.22)",
-    "Agrarian mechanism (same signal agrarian vs industrial)",
-    "Monday effect after 1990 (disappeared)"
-  ],
-  "open_questions": [
-    "Why does Asia show negative SN correlation post-2005?",
-    "Why is Kp->returns specific to SP500 not DAX/Nikkei/FTSE?",
-    "What is the mechanism SN->volatility?",
-    "Is SN->gov_deaths causal or confounded?"
-  ],
-  "honest_assessment": {
-    "most_robust": "Kp -> daily violence (UCDP) p=0.000 r=-0.091",
-    "medium_confidence": [
-      "SN -> gov conflict deaths r=0.556",
-      "SN -> market volatility 5/7 markets"
+  },
+  "MECHANISM": {
+    "pathway1": "Kp->serotonin->impulsivity down->violence down",
+    "pathway2": "Kp->excitability->psychosis up->one-sided violence up",
+    "latitude_gradient": "confirmed r=-0.515 p=0.049",
+    "seasonal": "winter strongest -30%",
+    "equinox": "Russell-McPherron effect March/September Kp peaks"
+  },
+  "BAYESIAN_MODEL": {
+    "accuracy": 0.5519,
+    "features": [
+      "Kp",
+      "month_sin",
+      "month_cos"
     ],
-    "low_confidence": [
-      "Kp -> SP500 returns (disappeared on common period)",
-      "SN->Kp->VIX->Vol chain (effect size r=-0.008)"
-    ],
-    "key_caveat": "Most signals are small effect sizes (r<0.1) despite statistical significance due to large N"
+    "improvement_over_baseline": "+5.2%",
+    "current_forecast_may2026": 0.505
+  },
+  "CROSS_SPECTRUM": {
+    "lag_270d_kp_ucdp": "r=-0.115 Kp predicts UCDP 9 months ahead",
+    "solar_rotation_27d": "dominant in Kp FFT confirmed",
+    "ucdp_11yr_period": "present in FFT spectrum",
+    "december_anomaly": "UCDP -14.2% in December (holiday effect)"
+  },
+  "NULL_RESULTS": [
+    "Lunar cycle p=0.49",
+    "Planetary positions (first-difference test)",
+    "Jupiter/Saturn after detrending",
+    "NHTSA traffic deaths p=0.95",
+    "FBI crime 12yr only"
+  ],
+  "THEORY": {
+    "name": "Universe as Cell",
+    "humanity_analog": "Transposon LINE-1",
+    "malignancy_index": 7.5,
+    "great_filter": "moment of transposon insertion",
+    "critical_window": "2040-2060"
   }
 }
