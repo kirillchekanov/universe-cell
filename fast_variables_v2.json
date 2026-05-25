@@ -1,0 +1,7 @@
+{
+  "vix_days": 34471,
+  "lod_days": 23491,
+  "dow_effect_p": 0.684,
+  "season_effect_fd_p": 0.866,
+  "holidays_artifact": true
+}
