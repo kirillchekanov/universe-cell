@@ -1,0 +1,13 @@
+{
+  "solar_rotation_period_days": 27.2753,
+  "kp_acf_27d": 0.6829162065804925,
+  "ucdp_acf_27d": 0.8227153035054622,
+  "bayesian_accuracy": 0.5519,
+  "bayesian_f1": 0.5056,
+  "forecast_may2026": {
+    "kp_14d": 4.05,
+    "p_high_violence": 0.505
+  },
+  "seasonal_kp_ucdp_r": 0.3646,
+  "equinox_kp_peak": "Russell-McPherron effect confirmed"
+}
