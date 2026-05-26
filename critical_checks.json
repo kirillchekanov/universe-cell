@@ -1,0 +1,53 @@
+{
+  "rdd_onset": {
+    "pct": 0.9,
+    "p": 0.5551,
+    "verdict": "NULL"
+  },
+  "rdd_offset": {
+    "pct": -0.7,
+    "p": 0.584,
+    "verdict": "NULL"
+  },
+  "rdd_window3": {
+    "pct": 0.7,
+    "p": 0.4457,
+    "verdict": "NULL"
+  },
+  "size_small": {
+    "wy_r": 0.0005,
+    "wy_p": 0.9516,
+    "verdict": "NULL"
+  },
+  "size_large": {
+    "wy_r": 0.0064,
+    "wy_p": 0.4911,
+    "verdict": "NULL"
+  },
+  "type1_wy": {
+    "r": -0.0118,
+    "p": 0.1785,
+    "verdict": "NULL"
+  },
+  "type2_wy": {
+    "r": -0.0005,
+    "p": 0.9574,
+    "verdict": "NULL"
+  },
+  "type3_wy": {
+    "r": 0.0274,
+    "p": 0.0025,
+    "verdict": "REAL"
+  },
+  "variability_wy": {
+    "acf": 0.8073,
+    "r": -0.002,
+    "p": 0.8204,
+    "verdict": "NULL"
+  },
+  "final": {
+    "n_real": 1,
+    "n_null": 8,
+    "verdict": "\u0421\u043b\u0430\u0431\u044b\u0435 \u043d\u0430\u043c\u0451\u043a\u0438 \u2014 \u0442\u0440\u0435\u0431\u0443\u044e\u0442 \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0439 \u0440\u0435\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438"
+  }
+}
