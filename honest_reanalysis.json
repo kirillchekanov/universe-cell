@@ -1,0 +1,13 @@
+{
+  "original_effect_pct": -23.3,
+  "confounder_identified": "Year \u2014 quiet days cluster 2007-2009 when UCDP was low",
+  "within_year_r": 0.0022,
+  "within_year_p": 0.801737,
+  "within_year_effect_pct": 701.6,
+  "within_month_effect_pct": 1876.8,
+  "ols_kp_beta": 0.0178,
+  "ols_kp_p": 0.802,
+  "14d_within_year_pct": 368.5,
+  "final_verdict": "MAIN RESULT IS CONFOUNDED \u2014 requires major revision",
+  "n_real_out_of_4": 0
+}
